@@ -6,6 +6,7 @@ You know that the property
 ```js
 SOMEARRAY.length
 ```
+
 returns the `length of` SOMEARRAY.
 
 ## 📝 Instructions
