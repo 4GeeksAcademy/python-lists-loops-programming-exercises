@@ -1,10 +1,11 @@
 # `07` Instructions from your teacher:
-Count from 1 to 17 with a `loop` and `print` each number on the console.
+
+```js
+Count from 1 to 17 with a loop and print each number on the console.
+```
 
 💡HINT:
-```js
 You have to loop from 1 to 17.
-```
 
 Expected console result:
 
