@@ -12,4 +12,19 @@ Lets try looping from the end to the beginning.
 
 
 The console output should be something like this:
-![Loop from the top](http://i.imgur.com/ugP1QA4.png)
+```js
+12
+25
+23
+55
+56432
+48
+23
+867543
+8
+654
+47889
+4
+5
+3423
+```
