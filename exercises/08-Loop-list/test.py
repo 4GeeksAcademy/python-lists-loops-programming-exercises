@@ -7,5 +7,5 @@ import pytest
 
 @pytest.mark.it("You have to print the all item from the list")
 def test_loop():
-    for i in my_list:
-        print(i)
+    for num in my_list:
+        print(num)
