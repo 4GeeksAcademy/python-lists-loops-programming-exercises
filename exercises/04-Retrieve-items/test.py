@@ -2,13 +2,13 @@ import io
 import sys
 sys.stdout = buffer = io.StringIO()
 
-from app import arr
+from app import list
 import pytest
 
-@pytest.mark.it('You have to print the 1st element of the array')
+@pytest.mark.it('You have to print the 1st element of the list')
 def test_output():
-    assert arr[0] == 4
+    assert list[0] == 4
 
-@pytest.mark.it('You have to print the 4th element of the array')
+@pytest.mark.it('You have to print the 4th element of the list')
 def test_output_item():
-    assert arr[3] == 43
+    assert list[3] == 43
