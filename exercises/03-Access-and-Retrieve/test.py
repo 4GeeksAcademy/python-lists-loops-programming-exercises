@@ -6,7 +6,7 @@ from app import my_list
 import pytest
 
 
-@pytest.mark.it('Your console have to print the 3rd item from array')
+@pytest.mark.it('Your console have to print the 3rd item from the `list`')
 def test_output_good():
     print(my_list[2])
     captured = buffer.getvalue()
