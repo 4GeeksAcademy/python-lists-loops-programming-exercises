@@ -18,6 +18,3 @@ print("How are you?")
 Use the `print()` function to print `"Hello World"` on the console. Feel free to try other things as well.
 ```
 
-💡 Additional info:
-5 minutes video about the console:
-https://www.youtube.com/watch?v=1RlkftxAo-M
