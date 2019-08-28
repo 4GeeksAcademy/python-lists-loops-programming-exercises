@@ -9,3 +9,8 @@ import pytest
 def test_loop():
     for i in reversed(my_sample_list):
         print(i)
+
+
+@pytest.mark.it("other way to flip list in python")
+def test_print():
+    print(my_sample_list[::-1])

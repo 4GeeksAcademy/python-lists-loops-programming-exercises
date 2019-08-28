@@ -8,7 +8,7 @@ Lets try looping from the end to the beginning.
 
 💡HINT
 1. Remember the loop works like this: https://www.youtube.com/watch?v=TSMzvFwpE_A
-2. The last position of the array will be mySampleArray.length - 1 because arrays start at 0
+2. The last position of the list will be variable_name[-1] because list start at 0
 
 
 The console output should be something like this:

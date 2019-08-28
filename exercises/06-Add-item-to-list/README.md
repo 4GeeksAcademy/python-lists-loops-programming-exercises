@@ -4,9 +4,9 @@ Add 10 random integers to the "arr" list.
 ```
 
 💡Tips:
-You have to import random
-You can use the `random()` function to get random numbers.
-Search on Google how to use random function.
+1. You have to import random( function
+2. Use the `random()` function to get random numbers.
+3. Search on Google how to use random function.
 
 Expected in the console something similar like this:
 ```js
