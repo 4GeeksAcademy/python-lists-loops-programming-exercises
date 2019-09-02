@@ -4,7 +4,7 @@ Add 10 random integers to the "arr" list.
 ```
 
 💡Tips:
-1. You have to import random( function
+1. You have to `import random` function
 2. Use the `random()` function to get random numbers.
 3. Search on Google how to use random function.
 
