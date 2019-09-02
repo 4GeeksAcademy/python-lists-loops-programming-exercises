@@ -2,7 +2,7 @@
 
 The code right now is `printing the first item in the console.` Instead of doing that, print `all the elements` in the list.
 ```js
-You will have to loop through the whole array using a loop.
+You will have to loop through the whole array using a for loop.
 ```
 
 💡HINT

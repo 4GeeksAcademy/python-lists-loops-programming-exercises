@@ -4,8 +4,10 @@
 Count from 1 to 17 with a loop and print each number on the console.
 ```
 
+
 💡HINT:
-You have to loop from 1 to 17.
+1. This how you loop
+`https://www.w3schools.com/python/python_for_loops.asp`
 
 Expected console result:
 ```js
