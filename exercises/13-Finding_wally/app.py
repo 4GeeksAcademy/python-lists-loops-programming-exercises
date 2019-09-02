@@ -7,3 +7,8 @@ for i in range(0, len(people)):
     if people[i] == "Wally":
         position.append(i)
 print(position)
+
+#i thing is the second one
+for i in range(len(people)):
+    if people[i] == "Wally":
+        print(i)
