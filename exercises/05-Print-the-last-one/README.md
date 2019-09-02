@@ -10,6 +10,6 @@ len(name_list) function
 returns the `length of` name_list .
 
 ## 📝 Instructions
-
-1. Create a variable named the_last_one, and assign it the LAST element of my_stupid_list.
-2. Then, print it on the console.
+1. First you have to `import random` function
+2. Create a variable named the_last_one, and assign it the LAST element of my_stupid_list.
+3. Then, print it on the console.
