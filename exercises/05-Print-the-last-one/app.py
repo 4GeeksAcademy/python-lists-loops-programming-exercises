@@ -1,3 +1,4 @@
+#You have to import random function:
 import random
 #Feel happy to write the code below, good luck:
 my_stupid_list = []
