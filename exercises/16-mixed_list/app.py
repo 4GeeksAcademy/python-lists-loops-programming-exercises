@@ -6,3 +6,8 @@ for i in range(len(mix)):
     if mix[i] == i:
         i += 1
     print(type(mix[i]))
+
+
+for i in range(len(mix)):
+    item = mix[i]
+    print(type(item))
