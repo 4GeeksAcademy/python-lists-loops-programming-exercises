@@ -1,9 +1,9 @@
-# `05` Instructions from your teacher:
+# `05` Print the last one
 
 You will never know how many `items` my_stupid_list has because it is being `randomly` generated during runtime.
 
 You know that the property:
-```js
+```py
 len(name_list) function
 ```
 

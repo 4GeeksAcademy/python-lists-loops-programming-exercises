@@ -3,6 +3,9 @@ import sys
 sys.stdout = buffer = io.StringIO()
 
 
-from app import numb
-import pytest
 
+import pytest
+from app import my_list
+
+@pytest.mark.it("Add ten random numbers")
+def test_add_number():

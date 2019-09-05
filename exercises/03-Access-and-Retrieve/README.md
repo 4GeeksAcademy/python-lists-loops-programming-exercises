@@ -1,4 +1,6 @@
- # `03` Instructions from your teacher:
+# `03` Access and retirve
+
+# 📝Instructions from your teacher:
 
 Lists are part of every programming language. They are the way to go when you want to have a "list of elements."
 
