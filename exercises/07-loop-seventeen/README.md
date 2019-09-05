@@ -1,8 +1,8 @@
-# `07` Instructions from your teacher:
+# `07` Loop from 1 to 17
 
-```js
-Count from 1 to 17 with a loop and print each number on the console.
-```
+# 📝Instructions from your teacher:
+1. Count from 1 to 17 with a loop and print each number on the console.
+
 
 
 💡HINT:
@@ -10,7 +10,7 @@ Count from 1 to 17 with a loop and print each number on the console.
 `https://www.w3schools.com/python/python_for_loops.asp`
 
 Expected console result:
-```js
+```py
 1
 2
 3

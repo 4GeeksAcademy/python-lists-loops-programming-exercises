@@ -1,9 +1,9 @@
 #Remember import random function here:
-
+import random
 
 list = [4,5,734,43,45]
 
-#Your code here:
+#The magic is here:
 
 
 print(list)

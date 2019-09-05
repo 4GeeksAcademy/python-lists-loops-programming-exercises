@@ -1,7 +1,8 @@
 # `08` Instructions from your teacher:
 
-The code right now is `printing the first item in the console.` Instead of doing that, print `all the elements` in the list.
-```js
+The code right now is `printing the first item in the console.`
+Instead of doing that, print `all the elements` in the list.
+```py
 You will have to loop through the whole array using a for loop.
 ```
 
@@ -10,7 +11,7 @@ You will have to loop through the whole array using a for loop.
 2. print(my_list[index]);
 
 Expected console result:
-```js
+```py
 232
 32
 1
