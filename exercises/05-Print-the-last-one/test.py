@@ -1,11 +1,16 @@
 import io
 import sys
+import app
+import pytest
+
 sys.stdout = buffer = io.StringIO()
 
+@pytest.mark.it("create and assign the value to the variable the_last_one")
+def test_create_assign():
+    assert app.the_last_one is not None
 
-from app import my_stupid_list
-import pytest
-import random
 
-@pytest.mark.it("assignt the value and print the last one")
-def test_last_one():
+@pytest.mark.it("print in the console the_last_one")
+def test_output():
+    captured = buffer.getvalue()
+    assert str(app.the_last_one) in captured
