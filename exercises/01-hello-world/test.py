@@ -19,3 +19,4 @@ def test_for_function_output(capsys):
 @pytest.mark.it('Your function needs to return True')
 def test_for_function_return(capsys):
     assert my_function() == True
+
