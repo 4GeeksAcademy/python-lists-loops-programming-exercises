@@ -1,6 +1,7 @@
-# `08` Instructions from your teacher:
+# `08` Loop list
 
-The code right now is `printing the first item in the console.`
+# Instructions from your teacher:
+The code right now is printing the first item in the console.
 Instead of doing that, print `all the elements` in the list.
 ```py
 You will have to loop through the whole array using a for loop.

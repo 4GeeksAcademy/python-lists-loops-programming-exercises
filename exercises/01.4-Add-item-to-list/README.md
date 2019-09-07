@@ -1,4 +1,4 @@
-# `06` Add items to the list
+# `01.4` Add items to the list
 
 # 📝Instructions
 1. Add 10 random integers to the "arr" list.

@@ -1,4 +1,4 @@
-# `04` Retrieve items
+# `01.2` Retrieve items
 
 The only way of accessing a particular element in an `list`(in python), is using an index.
 An `index` is an integer number that represents the `position` you want to access in the list.

@@ -1,5 +1,6 @@
-# `10` Instructions from your teacher:
-```js
+# `10` Loop adding two
+
+```py
 This code is `looping` the whole array, `one by one`.
 ```
 
