@@ -1,4 +1,4 @@
-# `07` Loop from 1 to 17
+# `01.5` Loop from 1 to 17
 
 # 📝Instructions from your teacher:
 1. Count from 1 to 17 with a loop and print each number on the console.

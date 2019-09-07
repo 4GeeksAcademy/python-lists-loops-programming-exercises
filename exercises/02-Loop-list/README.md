@@ -1,4 +1,4 @@
-# `08` Loop list
+# `02` Loop list
 
 # Instructions from your teacher:
 The code right now is printing the first item in the console.

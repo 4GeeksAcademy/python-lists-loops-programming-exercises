@@ -1,4 +1,4 @@
-# `09` Instructions from your teacher:
+# `02.1` Instructions from your teacher:
 ```js
 This loop is `looping` the list from beginning to end... increasing one by one.
 ```
