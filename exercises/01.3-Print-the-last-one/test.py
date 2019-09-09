@@ -15,4 +15,4 @@ def test_create_assign():
 @pytest.mark.it("print in the console the_last_one")
 def test_output():
     captured = buffer.getvalue()
-    assert str(app.the_last_one) in captured
+    assert print(app.the_last_one) in captured
