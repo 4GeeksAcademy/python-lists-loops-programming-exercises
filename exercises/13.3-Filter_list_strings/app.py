@@ -8,11 +8,10 @@ def filteringList(word):
     else:
         return False
 
-result = filter(filteringList, names)
-my_names = set(result)
+my_names = list(filter(filteringList, names))
 print(my_names)
 
 
 
-result = [s for s in names if 'am' in s]
-print(result)
+my_names = [s for s in names if 'am' in s]
+print(my_names)
