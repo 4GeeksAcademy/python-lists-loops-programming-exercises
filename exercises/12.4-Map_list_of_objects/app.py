@@ -7,3 +7,17 @@ people = [
 ]
 
 
+from datetime import date
+def calculateAge(birthDate):
+    today = date.today()
+    age = today.year - birthDate.year - ((today.month, today.day) < (birthDate.month, birthDate.day))
+    return age
+
+name_list = list(map(lambda x: "Hello my name is " + str(x["name"]) + " and I am " + calculateAge(date(int(x["birthDate"]))) + " years old", people))
+
+
+print(str(name_list))
+
+
+#revisar esto
+#esta devolviendo los names y un solo parametro the los años

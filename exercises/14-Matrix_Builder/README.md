@@ -8,12 +8,13 @@ hole and it needs some help to rebuild. Create a matrix of random 0's, and 1's b
     This number represents the amount of rows and columns for the matrix.
     Example: 5 means that the matrix should be 5x5.
 2. This function should return a list of lists that represents the matrix. Example: 3 should return:
-
+```py
 [
   [0, 1, 1],
   [1, 0, 1],
   [0, 0, 0]
 ]
+```
 
 💡Hint:
 Remember that the 1's and 0's are random.
