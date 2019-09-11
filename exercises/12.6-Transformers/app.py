@@ -15,5 +15,4 @@ def my_function(items):
     return items['name'] +' '+items['lastName']
 
 result = list(map(my_function, incomingAJAXData))
-sample = set(result)
-print(sample)
+print(result)
