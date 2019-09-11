@@ -1,15 +1,12 @@
 Celsius_values = [-2,34,56,-10]
 
-result = map(lambda x : x * 5 / 9 + 32, Celsius_values)
-fahrenheit_values = set(result)
+fahrenheit_values = list(map(lambda x : x * 5 / 9 + 32, Celsius_values))
 print(fahrenheit_values)
 
 
 
 
-def fahrenheit_values(x):
+def fahrenheitValues(x):
     return x * 5/9 + 32
-Celsius_values = [-2,34,56,-10]
-result = map(fahrenheit_values, Celsius_values)
-total = set(result)
-print(total)
+result = list(map(fahrenheit_values, Celsius_values))
+print(result)
