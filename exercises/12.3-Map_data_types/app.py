@@ -1,16 +1,15 @@
-
-def my_function(items):
-     return type(items)
-
 list_of_Strings = ['1','5','45','34','343','34',6556,323]
-result = map(my_function,  list_of_Strings)
-sample = set(result)
-print(sample)
+
+
+def type_list(items):
+        return type(items)
+
+result = list(map(type_list, list_Strings))
+print(result)
 
 
 #this return the same
-list_of_Strings = ['1','5','45','34','343','34',6556,323]
-other = map(lambda item: type(item), list_of_Strings)
-sample = set(other)
+type_data = lambda data: (type(data))
+sample = list(map(type_data, list_Strings))
 print(sample)
 
