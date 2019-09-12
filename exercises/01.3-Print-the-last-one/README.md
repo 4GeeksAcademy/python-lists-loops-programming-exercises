@@ -13,5 +13,9 @@ returns the `length of` name_list .
 1. Create a variable named the_last_one, and assign it the LAST element of my_stupid_list.
 2. Then, print it on the console.
 
+
 💡Hint:
-`Remember import random function`
+```py
+-Remember import random function
+-Ask to Google How import random in python?
+```

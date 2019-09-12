@@ -5,9 +5,9 @@
 
 
 💡Tips:
-1. You have to `import random` function
-2. Use the `random()` function to get random numbers.
-3. Search on Google how to use random function.
+You have to `import random` function.
+Use the `random()` function to get random numbers.
+Search on Google how to use random function.
 
 Expected in the console something similar like this:
 
