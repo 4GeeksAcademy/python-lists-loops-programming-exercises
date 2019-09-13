@@ -17,7 +17,11 @@ def test_flip():
 #test this
 @pytest.mark.it("Create new variable")
 def test_new_list():
-    assert new_list == new_list
+    captured = buffer.getvalue()
+
+    f = open(os.path.dirname(os.path.abspath(__file__)) + '/app.py')
+    content = f.read()
+    assert content.find("new_list") > 0
 
 
 @pytest.mark.it("Use for loop for flip list")
