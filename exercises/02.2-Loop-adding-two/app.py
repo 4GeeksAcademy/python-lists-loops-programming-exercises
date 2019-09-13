@@ -9,4 +9,3 @@ for i in range(0, len(my_sample_list), 2):
 # # for i in my_sample_list[0::2]:
 # #     print(i)
 
-# print(my_sample_list[::2])

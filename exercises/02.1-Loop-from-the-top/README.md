@@ -1,4 +1,4 @@
-# `02.1` Instructions from your teacher:
+# `02.1` Loop from the top
 ```js
 This loop is `looping` the list from beginning to end... increasing one by one.
 ```
