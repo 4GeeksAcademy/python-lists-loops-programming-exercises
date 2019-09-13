@@ -1,0 +1,22 @@
+import io
+import os
+import sys
+sys.stdout = buffer = io.StringIO()
+
+
+import app
+import pytest
+
+@pytest.mark.it("Find and print the position of Wally")
+def test_find():
+    captured = buffer.getvalue()
+    assert "65\n198\n" in captured
+
+
+@pytest.mark.it("Use for loop")
+def test_for_loop():
+    captured = buffer.getvalue()
+
+    f = open(os.path.dirname(os.path.abspath(__file__))+'/app.py')
+    content = f.read()
+    assert content.find("for") > 0

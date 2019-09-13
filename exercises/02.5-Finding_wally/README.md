@@ -1,4 +1,6 @@
-# `13` Instructions from your teacher:
+# `02.5` Finding Wally
+
+#📝Instructions:
 1. Find Wally :)
 2. Print the position(s) of Wally in the console.
 

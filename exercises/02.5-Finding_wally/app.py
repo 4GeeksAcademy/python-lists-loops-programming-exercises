@@ -2,13 +2,6 @@ people = [ 'Lebron','Aaliyah','Diamond','Dominique','Aliyah','Jazmin','Darnell',
 
 #Your code here:
 
-position = []
-for i in range(0, len(people)):
-    if people[i] == "Wally":
-        position.append(i)
-print(position)
-
-#i thing is the second one
-for i in range(len(people)):
-    if people[i] == "Wally":
-        print(i)
+for person in range(len(people)):
+    if people[person] == "Wally":
+        print(person)

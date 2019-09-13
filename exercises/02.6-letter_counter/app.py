@@ -10,9 +10,3 @@ for i in par:
         count[i] = 1
 print(count)
 
-
-letter = {}
-for i in par:
-    letter = letter.get(i, 0) + 1
-
-print(letter)

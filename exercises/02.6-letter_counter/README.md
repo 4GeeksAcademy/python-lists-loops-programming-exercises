@@ -1,12 +1,12 @@
-# `14` Instructions from your teacher:
+# `02.6` Letter counter
 
-```js
+```py
 Letter Counter
 Our customer needs a program that counts the letters repetitions in a given string,
 I know that's weird, but they are very adamant, We need this asap!
 ```
 
-📝Instructions:
+#📝Instructions:
 1. letters and the values are the number of times it is repeated throughout the string.
 
 Example

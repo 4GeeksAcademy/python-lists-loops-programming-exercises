@@ -1,6 +1,7 @@
-# `15` Instructions from your teacher:
+# `03` Flip list
 
-Using a loop, invert the "arr" list.
+#📝Instructions:
+1. Using a loop, invert the "arr" list.
 
 ```js
 Initial list:  [45, 67, 87, 23, 5,  32, 60]
