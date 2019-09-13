@@ -14,3 +14,6 @@ mix = [42, True, "towel", [2,1], 'hello', 34.4, {"name": "juan"}]
 
 for items in range(len(mix)):
     print(type(mix[items]))
+
+
+    #ver lo del metodo de test type and len functions

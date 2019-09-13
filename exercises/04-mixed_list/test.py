@@ -22,4 +22,10 @@ def test_use_for_loop():
 def test_use_len():
     f = open(os.path.dirname(os.path.abspath(__file__))+'/app.py')
     content = f.read()
-    assert content.find("len()")>0
+    assert content.find("len")>0
+
+@pytest.mark.it("Use type() function")
+def test_use_type():
+    f = open(os.path.dirname(os.path.abspath(__file__))+'/app.py')
+    content = f.read()
+    assert content.find("type")>0
