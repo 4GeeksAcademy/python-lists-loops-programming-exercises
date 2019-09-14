@@ -6,17 +6,14 @@ def sum_all_values(items):
     total = 0
     #The magic happens here:
 
-    # for i in range(len(items)):
-    #     total += items[i]
+    for i in range(len(items)):
+        total += items[i]
 
     return total
 print(sum_all_values(my_sample_list))
 
 
 
-def other(items):
-    total = 0
-    for i in items:
-        total += i
-    return total
-print(other(my_sample_list))
+#can use this too
+#     for i in items:
+#         total += i

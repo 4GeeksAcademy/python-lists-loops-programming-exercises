@@ -1,8 +1,8 @@
-# `22`
+# `07` D0 While
 
-# Instructions from your teacher:
 DO DO DO
 The do{}while(); is another loop example in python is less commonly used but it is a loop
+```py
 // stating value for the loop
 let i = 0;
 
@@ -14,6 +14,7 @@ do {
     i++
     // evaluate the value
 } while (i < 5);
+```
 
 
 #📝Instructions
@@ -22,7 +23,7 @@ do {
  is a module of 5
 2. At the end print() "LIFTOFF"
 
-```js
+```py
 Example Output on the console:
 20!
 19

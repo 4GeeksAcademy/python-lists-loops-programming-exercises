@@ -1,8 +1,10 @@
 
-# `18` Instructions from your teacher:
+# `05` Sum all items
+
+#📝Instructions:
 
 1. Complete the code of the function "sum" so that it returns the sum of all the items in my_sample_list.
-```js
+```py
 The result should be 925960
 ```
 

@@ -12,11 +12,3 @@ def merge_list(list1, list2):
 
     return merge
 print(merge_list(chunk_one, chunk_two))
-
-
-
-def other(x1, x2):
-    for i in x2:
-        x1.append(i)
-    return x1
-print(other(chunk_one, chunk_two))

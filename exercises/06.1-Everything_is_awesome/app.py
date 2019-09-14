@@ -1,21 +1,12 @@
 my_list = [ 1, 0, 0, 0, 1, 0, 0, 0, 1, 1 ]
 
-def sample(items):
-    return_list = []
-    for i in items:
-        #the magic happens here:
-
-    return return_list
-print(sample(my_list))
-
-
-# def sample(items):
-#     return_list = []
-#     for i in items:
-#         if i == 1:
-#             return_list.append(i)
-#         elif i == 0:
-#             return_list.append("Yahoo")
-
-#     return return_list
-# print(sample(my_list))
+def my_function(numbers):
+    new_list = []
+    for numb in numbers:
+    #The magic go here:
+        # if numb == 0:
+        #     new_list.append("Yahoo")
+        # elif numb == 1:
+        #     new_list.append(numb)
+    return new_list
+print(my_function(my_list))

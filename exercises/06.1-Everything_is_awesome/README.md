@@ -1,4 +1,4 @@
-# `21`
+# `06.1` Everything is Awesome
 
 # Instructions from your teacher:
 
