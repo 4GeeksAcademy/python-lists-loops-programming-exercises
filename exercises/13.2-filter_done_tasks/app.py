@@ -1,3 +1,4 @@
+
 tasks = [
 	{ "label": 'Eat my lunch', "done": True },
 	{ "label": 'Make the bed', "done": False },
@@ -11,13 +12,7 @@ tasks = [
 
 
 
-
-#using function
 def my_function(items):
     return items['done']
 result = list(filter(my_function, tasks))
 print(result)
-
-#lambda expretion
-done_tasks = list(filter(lambda x: x['done'], tasks))
-print(done_tasks)

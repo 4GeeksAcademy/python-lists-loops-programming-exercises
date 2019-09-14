@@ -6,7 +6,5 @@
 ```py
 Expected output:
 
-[ { label: 'Eat my lunch', done: true },
-  { label: 'Replit the finishes', done: true },
-  { label: 'Read a book', done: true } ]
+[{'label': 'Eat my lunch', 'done': True}, {'label': 'Replit the finishes', 'done': True}, {'label': 'Read a book', 'done': True}]
   ```
