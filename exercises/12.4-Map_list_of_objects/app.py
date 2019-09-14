@@ -17,7 +17,3 @@ name_list = list(map(lambda x: "Hello my name is " + str(x["name"]) + " and I am
 
 
 print(str(name_list))
-
-
-#revisar esto
-#esta devolviendo los names y un solo parametro the los años

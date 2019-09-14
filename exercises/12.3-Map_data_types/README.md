@@ -7,7 +7,7 @@ types of each corresponding item from the original list.
 
 The result in the console should be something like:
 ```py
-[string,string,... ,number,string,...]
+[<class 'str'>, <class 'str'>, <class 'str'>, <class 'str'>, <class 'str'>, <class 'str'>, <class 'int'>, <class 'int'>]
 ```
 
 💡Hint:

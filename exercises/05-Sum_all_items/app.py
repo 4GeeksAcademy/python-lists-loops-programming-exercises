@@ -11,9 +11,3 @@ def sum_all_values(items):
 
     return total
 print(sum_all_values(my_sample_list))
-
-
-
-#can use this too
-#     for i in items:
-#         total += i
