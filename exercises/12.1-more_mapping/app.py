@@ -1,14 +1,8 @@
 myNumbers = [23,234,345,4356234,243,43,56,2]
 
 
-result = list(map(lambda x: x * 3, myNumbers))
-print(result)
+def increment_by_one(numbers):
+    return numbers * 3
 
-
-
-# other sample
-def other_sample(x):
-    return x * 3
-
-result = list(map(other_sample, myNumbers))
+result = list(map(increment_by_one, myNumbers))
 print(result)

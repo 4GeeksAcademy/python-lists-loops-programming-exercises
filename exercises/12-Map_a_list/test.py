@@ -1,0 +1,19 @@
+import io
+import os
+import sys
+sys.stdout = buffer = io.StringIO()
+
+import app
+import pytest
+
+
+@pytest.mark.it("Print the longitudes")
+def test_dict():
+    captured = buffer.getvalue()
+    assert "[28.4, 93.2, 132.8, 14.0]\n" in captured
+
+@pytest.mark.it("Use map function")
+def test_if_loo():
+    f = open(os.path.dirname(os.path.abspath(__file__))+'/app.py')
+    content = f.read()
+    assert content.find("map") > 0
