@@ -3,8 +3,8 @@
 
 
 # 📝Instructions
-1. Calculate the average value of all the items in the list and print it on the console.
-2.
+1. Declare a variable with value 0.
+2. Calculate the average value of all the items in the list and print it on the console.
 
 # 💡HINT:
 To print the average, you have to add all the values and divide the result

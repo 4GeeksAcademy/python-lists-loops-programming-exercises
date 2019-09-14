@@ -6,12 +6,4 @@ names = ['Liam','Emma','Noah','Olivia','William','Ava','James','Isabella','Logan
 'Samuel','Grace','Sebastian','Chloe','David','Camila','Carter','Penelope','Wyatt','Riley']
 
 
-
-def filteringList(word):
-    if 'am' in word:
-        return True
-    else:
-        return False
-
-my_names = list(filter(filteringList, names))
-print(my_names)
+#Your code go here:

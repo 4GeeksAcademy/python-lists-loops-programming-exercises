@@ -15,8 +15,15 @@ def test_find():
 
 @pytest.mark.it("Use for loop")
 def test_for_loop():
-    captured = buffer.getvalue()
 
     f = open(os.path.dirname(os.path.abspath(__file__))+'/app.py')
     content = f.read()
     assert content.find("for") > 0
+
+
+@pytest.mark.it("Use if statement")
+def test_if():
+
+    f = open(os.path.dirname(os.path.abspath(__file__))+'/app.py')
+    content = f.read()
+    assert content.find("if") > 0

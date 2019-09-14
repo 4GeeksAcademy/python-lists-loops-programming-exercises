@@ -12,5 +12,3 @@ def generate_random_list():
 my_stupid_list = generate_random_list()
 
 #Feel happy to write the code below, good luck:
-the_last_one = my_stupid_list[-1]
-print(the_last_one)

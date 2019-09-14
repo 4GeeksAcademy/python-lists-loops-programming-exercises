@@ -4,8 +4,7 @@ DO DO DO
 The do{}while(); is another loop example in python is less commonly used but it is a loop
 ```py
 // stating value for the loop
-let i = 0;
-
+let i = 0
 // the loop will do everything inside of the do code block
 do {
     // print out the i value
@@ -13,7 +12,7 @@ do {
     // increase the i value
     i++
     // evaluate the value
-} while (i < 5);
+} while (i < 5)
 ```
 
 

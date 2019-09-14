@@ -3,5 +3,6 @@ my_list = [3344,34334,454543,342534,4563456,3445,23455,234,262,2335,43323,4356,3
 
 for numb in my_list:
     #the magic go here:
-    # if numb % 14 == 0:
+   
         print(numb)
+    

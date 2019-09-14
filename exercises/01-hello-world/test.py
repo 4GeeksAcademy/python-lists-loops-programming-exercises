@@ -1,5 +1,6 @@
 import io
 import sys
+import os
 sys.stdout = buffer = io.StringIO()
 
 # from app import my_function
@@ -21,8 +22,15 @@ import app
 # def test_for_function_return(capsys):
 #     assert my_function() == True
 
-@pytest.mark.it("Output 'Hello'")
+@pytest.mark.it("Output 'Hello World'")
 def test_output():
     captured = buffer.getvalue()
-    assert "hello\n" in captured
+    assert "Hello World\n" in captured
     # convert everything in the buffer to lower case, captured to lower case
+
+
+@pytest.mark.it("Use print function")
+def test_print():
+    f = open(os.path.dirname(os.path.abspath(__file__)) + '/app.py')
+    content = f.read()
+    assert content.find("print") > 0

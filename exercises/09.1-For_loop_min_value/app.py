@@ -5,10 +5,3 @@ my_list = [3344,34334,454543,342534,4563456,3445,23455,234,262,2335,
 35,243,371,3251,351223,13231243,734,856,56,53,234342,56,545343]
 
 #Your code here:
-
-number = 999999999
-
-for min_numb in my_list:
-    if min_numb < number:
-        number = min_numb
-print(number)

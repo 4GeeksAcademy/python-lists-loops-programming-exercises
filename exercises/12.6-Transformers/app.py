@@ -6,11 +6,6 @@ incomingAJAXData = [
 	{ "name": 'Bobby', "lastName": 'Mc birth' }
 ]
 
-
-def my_function(items):
-    return items['name'] +' '+items['lastName']
-
-transformed_data = list(map(my_function, incomingAJAXData))
-print(transformed_data)
+#Your code go here:
 
 

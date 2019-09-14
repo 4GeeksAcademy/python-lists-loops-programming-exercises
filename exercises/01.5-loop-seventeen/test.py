@@ -14,10 +14,9 @@ def test_output():
 
 
 
-@pytest.mark.it("Make sure that there is a 'for loop' in your code")
+@pytest.mark.it("Make sure that you use for loop!!!")
 def test_for_loop():
-    captured = buffer.getvalue()
 
     f = open(os.path.dirname(os.path.abspath(__file__))+'/app.py')
     content = f.read()
-    assert content.find("for ") > 0
+    assert content.find("for") > 0

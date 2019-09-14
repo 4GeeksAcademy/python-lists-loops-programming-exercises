@@ -15,8 +15,7 @@ def test_output():
 
 @pytest.mark.it("Be sure that you use the for loop in the exercises")
 def test_use_forLoop():
-    captured = buffer.getvalue()
 
     f = open(os.path.dirname(os.path.abspath(__file__))+'/app.py')
     content = f.read()
-    assert content.find("for ") > 0
+    assert content.find("for") > 0

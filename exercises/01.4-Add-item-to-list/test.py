@@ -4,6 +4,7 @@ sys.stdout = buffer = io.StringIO()
 
 import pytest
 import app
+import os
 import random
 from app import my_list
 
@@ -15,3 +16,9 @@ def test_add_numb():
 def test_output():
     captured = buffer.getvalue()
     assert str(app.my_list) in captured
+
+@pytest.mark.it("Import random function")
+def test_import_random():
+    f = open(os.path.dirname(os.path.abspath(__file__)) + '/app.py')
+    content = f.read()
+    assert content.find("import random") > 0

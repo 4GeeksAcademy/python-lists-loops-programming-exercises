@@ -2,5 +2,4 @@ names = ['Alice','Bob','Marry','Joe','Hilary','Stevia','Dylan']
 
 def prepender(name):
     return "My name is: " + name
-print(list(map(prepender, names)))
-
+#Your code go here:

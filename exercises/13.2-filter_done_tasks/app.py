@@ -11,8 +11,4 @@ tasks = [
 ]
 
 
-
-def my_function(items):
-    return items['done']
-result = list(filter(my_function, tasks))
-print(result)
+#Y
