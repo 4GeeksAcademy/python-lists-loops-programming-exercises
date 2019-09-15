@@ -1,7 +1,10 @@
 
-allNames = ["Romario","Boby","Roosevelt","Emiliy", "Michael", "Greta", "Patricia", "Danzalee"]
+all_names = ["Romario","Boby","Roosevelt","Emiliy", "Michael", "Greta", "Patricia", "Danzalee"]
 
 #Your code go here:
 
-print(resultingNames)
+print(resulting_names)
+
+
+
 

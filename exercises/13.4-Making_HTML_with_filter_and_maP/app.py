@@ -8,6 +8,6 @@ all_colors = [
 	{"label": 'Purple', "sexy": False},
 ]
 
-filtere_colors = list(filter(lambda color: color["sexy"],all_colors))
-result = list(map(lambda color: "<li>"+color["label"]+"</li>", filtere_colors))
-print("<ul>" + ''.join(result) + "</ul>")
+filter_colors = list(filter(lambda color: color["sexy"],all_colors))
+general_li = list(map(lambda color: "<li>"+color["label"]+"</li>", filter_colors))
+print("<ul>" + ''.join(general_li) + "</ul>")

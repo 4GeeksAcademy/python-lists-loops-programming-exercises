@@ -1,6 +1,6 @@
 # `04` Mixed List
 
-#📝instructions:
+# 📝instructions:
 1. Write a function to programmatically print in the console the
 types of the values that the list contains in each position
 2. You can use the for loop.
