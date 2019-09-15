@@ -1,6 +1,6 @@
 # `08.2` Divide and conquer:
 
-#📝Instructions
+# 📝Instructions
 1. Create a function called mergeTwoList that expects an list of numbers (integers).
 2. Loop through the list and separate the odd and the even numbers in different lists.
 3. If the number is odd number push it to a placeholder list named odd.

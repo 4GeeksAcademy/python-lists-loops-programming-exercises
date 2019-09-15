@@ -1,7 +1,7 @@
-#`15` Techno Beats
+# `15` Techno Beats
 You are working with a DJ and he needs a program that can create a beats for his songs.
 
-#📝Instructions:
+# 📝Instructions:
 1. Create a function lyricsGenerator that receives a list
     The list passed to the function will be something like this:
     [0,0,1,1,0,0,0]

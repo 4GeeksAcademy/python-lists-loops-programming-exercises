@@ -1,8 +1,8 @@
-#`12.5` Yes and no
+# `12.5` Yes and no
 
-#📝Instructions
+# 📝Instructions
 1. Please use the list map functionality to loop the list of booleans and create a new list
- that contains the string 'wiki' for every 1 and 'woko' for every 0 that the original list had.
+   that contains the string 'wiki' for every 1 and 'woko' for every 0 that the original list had.
 2. Print that list on the console.
 
 ```py

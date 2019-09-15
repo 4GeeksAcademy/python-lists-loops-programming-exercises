@@ -1,7 +1,7 @@
 
 # `05` Sum all items
 
-#📝Instructions:
+# 📝Instructions:
 
 1. Complete the code of the function "sum" so that it returns the sum of all the items in my_sample_list.
 ```py

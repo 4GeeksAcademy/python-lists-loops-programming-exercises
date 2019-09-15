@@ -4,7 +4,7 @@ This loop is `looping` the list from beginning to end... increasing one by one.
 ```
 
 # 📝Instructions
-Lets try looping from the end to the beginning.
+1. Lets try looping from the end to the beginning.
 
 The console output should be something like this:
 ```js

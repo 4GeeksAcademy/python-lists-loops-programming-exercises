@@ -19,6 +19,9 @@ email : test@nowhere.com
 ```
 
 💡Hints
--contact.keys()  #['fullname', 'phone', 'email']
--contact.values()  #['Jane Doe', '321-321-4321', 'test@test.com']
--contact.items()  #[('fullname', 'Jane Doe'), ('phone', '321-321-4321'), ('email', 'test@test.com')]
+-contact.keys()  `['fullname', 'phone', 'email']`
+
+-contact.values()  `['Jane Doe', '321-321-4321', 'test@test.com']`
+
+-contact.items()  `[('fullname', 'Jane Doe'), ('phone', '321-321-4321'), `
+                    `('email', 'test@test.com')]`

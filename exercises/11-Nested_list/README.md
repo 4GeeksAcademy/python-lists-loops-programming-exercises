@@ -10,7 +10,7 @@ In this example, we have a list of coordinates that you can access by doing the 
 longitude = coordinatesList[0][1];
 
 
-#📝Instructions:
+# 📝Instructions:
 Loop through the list printing only the longitudes.
 ```py
 The result should be something like this:
