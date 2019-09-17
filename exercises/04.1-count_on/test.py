@@ -8,7 +8,7 @@ import pytest
 
 @pytest.mark.it("Cool !!! 😎 You have the all data-type object")
 def test_all_data_type():
-    capatured = buffer.gervalue()
+    captured = buffer.getvalue()
     assert "[[2, 1], {'name': 'juan'}]\n" in captured
 
 @pytest.mark.it("You used to append the return  values to the hello variable, that's very good")
