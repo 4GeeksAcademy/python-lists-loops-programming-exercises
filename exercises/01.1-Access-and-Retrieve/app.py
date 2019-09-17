@@ -7,4 +7,3 @@ my_list = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday
 
 #3. print the position of step 2
 
-
