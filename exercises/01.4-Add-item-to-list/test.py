@@ -22,3 +22,15 @@ def test_import_random():
     f = open(os.path.dirname(os.path.abspath(__file__)) + '/app.py')
     content = f.read()
     assert content.find("import random") > 0
+
+@pytest.mark.it("Use the for loop")
+def test_for():
+    f = open(os.path.dirname(os.path.abspath(__file__)) + '/app.py')
+    content = f.read()
+    assert content.find("for x in range(1, 10):") > 0
+
+@pytest.mark.it("Add the ten random numbers to the list")
+def test_add():
+    f = open(os.path.dirname(os.path.abspath(__file__)) + '/app.py')
+    content = f.read()
+    assert content.find("my_list.append(random.randint(1,100))") > 0
