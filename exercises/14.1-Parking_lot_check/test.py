@@ -11,6 +11,12 @@ def test_output():
     captured  = buffer.getvalue()
     assert "\n" in captured
 
+@pytest.mark.it("Declare a get_parking_lot function")
+def test_function():
+    f = open(os.path.dirname(os.path.abspath(__file__)) + '/app.py')
+    content = f.read()
+    assert content.find("get_parking_lot") > 0
+
 @pytest.mark.it("Have make a for loop")
 def test_for():
     f = open(os.path.dirname(os.path.abspath(__file__)) + '/app.py')
