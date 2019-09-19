@@ -1,5 +1,4 @@
 
 
-#You have to print `hello` in the console, your code go here:
-print("Hello World")
+# You have to print `Hello World` in the console
 
