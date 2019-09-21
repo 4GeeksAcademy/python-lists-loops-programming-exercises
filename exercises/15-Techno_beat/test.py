@@ -4,17 +4,14 @@ import sys
 sys.stdout = buffer = io.StringIO()
 
 
-import app.py
+import app
 import pytest
-
-
-
 
 @pytest.mark.it("Create a function lyrics_generator")
 def test_function():
     f = open(os.path.dirname(os.path.abspath(__file__)) +'/app.py')
     content = f.read()
-    assert content.fint("lyrics_generator")
+    assert content.find("lyrics_generator")
 
 
 @pytest.mark.it("Use for loop")
@@ -29,7 +26,7 @@ def test_conditinal():
     content = f.read()
     assert content.find("for")
 
-@pytest.mark.it("Add the value to the new list")
+@pytest.mark.it("Store the value in the variable that you have to return")
 def test_append():
     f = open(os.path.dirname(os.path.abspath(__file__)) +'/app.py')
     content = f.read()
@@ -38,7 +35,7 @@ def test_append():
 @pytest.mark.it("Print the strings like song")
 def test_output():
     captured = buffer.getvalue()
-    assert "\n" in captured
+    assert "['boom', 'boom', 'Drop the base', 'Drop the base', 'boom', 'boom', 'boom']\n['boom', 'boom', 'Drop the base', 'Drop the base', 'Drop the base', '!!!Break the base', 'boom', 'boom', 'boom']\n['boom', 'boom', 'boom']\n['Drop the base', 'boom', 'Drop the base']\n['Drop the base', 'Drop the base', 'Drop the base', '!!!Break the base']\n" in captured
 
 
 
