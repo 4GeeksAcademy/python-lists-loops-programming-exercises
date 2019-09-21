@@ -9,7 +9,7 @@ import pytest
 @pytest.mark.it("Print the object")
 def test_output():
     captured  = buffer.getvalue()
-    assert "\n" in captured
+    assert "{'total': 9, 'occupied': 5, 'available': 1}\n" in captured
 
 @pytest.mark.it("Create a get_parking_lot function")
 def test_function():

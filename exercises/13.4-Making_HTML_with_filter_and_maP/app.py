@@ -10,6 +10,3 @@ all_colors = [
 
 #Your code go here:
 
-filter_colors = list(filter(lambda color: color["sexy"],all_colors))
-general_li = list(map(lambda color: "<li>"+color["label"]+"</li>", filter_colors))
-print("<ul>" + ''.join(general_li) + "</ul>")
