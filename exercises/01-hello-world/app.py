@@ -1,3 +1,3 @@
 
 
-#You have to print `hello` in the console, your code go here:
+# You have to print `Hello World` in the console
