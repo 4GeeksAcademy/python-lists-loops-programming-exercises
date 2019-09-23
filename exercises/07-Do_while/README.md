@@ -1,18 +1,12 @@
 # `07` D0 While
 
 DO DO DO
-The do{}while(); is another loop example in python is less commonly used but it is a loop
+The do while(); is another loop example in python is less commonly used but it is a loop
 ```py
-// stating value for the loop
-let i = 0
-// the loop will do everything inside of the do code block
-do {
-    // print out the i value
-    print(i)
-    // increase the i value
-    i++
-    // evaluate the value
-} while (i < 5)
+x = 1
+while x < 6:
+  print(x)
+  x += 1
 ```
 
 
@@ -39,3 +33,6 @@ Example Output on the console:
 .
 LIFTOFF
 ```
+
+💡Hint:
+https://www.w3schools.com/python/python_while_loops.asp

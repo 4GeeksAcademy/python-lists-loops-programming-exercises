@@ -12,7 +12,7 @@ def test_output():
     captured = buffer.getvalue()
     assert "Pepe\nBart\nCesco\nFernando\nLou\nMaria\nPedro\nLebron\nRuth\nSteve\nRuthPedro\n" in captured
 
-@pytest.mark.it("The for lopp was good")
+@pytest.mark.it("Have to loop the entire list")
 def test_use_foor():
     captured = buffer.getvalue()
 

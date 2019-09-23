@@ -11,12 +11,11 @@ Would you be so kind to add all the items with data-type object into the hello l
 Here is how to print ALL the items.
 my_list = [42, true, "towel", [2,1], 'hello', 34.4, {"name": "juan"}]
 
-for i in range(len(mix)):
-    item = mix[i]
-    print(type(item))
+for x in my_list:
+    print(x)
 ```
 
 # 📝Instructions:
 1. Loop the given list
 2. Push the arrays found to an new list called hello
-3. Console log the variable hello
+3. Print the variable hello

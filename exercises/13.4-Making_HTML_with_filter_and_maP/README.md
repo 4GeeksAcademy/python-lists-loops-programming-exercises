@@ -6,3 +6,7 @@
 Expexted:
 <ul><li>Red</li><li>Orange</li><li>Pink</li><li>Violet</li></ul>
 ```
+
+# 💡Hint:
+Maybe you have to use filter and map function
+Set values to the news variables

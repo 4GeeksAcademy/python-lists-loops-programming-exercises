@@ -2,6 +2,3 @@ people = [ 'Lebron','Aaliyah','Diamond','Dominique','Aliyah','Jazmin','Darnell',
 
 #Your code here:
 
-for name in range(len(people)):
-    if people[name] == "Wally":
-        print(name)

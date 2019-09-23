@@ -14,7 +14,8 @@ parking_state = [
 ```
 
 # 📝Instructions
-1. Create a function getParkingLotState() that returns an object with totalSlots, availableSlots and occupiedSlots like the following:
+1. Create a function get_parking_lot() that returns an object
+with total_slots, available_slots and occupied_slots like the following:
 const state = {
      totalSlots: 12,
      availableSlots: 3,
@@ -23,3 +24,5 @@ const state = {
 
 💡Hints
 You have to do a nested loop
+Declare a variables to store the value
+Compare the statements
