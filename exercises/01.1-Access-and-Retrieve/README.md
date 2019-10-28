@@ -1,4 +1,4 @@
-# `01.1` Access and retirve
+# `01.1` Access and retrieve
 
 # 📝Instructions from your teacher:
 
@@ -18,7 +18,7 @@ Every list has the following parts:
 ```py
 To access any particular item within the array you need to know its index (position).
 The index is an integer value that represents the position in which the element is located.
-Protip: Every array starts from cero (0)!
+Protip: Every array starts from zero (0)! So to get the first item we'd use my_list[0]
 ```
 
 ## 📝 Instructions
@@ -26,6 +26,3 @@ Protip: Every array starts from cero (0)!
 1. Using the print() function, print the 3rd item from the list.
 2. Change the value in the position where 'Thursday' is located to None.
 3. Print the particular position of the step two.
-
-
-
