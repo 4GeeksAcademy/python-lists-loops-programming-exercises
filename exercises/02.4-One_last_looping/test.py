@@ -10,7 +10,7 @@ import pytest
 @pytest.mark.it("Add, change values and reversed list")
 def test_output():
     captured = buffer.getvalue()
-    assert "Pepe\nBart\nCesco\nFernando\nLou\nMaria\nPedro\nLebron\nRuth\nSteve\nRuthPedro\n" in captured
+    assert "Pepe\nBart\nCesco\nFernando\nLou\nMaria\nPedro\nLebron\nRuth\nSteven\nRuthPedro\n" in captured
 
 @pytest.mark.it("Have to loop the entire list")
 def test_use_foor():
