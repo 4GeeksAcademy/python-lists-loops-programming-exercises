@@ -7,11 +7,11 @@ ports:
 tasks:
     - command: >
         bc run:exercises -e=gitpod;
-github:
-    prebuilds:
-        # enable for the master/default branch (defaults to true)
-        master: true
-        # enable for pull requests coming from this repo (defaults to true)
-        pullRequests: false
-        # add a "Review in Gitpod" button as a comment to pull requests (defaults to true)
-        addComment: false
+# github:
+#     prebuilds:
+#         # enable for the master/default branch (defaults to true)
+#         master: true
+#         # enable for pull requests coming from this repo (defaults to true)
+#         pullRequests: false
+#         # add a "Review in Gitpod" button as a comment to pull requests (defaults to true)
+#         addComment: false
