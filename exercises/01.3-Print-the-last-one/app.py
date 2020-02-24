@@ -1,4 +1,4 @@
-#You have to import random function
+import random
 
 
 def generate_random_list():
