@@ -1,6 +1,5 @@
 import random
 
-
 def generate_random_list():
     aux_list = []
     randonlength = random.randint(1, 100)
@@ -11,4 +10,4 @@ def generate_random_list():
     return aux_list
 my_stupid_list = generate_random_list()
 
-#Feel happy to write the code below, good luck:
+# Feel happy to write the code below this comment, good luck!:
