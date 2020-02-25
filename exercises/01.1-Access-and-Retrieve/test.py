@@ -1,22 +1,18 @@
-import io
-import sys
-sys.stdout = buffer = io.StringIO()
-
-from app import my_list
-import pytest
+import io, sys, pytest
 
 @pytest.mark.it('Your console have to print the 3rd item from the `list`')
-def test_output_one():
-    print(my_list[2])
-    captured = buffer.getvalue()
-    assert "tuesday\n" in captured
+def test_output_one(capsys, app):
+    app()
+    captured = capsys.readouterr()
+    assert "tuesday\n" in captured.out
 
 @pytest.mark.it('Your code have to print the position of step 2')
-def test_output_two():
-    print(my_list[2])
-    captured = buffer.getvalue()
-    assert "None\n" in captured
+def test_output_two(capsys, app):
+    app()
+    captured = capsys.readouterr()
+    assert "None\n" in captured.out
 
-@pytest.mark.it('Set index[4] to None')
+@pytest.mark.it('Set the position were thrusday is to None')
 def test_position_two():
+    from app import my_list
     assert my_list[4] is None

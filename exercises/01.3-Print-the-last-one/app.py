@@ -1,4 +1,5 @@
 # import the random package here "import random"
+import random
 
 def generate_random_list():
     aux_list = []
