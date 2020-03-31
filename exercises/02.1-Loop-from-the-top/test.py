@@ -1,21 +1,15 @@
-import io
-import sys
-sys.stdout = buffer = io.StringIO()
-
-from app import my_sample_list
-import pytest
-import app
-import os
+import io, sys, pytest, os
+path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
 @pytest.mark.it("loop from the last")
-def test_output():
-    captured = buffer.getvalue()
-    assert "12\n25\n23\n55\n56432\n48\n23\n867543\n8\n654\n47889\n4\n5\n3423\n" in captured
+def test_output(capsys, app):
+    app()
+    captured = capsys.readouterr()
+    assert "12\n25\n23\n55\n56432\n48\n23\n867543\n8\n654\n47889\n4\n5\n3423\n" in captured.out
 
-@pytest.mark.it("Be sure that use the for loop")
-def test_use_for():
-    captures = buffer.getvalue()
+@pytest.mark.it("Be sure that you use the for loop in the exercises")
+def test_use_forLoop():
 
-    f = open(os.path.dirname(os.path.abspath(__file__))+'/app.py')
+    f = open(path)
     content = f.read()
-    assert content.find("for ") > 0
+    assert content.find("for") > 0
