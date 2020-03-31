@@ -1,7 +1,7 @@
 # `01` Hello World
 
 In Python, we use `print` to make the computer write anything we want (the content of a variable, a given string, etc.)
-in something called `"the console".`
+in something called `the console`.
 
 Every language has a console, as it was the only way to interact with the users at the beginning
 (before the Windows or MacOS arrived). Today, printing in the console is used mostly as a
@@ -15,6 +15,7 @@ print("How are you?")
 📝 Instructions:
 
 ```md
-Use the `print()` function to print `"Hello World"` on the console. Feel free to try other things as well.
+Use the `print()` function to print `Hello World` on the console. 
 ```
+Feel free to try other things as well.
 

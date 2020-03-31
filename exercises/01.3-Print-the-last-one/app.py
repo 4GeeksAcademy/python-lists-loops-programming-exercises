@@ -1,5 +1,5 @@
-#You have to import random function
-
+# import the random package here "import random"
+import random
 
 def generate_random_list():
     aux_list = []
@@ -11,4 +11,4 @@ def generate_random_list():
     return aux_list
 my_stupid_list = generate_random_list()
 
-#Feel happy to write the code below, good luck:
+# Feel happy to write the code below this comment, good luck!:
