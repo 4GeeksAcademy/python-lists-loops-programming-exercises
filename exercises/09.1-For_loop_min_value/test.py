@@ -1,10 +1,5 @@
-import io
-import os
-import sys
-sys.stdout = buffer = io.StringIO()
-
-import app
-import pytest
+import io, sys, os, pytest, re
+path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
 @pytest.mark.it("Print the minimum value from the list")
 def test_min():
