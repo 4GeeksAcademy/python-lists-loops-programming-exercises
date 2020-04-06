@@ -1,41 +1,20 @@
-import io
-import os
-import sys
-sys.stdout = buffer = io.StringIO()
+import io, sys, pytest, os, re
+path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
 
-import app
-import pytest
+@pytest.mark.it("Create the function lyrics_generator")
+def test_variable_exists(app):
+    try:
+        app.lyrics_generator
+    except AttributeError:
+        raise AttributeError("The function lyrics_generator should exist on app.py")
 
-@pytest.mark.it("Create a function lyrics_generator")
-def test_function():
-    f = open(os.path.dirname(os.path.abspath(__file__)) +'/app.py')
-    content = f.read()
-    assert content.find("lyrics_generator")
-
-
-@pytest.mark.it("Use for loop")
-def test_for():
-    f = open(os.path.dirname(os.path.abspath(__file__)) +'/app.py')
-    content = f.read()
-    assert content.find("for")
-
-@pytest.mark.it("Use conditionals if/elif/else")
-def test_conditinal():
-    f = open(os.path.dirname(os.path.abspath(__file__)) +'/app.py')
-    content = f.read()
-    assert content.find("for")
-
-@pytest.mark.it("Store the value in the variable that you have to return")
-def test_append():
-    f = open(os.path.dirname(os.path.abspath(__file__)) +'/app.py')
-    content = f.read()
-    assert content.find("append")
 
 @pytest.mark.it("Print the strings like song")
-def test_output():
-    captured = buffer.getvalue()
-    assert "['boom', 'boom', 'Drop the base', 'Drop the base', 'boom', 'boom', 'boom']\n['boom', 'boom', 'Drop the base', 'Drop the base', 'Drop the base', '!!!Break the base', 'boom', 'boom', 'boom']\n['boom', 'boom', 'boom']\n['Drop the base', 'boom', 'Drop the base']\n['Drop the base', 'Drop the base', 'Drop the base', '!!!Break the base']\n" in captured
+def test_output(capsys, app):
+    import app
+    captured = capsys.readouterr()
+    assert 'Boom Boom Drop the base Drop the base Boom Boom Boom \nBoom Boom Drop the base Drop the base Drop the base !!!Break the base!!! Boom Boom Boom \nBoom Boom Boom \nDrop the base Boom Drop the base \nDrop the base !!!Break the base!!! Drop the base !!!Break the base!!! Drop the base !!!Break the base!!! \n' in captured.out
 
 
 
