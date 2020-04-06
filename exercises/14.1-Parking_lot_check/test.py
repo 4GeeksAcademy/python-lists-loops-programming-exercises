@@ -1,42 +1,23 @@
-import io
-import os
-import sys
-sys.stdout = buffer = io.StringIO()
+import io, sys, pytest, os, re
+path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
-import app
-import pytest
+@pytest.mark.it("Print the updated state ")
+def test_output(capsys, app):
+    import app
+    captured = capsys.readouterr()
+    assert "{'total_slots': 6, 'available_slots': 1, 'occupied_slots': 5}\n" in captured.out
 
-@pytest.mark.it("Print the object")
-def test_output():
-    captured  = buffer.getvalue()
-    assert "{'total': 9, 'occupied': 5, 'available': 1}\n" in captured
 
-@pytest.mark.it("Create a get_parking_lot function")
-def test_function():
-    f = open(os.path.dirname(os.path.abspath(__file__)) + '/app.py')
-    content = f.read()
-    assert content.find("get_parking_lot") > 0
-
-@pytest.mark.it("Make a for loop")
-def test_for():
-    f = open(os.path.dirname(os.path.abspath(__file__)) + '/app.py')
-    content = f.read()
-    assert content.find("for") > 0
+@pytest.mark.it("Create the function get_parking_lot")
+def test_variable_exists(app):
+    try:
+        app.get_parking_lot
+    except AttributeError:
+        raise AttributeError("The function get_parking_lot should exist on app.py")
 
 
 
-@pytest.mark.it("Using conditional statements")
-def test_conditional():
-    f = open(os.path.dirname(os.path.abspath(__file__))+'/app.py')
-    content = f.read()
-    assert content.find('if') > 0
-    assert content.find('elif') > 0
 
-@pytest.mark.it("Push the value into the new variables")
-def test_append():
-    f = open(os.path.dirname(os.path.abspath(__file__))+'/app.py')
-    content = f.read()
-    assert content.find('append') > 0
 
 
 
