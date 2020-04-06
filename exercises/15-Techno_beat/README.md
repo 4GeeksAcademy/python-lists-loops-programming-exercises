@@ -2,7 +2,7 @@
 You are working with a DJ and he needs a program that can create a beats for his songs.
 
 # 📝Instructions:
-1. Create a function lyricsGenerator that receives a list
+1. Create a function lyrics_generator that receives a list
     The list passed to the function will be something like this:
     [0,0,1,1,0,0,0]
 2. For each Zero you will add to the string 'Boom'

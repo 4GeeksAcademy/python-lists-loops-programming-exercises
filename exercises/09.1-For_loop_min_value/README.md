@@ -16,5 +16,5 @@ HINT
 4. Outside of the loop, after the loop is finished, print the auxiliar value.
 
 ```py
-expected:
+expected: 23
 ```
