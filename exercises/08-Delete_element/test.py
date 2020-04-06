@@ -1,23 +1,22 @@
-import io
-import os
-import sys
-sys.stdout = buffer = io.StringIO()
+import io, sys, os, pytest, re
+path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
-import app
-import pytest
+@pytest.mark.it("Delete the correct person")
+def test_even(capsys, app):
+    import app
+    captured = capsys.readouterr()
+    assert "['juan', 'ana', 'michelle', 'stefany', 'lucy', 'barak']\n['ana', 'michelle', 'daniella', 'stefany', 'lucy', 'barak']\n['juan', 'ana', 'michelle', 'daniella', 'stefany', 'lucy', 'barak']\n" in captured.out
 
-@pytest.mark.it("Delete person")
-def test_even():
-    captured = buffer.getvalue()
-    assert "['juan', 'ana', 'michelle', 'stefany', 'lucy', 'barak']\n['ana', 'michelle', 'daniella', 'stefany', 'lucy', 'barak']\n['juan', 'ana', 'michelle', 'daniella', 'stefany', 'lucy', 'barak']\n" in captured
-
-@pytest.mark.it("Use for loop and if statement")
+@pytest.mark.it("Use the for loop")
 def test_for_loop():
-    f = open(os.path.dirname(os.path.abspath(__file__))+ '/app.py')
-    content = f.read()
-    assert content.find("for") > 0
+    with open(path, 'r') as content_file:
+        content = content_file.read()
+        regex = re.compile(r"for(\s)")
+        assert bool(regex.search(content)) == True
 
+@pytest.mark.it("Use if statement")
 def test_if():
-    f = open(os.path.dirname(os.path.abspath(__file__))+ '/app.py')
-    content = f.read()
-    assert content.find("if") > 0
+    with open(path, 'r') as content_file:
+        content = content_file.read()
+        regex = re.compile(r"if(\s)")
+        assert bool(regex.search(content)) == True

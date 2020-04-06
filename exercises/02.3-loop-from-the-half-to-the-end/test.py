@@ -1,21 +1,16 @@
-import io
-import os
-import sys
-sys.stdout = buffer = io.StringIO()
-
-import app
-import pytest
+import io, sys, pytest, os, re
+path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
 
 @pytest.mark.it("Loop from the half to the end")
-def test_half_to_end():
-    captured = buffer.getvalue()
-    assert "23\n48\n56432\n55\n23\n25\n12\n" in captured
+def test_half_to_end(capsys, app):
+    app()
+    captured = capsys.readouterr()
+    assert "23\n48\n56432\n55\n23\n25\n12\n" in captured.out
 
-@pytest.mark.it("The for loop was used")
-def test_use_for():
-    captured = buffer.getvalue()
-
-    f = open(os.path.dirname(os.path.abspath(__file__))+'/app.py')
-    content = f.read()
-    assert content.find("for") > 0
+@pytest.mark.it("Use the for loop")
+def test_for_loop():
+    with open(path, 'r') as content_file:
+        content = content_file.read()
+        regex = re.compile(r"for(\s)+[a-zA-Z\-_]+(\s)+in(\s)+range.*")
+        assert bool(regex.search(content)) == True

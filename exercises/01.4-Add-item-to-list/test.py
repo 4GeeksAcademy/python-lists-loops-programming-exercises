@@ -1,4 +1,4 @@
-import io, sys, pytest, os, random
+import io, sys, pytest, os, random, re
 
 @pytest.mark.it("Import the random package")
 def test_import_random():

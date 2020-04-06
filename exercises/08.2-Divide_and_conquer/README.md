@@ -1,7 +1,7 @@
 # `08.2` Divide and conquer:
 
 # 📝Instructions
-1. Create a function called mergeTwoList that expects an list of numbers (integers).
+1. Create a function called merge_two_list that expects an list of numbers (integers).
 2. Loop through the list and separate the odd and the even numbers in different lists.
 3. If the number is odd number push it to a placeholder list named odd.
 4. If the number is even number push it to a placeholder list named even.

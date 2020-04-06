@@ -1,44 +1,24 @@
-import io
-import os
-import sys
-sys.stdout = buffer = io.StringIO()
-
-
-import app
-import pytest
+import io, sys, os, pytest, re
+path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
 @pytest.mark.it("You have a good list numbers with exclamation sign!!! 😃")
-def test_output():
-    captured = buffer.getvalue()
-    assert "20 !\n19\n18\n17\n16\n15 !\n14\n13\n12\n11\n10 !\n9\n8\n7\n6\n5 !\n4\n3\n2\n1\nLIFTOFF\n" in captured
+def test_output(capsys, app):
+    app()
+    captured = capsys.readouterr()
+    assert "20!\n19\n18\n17\n16\n15!\n14\n13\n12\n11\n10!\n9\n8\n7\n6\n5!\n4\n3\n2\n1\nLIFTOFF\n" in captured.out
 
 
-@pytest.mark.it("Declare the variable and asign the value of 20")
-def test_variable():
-    f = open(os.path.dirname(os.path.abspath(__file__))+ '/app.py')
-    content = f.read()
-    assert content.find("20") > 0
+@pytest.mark.it("Use the while loop")
+def test_for_loop():
+    with open(path, 'r') as content_file:
+        content = content_file.read()
+        regex = re.compile(r"while(\s)+[a-zA-Z\-_]+(\s)")
+        assert bool(regex.search(content)) == True
 
-@pytest.mark.it("While loop")
-def test_while():
-    f = open(os.path.dirname(os.path.abspath(__file__))+ '/app.py')
-    content = f.read()
-    assert content.find("while") > 0
-
-
-@pytest.mark.it("Conditional statement was declared")
+@pytest.mark.it("Use if statement")
 def test_if():
-    f = open(os.path.dirname(os.path.abspath(__file__))+ '/app.py')
-    content = f.read()
-    assert content.find("if") > 0
+    with open(path, 'r') as content_file:
+        content = content_file.read()
+        regex = re.compile(r"if(\s)")
+        assert bool(regex.search(content)) == True
 
-def test_else():
-    f = open(os.path.dirname(os.path.abspath(__file__))+ '/app.py')
-    content = f.read()
-    assert content.find("else") > 0
-
-@pytest.mark.it("Print the 'LIFTOFF'  to the end")
-def test_liftoff():
-    f = open(os.path.dirname(os.path.abspath(__file__))+ '/app.py')
-    content = f.read()
-    assert content.find("LIFTOFF") > 0

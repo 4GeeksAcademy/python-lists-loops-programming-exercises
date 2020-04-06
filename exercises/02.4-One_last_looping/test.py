@@ -1,21 +1,15 @@
-import io
-import os
-import sys
-sys.stdout = buffer = io.StringIO()
-
-
-import app
-import pytest
+import io, sys, pytest, os, re
+path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
 @pytest.mark.it("Add, change values and reversed list")
-def test_output():
-    captured = buffer.getvalue()
-    assert "Pepe\nBart\nCesco\nFernando\nLou\nMaria\nPedro\nLebron\nRuth\nSteven\nRuthPedro\n" in captured
+def test_output(capsys, app):
+    app()
+    captured = capsys.readouterr()
+    assert "Pepe\nBart\nCesco\nFernando\nLou\nMaria\nPedro\nLebron\nRuth\nSteven\nRuthPedro\n" in captured.out
 
-@pytest.mark.it("Have to loop the entire list")
-def test_use_foor():
-    captured = buffer.getvalue()
-
-    f = open(os.path.dirname(os.path.abspath(__file__))+'/app.py')
-    content = f.read()
-    assert content.find("for") > 0
+@pytest.mark.it("Use the for loop")
+def test_for_loop():
+    with open(path, 'r') as content_file:
+        content = content_file.read()
+        regex = re.compile(r"for(\s)+[a-zA-Z\-_]+(\s)+in(\s)+range.*")
+        assert bool(regex.search(content)) == True

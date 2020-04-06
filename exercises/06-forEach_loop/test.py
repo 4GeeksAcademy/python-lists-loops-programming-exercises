@@ -1,24 +1,22 @@
-import io
-import os
-import sys
-sys.stdout = buffer = io.StringIO()
-
-import app
-import pytest
+import io, sys, os, pytest, re
+path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
 @pytest.mark.it("Print the numbers divisible by 14")
-def test_even():
-    captured = buffer.getvalue()
-    assert "434\n56\n56\n56\n" in captured
+def test_even(capsys, app):
+    app()
+    captured = capsys.readouterr()
+    assert "434\n56\n56\n56\n" in captured.out
 
-@pytest.mark.it("Use for loop")
+@pytest.mark.it("Use the for loop")
 def test_for_loop():
-    f = open(os.path.dirname(os.path.abspath(__file__))+ '/app.py')
-    content = f.read()
-    assert content.find("for") > 0
+    with open(path, 'r') as content_file:
+        content = content_file.read()
+        regex = re.compile(r"for(\s)")
+        assert bool(regex.search(content)) == True
 
-@pytest.mark.it("Use conditional statement if/elif")
-def test_conditional():
-    f = open(os.path.dirname(os.path.abspath(__file__))+ '/app.py')
-    content = f.read()
-    assert content.find("if") > 0
+@pytest.mark.it("Use if statement")
+def test_if():
+    with open(path, 'r') as content_file:
+        content = content_file.read()
+        regex = re.compile(r"if(\s)")
+        assert bool(regex.search(content)) == True

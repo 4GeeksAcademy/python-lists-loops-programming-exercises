@@ -1,29 +1,24 @@
-import io
-import os
-import sys
-sys.stdout = buffer = io.StringIO()
-
-
-import app
-import pytest
+import io, sys, pytest, os, re
+path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
 @pytest.mark.it("Find and print the position of Wally")
-def test_find():
-    captured = buffer.getvalue()
-    assert "65\n198\n" in captured
+def test_find(capsys, app):
+    import app
+    captured = capsys.readouterr()
+    assert "65\n198\n" in captured.out
 
-
-@pytest.mark.it("Use for loop")
+@pytest.mark.it("Use the for loop")
 def test_for_loop():
-
-    f = open(os.path.dirname(os.path.abspath(__file__))+'/app.py')
-    content = f.read()
-    assert content.find("for") > 0
-
+    with open(path, 'r') as content_file:
+        content = content_file.read()
+        regex = re.compile(r"for(\s)")
+        assert bool(regex.search(content)) == True
 
 @pytest.mark.it("Use if statement")
 def test_if():
+    with open(path, 'r') as content_file:
+        content = content_file.read()
+        regex = re.compile(r"if(\s)")
+        assert bool(regex.search(content)) == True
 
-    f = open(os.path.dirname(os.path.abspath(__file__))+'/app.py')
-    content = f.read()
-    assert content.find("if") > 0
+
