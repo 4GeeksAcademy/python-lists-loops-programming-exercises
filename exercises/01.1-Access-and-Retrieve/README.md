@@ -4,22 +4,27 @@
 
 Lists are part of every programming language. They are the way to go when you want to have a "list of elements."
 
-For example, we could have an array that is storing the days of the week:
-```js
+For example, we could have a list that is storing the days of the week:
+`` 
+`js
+
+
+
+
+
 my_list = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday'];
 ```
 
-![What is an list?](http://i.imgur.com/DbmSOHT.png)
+![What is a list?](http://i.imgur.com/DbmSOHT.png)
 
 Every list has the following parts:
 - `Items:` are the actual values inside on each position of the list.
 - `Length:` is the size of the list, the number of items.
 - `Index:` is the position of an element.
-```py
-To access any particular item within the array you need to know its index (position).
+
+To access any particular item within the lista you need to know its index (position).
 The index is an integer value that represents the position in which the element is located.
-Protip: Every array starts from zero (0)! So to get the first item we'd use my_list[0]
-```
+Protip: Every list starts from zero (0)! So to get the first item we'd use my_list[0]
 
 ## 📝 Instructions
 

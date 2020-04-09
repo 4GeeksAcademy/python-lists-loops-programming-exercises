@@ -4,7 +4,7 @@ You will never know how many `items` my_stupid_list has, because it is being `ra
 
 You know that the property:
 ```py
-len(name_list) function
+len(name_list) # function
 ```
 
 returns the `length of` name_list .
