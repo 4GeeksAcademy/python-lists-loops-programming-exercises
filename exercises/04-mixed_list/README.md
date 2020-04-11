@@ -18,6 +18,6 @@ The console must have something like this:
 <class 'dict'>
 ```
 
-💡Hint:
-You can use the type() python function.
-Remember that len() return the large of your list.
+## 💡 Hint:
+- You can use the `type()` python function.
+- Remember that `len()` return the large of your list.
