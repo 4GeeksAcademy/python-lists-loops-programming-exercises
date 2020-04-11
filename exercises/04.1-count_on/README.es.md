@@ -20,5 +20,5 @@ for x in my_list:
 
 # 📝 Instrucciones:
 1. Itera la lista dada
-2. Mete los diccionarios encontrados en una nueva lista llamada `hello`
+2. Mete los tipos de datos encontrados en una nueva lista llamada `hello`
 3. Imprime la variable `hello`
