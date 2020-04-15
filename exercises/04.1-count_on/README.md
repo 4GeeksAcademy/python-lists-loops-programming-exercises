@@ -17,5 +17,5 @@ for x in my_list:
 
 # 📝Instructions:
 1. Loop the given list
-2. Push the arrays found to an new list called hello
+2. Push the data-types found to an new list called hello
 3. Print the variable hello
