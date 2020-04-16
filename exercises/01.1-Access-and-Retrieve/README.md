@@ -5,8 +5,7 @@
 Lists are part of every programming language. They are the way to go when you want to have a "list of elements."
 
 For example, we could have a list that is storing the days of the week:
-`` 
-`js
+```js
 
 
 
