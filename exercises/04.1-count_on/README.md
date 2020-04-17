@@ -4,7 +4,7 @@
 As you saw in the last exercise your list can be a mix
 `types of data` we are going to divide and conquer.
 
-Would you be so kind to add all the items with data-type Dictionary into the hello list?
+Would you be so kind to add all the items with data-type Dictionary and List into the hello list?
 
 ```py
 💡Hint:
@@ -19,3 +19,9 @@ for x in my_list:
 1. Loop the given list
 2. Push the data-types found to an new list called hello
 3. Print the variable hello
+
+# Output:
+
+```py
+[[2, 1], {'name': 'juan'}]
+```
