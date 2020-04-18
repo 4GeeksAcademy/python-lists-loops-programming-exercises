@@ -1,6 +1,15 @@
-# Welcome to Python!
+# Welcome to Python Lists!
 
+During this course you will be learning the following concepts:
 
+- What is a list.
+- What is tuple.
+- Looping a list using for.
+- Mapping lists.
+- Filter a list.
+- Creating Matrix.
+- Merge lists.
+- How to combine and use all these concepts in different ways.
 
-!["Welcome to python excercises at 4Geeks Academy!!!"](https://i.udemycdn.com/course/750x422/95568_9c21_6.jpg)
+Please click on the `Next →` button on the top right to proceed to the first challenge.
 

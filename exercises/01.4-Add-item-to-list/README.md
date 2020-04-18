@@ -7,7 +7,7 @@
 💡Tips:
 You have to `import random` module.
 Use the `random.randint()` function to get random numbers.
-Search on Google how to use random function.
+Search on Google how to use randint function.
 
 Expected in the console something similar like this:
 
