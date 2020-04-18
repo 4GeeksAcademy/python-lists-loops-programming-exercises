@@ -5,7 +5,7 @@
 
 
 💡Tips:
-You have to `import random` function.
+You have to `import random` module.
 Use the `random.randint()` function to get random numbers.
 Search on Google how to use random function.
 
