@@ -2,6 +2,7 @@ import io, sys, pytest, os, random, re
 
 @pytest.mark.it("Import the random package")
 def test_import_random():
+    path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
     with open(path, 'r') as content_file:
         content = content_file.read()
         regex = re.compile(r"import(\s)+random")
@@ -9,6 +10,7 @@ def test_import_random():
 
 @pytest.mark.it("Use the for loop")
 def test_for_loop():
+    path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
     with open(path, 'r') as content_file:
         content = content_file.read()
         regex = re.compile(r"for(\s)+(\w)+in(\s)+range")
