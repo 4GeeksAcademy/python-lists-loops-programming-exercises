@@ -1,4 +1,4 @@
-# `14` Matrix Builder
+# `15.1` Matrix Builder
 
 After some malicious code, mainly by Mr. Smith, the matrix has some gaping
 hole and it needs some help to rebuild. Create a matrix of random 0's, and 1's based on a parameter.

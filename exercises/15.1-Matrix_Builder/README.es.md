@@ -1,4 +1,4 @@
-# `14` Constructor de Matrix
+# `15.1` Constructor de Matrix
 
 Después de todo código malicioso, principalmente por Mr. Smith, Matrix tiene algunos agujeros
 y necesita ayuda para reconstruirse. Crea una matriz aleatoria de 0's y 1's basada en un parámetro.

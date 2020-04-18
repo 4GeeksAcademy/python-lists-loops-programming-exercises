@@ -1,4 +1,4 @@
-# `14.1` El Parking
+# `15.2` El Parking
 
 Podemos usar una lista bidimensional (matriz) para representar el estado actual de un parking:
 ![Parking lot](https://storage.googleapis.com/replit/images/1558366147943_71c41e2a3f01564b5bdba6618797af79.pn)
