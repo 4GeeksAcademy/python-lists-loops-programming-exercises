@@ -6,7 +6,7 @@
 
 💡Tips:
 You have to `import random` function.
-Use the `random()` function to get random numbers.
+Use the `random.randint()` function to get random numbers.
 Search on Google how to use random function.
 
 Expected in the console something similar like this:
