@@ -5,7 +5,7 @@ path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 def test_output(capsys, app):
     import app
     captured = capsys.readouterr()
-    assert "<ul><li>Red</li><li>Orange</li><li>Pink</li><li>Violet</li></ul>\n" in captured
+    assert "<li>Red</li><li>Orange</li><li>Pink</li><li>Violet</li>\n" in captured
 
 @pytest.mark.it("Create the function generate_li")
 def test_variable_exists(app):
