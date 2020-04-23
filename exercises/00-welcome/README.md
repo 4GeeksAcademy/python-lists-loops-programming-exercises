@@ -1,3 +1,7 @@
+---
+video: "https://www.youtube.com/watch?v=xMg9d0KsYAk"
+---
+
 # Welcome to Python Lists!
 
 During this course you will be learning the following concepts:
