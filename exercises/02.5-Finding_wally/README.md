@@ -1,3 +1,7 @@
+---
+video: "https://www.youtube.com/watch?v=zez4r9ApjSY"
+---
+
 # `02.5` Finding Wally
 
 # 📝Instructions:
