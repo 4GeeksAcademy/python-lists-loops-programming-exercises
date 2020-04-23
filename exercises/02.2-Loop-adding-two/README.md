@@ -1,3 +1,7 @@
+---
+video: "https://www.youtube.com/watch?v=SJv6IgPick8"
+---
+
 # `02.2` Loop adding two
 
 ```py
