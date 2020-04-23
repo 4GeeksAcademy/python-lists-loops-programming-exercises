@@ -1,3 +1,7 @@
+---
+video: "https://www.youtube.com/watch?v=Yyo3cP3zyT4"
+---
+
 # `01.2` Retrieve items
 
 The only way of accessing a particular element in an `list`(in python), is using an index.
