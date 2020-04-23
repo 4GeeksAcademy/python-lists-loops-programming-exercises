@@ -1,5 +1,5 @@
 ---
-video: "https://www.youtube.com/watch?v=zez4r9ApjSY"
+video: "https://www.youtube.com/watch?v=8wM8muTQJmU"
 ---
 
 # `03` Flip list
