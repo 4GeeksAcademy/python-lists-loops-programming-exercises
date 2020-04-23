@@ -1,3 +1,7 @@
+---
+video: "https://www.youtube.com/watch?v=uUQ6FlkoZbQ"
+---
+
 # `01.1` Access and retrieve
 
 # 📝Instructions from your teacher:
