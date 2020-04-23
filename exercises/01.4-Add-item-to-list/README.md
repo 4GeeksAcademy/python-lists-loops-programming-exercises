@@ -1,3 +1,7 @@
+---
+video: "https://www.youtube.com/watch?v=blkw9_c-s8M"
+---
+
 # `01.4` Add items to the list
 
 # 📝Instructions
