@@ -1,3 +1,7 @@
+---
+video: "https://www.youtube.com/watch?v=VK7jmXad64k"
+---
+
 # `02` Loop list
 
 ## 📝Instructions from your teacher:
