@@ -1,3 +1,7 @@
+---
+video: "https://www.youtube.com/watch?v=p7tN9AUwy5Q"
+---
+
 # `01.3` Print the last one
 
 You will never know how many `items` my_stupid_list has, because it is being `randomly` generated during runtime!
