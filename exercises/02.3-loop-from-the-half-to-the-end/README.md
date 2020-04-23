@@ -1,3 +1,6 @@
+---
+video: "https://www.youtube.com/watch?v=SzX_AdVBRn4"
+---
 
 # `02.3` Loop from the half to the end
 
