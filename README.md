@@ -34,7 +34,7 @@ Looping is one of the most challenging topics to grasp when learning how to code
 These exercises were built in collaboration, we need you! If you find any bugs or misspells plese contribute and report them.
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=GjQEotj3t6Y&list=PLCVs_S8Skwp9_apbj_ls2euakDALiWqSN"><img src="https://github.com/4GeeksAcademy/python-beginner-programming-exercises/blob/master/python-intro.gif?raw=true"></a>
+  <a href="https://www.youtube.com/watch?v=xMg9d0KsYAk&list=PLCVs_S8Skwp-I5pbEKvs7Vb-94HFNPOSC"><img src="https://github.com/4GeeksAcademy/python-beginner-programming-exercises/blob/master/python-intro.gif?raw=true"></a>
 </p>
 
 <h2>One click installation:</h2>
