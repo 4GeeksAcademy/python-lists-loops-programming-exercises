@@ -51,7 +51,7 @@ $ breathecode run
 
 ## How are the exercises organized?
 
-Each exercise is a small react application containing the following files:
+Each exercise is a small python project containing the following files:
 
 1. **app.py:** represents the entry python file that will be executed by the computer.
 2. **README.md:** contains exercise instructions.
