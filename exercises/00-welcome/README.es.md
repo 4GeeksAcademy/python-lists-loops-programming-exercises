@@ -1,6 +1,19 @@
-# Bienvenid@ a Python!
+# Bienvenid@ a las Listas de Python!
 
+---
+video: "https://www.youtube.com/watch?v=xMg9d0KsYAk"
+---
 
+En este curso aprenderás los siguientes conceptos:
 
-!["¡¡¡Bienvenid@ a los ejercicios de python en 4Geeks Academy!!!"](https://i.udemycdn.com/course/750x422/95568_9c21_6.jpg)
+- Qué es una lista.
+- Qué es una tupla.
+- Recorrer una lista usando for.
+- Mapeo de listas.
+- Filtrar una lista.
+- Crear una matriz.
+- Combinar dos listas.
+- Cómo combiar y usar todos estos conceptos de diferentes maneras.
+
+Por favor, presiona el botón de `Next →` de arriba a la derecha para ir al primer reto.
 
