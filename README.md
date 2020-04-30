@@ -20,10 +20,11 @@ Looping is one of the most challenging topics to grasp when learning how to code
     <td>1. <a href="https://github.com/4GeeksAcademy/python-beginner-programming-exercises">Python for Beginners</a> </td>
     
   </tr>
-  <tr color="white"><td>2. <a href="https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises">Practice Looping Lists and Tuples</a></td></tr>
-  <tr><td>3. <a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises">Practice functions</a></td>
+  <tr color="white"><td>2. <a href="https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises">Practice Looping Lists and Tuples</a></td>
 <td>← 🔥 your are here now</td>
     <td><a href="https://gitpod.io#https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises.git"><img src="https://gitpod.io/button/open-in-gitpod.svg" /></a></td>
+  </tr>
+  <tr><td>3. <a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises">Practice functions</a></td>
 </tr>
   <tr><td>4. <a href="https://github.com/4GeeksAcademy/master-python-programming-exercises">Master Python (intermediate)</a></td></tr>
   <tr><td>5. <a href="https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises">Python API Requests</a></td></tr>
