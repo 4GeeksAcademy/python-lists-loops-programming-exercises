@@ -1,5 +1,5 @@
 ---
-video: "https://www.youtube.com/watch?v=xMg9d0KsYAk"
+tutorial: "https://www.youtube.com/watch?v=xMg9d0KsYAk"
 ---
 
 # Welcome to Python Lists!

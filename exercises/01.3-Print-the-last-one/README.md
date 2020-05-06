@@ -1,5 +1,5 @@
 ---
-video: "https://www.youtube.com/watch?v=p7tN9AUwy5Q"
+tutorial: "https://www.youtube.com/watch?v=p7tN9AUwy5Q"
 ---
 
 # `01.3` Print the last one

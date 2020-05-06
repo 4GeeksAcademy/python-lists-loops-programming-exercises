@@ -1,5 +1,5 @@
 ---
-video: "https://www.youtube.com/watch?v=Yyo3cP3zyT4"
+tutorial: "https://www.youtube.com/watch?v=Yyo3cP3zyT4"
 ---
 
 # `01.2` Retrieve items

@@ -1,5 +1,5 @@
 ---
-video: "https://www.youtube.com/watch?v=tJ-si9lRkUc"
+tutorial: "https://www.youtube.com/watch?v=tJ-si9lRkUc"
 ---
 
 # `04` Mixed List

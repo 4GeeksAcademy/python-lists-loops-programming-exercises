@@ -1,5 +1,5 @@
 ---
-video: "https://www.youtube.com/watch?v=qO3ZNWrkeGg"
+tutorial: "https://www.youtube.com/watch?v=qO3ZNWrkeGg"
 ---
 
 # `01.5` Loop from 1 to 17

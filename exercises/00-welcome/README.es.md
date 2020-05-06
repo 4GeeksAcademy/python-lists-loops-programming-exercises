@@ -1,7 +1,7 @@
 # Bienvenid@ a las Listas de Python!
 
 ---
-video: "https://www.youtube.com/watch?v=xMg9d0KsYAk"
+tutorial: "https://www.youtube.com/watch?v=xMg9d0KsYAk"
 ---
 
 En este curso aprenderás los siguientes conceptos:

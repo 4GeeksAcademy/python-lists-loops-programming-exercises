@@ -1,5 +1,5 @@
 ---
-video: "https://www.youtube.com/watch?v=ca1DZgLwy00"
+tutorial: "https://www.youtube.com/watch?v=ca1DZgLwy00"
 ---
 
 # `02.4` One last looping

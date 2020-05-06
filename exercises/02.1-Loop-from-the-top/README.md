@@ -1,5 +1,5 @@
 ---
-video: "https://www.youtube.com/watch?v=tFCstq-Us3I"
+tutorial: "https://www.youtube.com/watch?v=tFCstq-Us3I"
 ---
 
 # `02.1` Loop from the top
