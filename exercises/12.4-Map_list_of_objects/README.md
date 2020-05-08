@@ -8,7 +8,7 @@ The current algorithm creates a lists with only the names of the people and prin
 1. At this time the function is printing the names only.
 2. Please update the mapping function so it creates a list where each item contains the following:
 
-`Hello my name is Joe and I am 13 years old.`
+`Hello, my name is Joe and I am 13 years old`
 
 💡Hint
 You have to get the age of each people based on their birthDate.
