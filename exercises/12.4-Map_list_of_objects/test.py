@@ -1,7 +1,7 @@
 import io, sys, pytest, os, re
 path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
-@pytest.mark.it("Good job!!😎")
+@pytest.mark.it("Each element needs to have this output: !!😎")
 def test_multp(capsys, app):
     import app
     captured = capsys.readouterr()
