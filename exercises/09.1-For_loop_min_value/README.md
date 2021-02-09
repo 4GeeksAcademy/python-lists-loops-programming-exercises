@@ -8,12 +8,11 @@ you have to specify what to do on each iteration of the loop.
 1. Please use the for loop function to get the minimum value
  of the list and print it in the console.
 
-HINT
-1. Declare an auxiliar global variable
-2. Set its value to a very big integer
-3. Every time you loop compare its value to the item value, if the item value is smaller
-   update the auxiliar variable value to the item value.
-4. Outside of the loop, after the loop is finished, print the auxiliar value.
+💡Tip:
+1. Declare an Auxiliary Global Variable.
+2. Set it's value to a very big interger.
+3. Every time you loop, compare it's value to the item value. If the item value is smaller, update the auxiliary variable value to the item value.
+4. Outside of the loop, after the loop is finished, print the auxiliary value.
 
 ```py
 expected: 23
