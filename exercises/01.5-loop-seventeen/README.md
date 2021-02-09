@@ -30,7 +30,7 @@ Note that the number specified in range(), 5 in this example, is never reached a
 
 1. Count from 1 to 17 with a loop and print each number on the console.
 
-💡HINT:
+💡Hint:
 - This how you loop
 `https://www.w3schools.com/python/python_for_loops.asp`
 
