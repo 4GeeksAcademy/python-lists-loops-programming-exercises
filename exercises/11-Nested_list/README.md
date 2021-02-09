@@ -5,10 +5,13 @@ It is possible to find a list comprised of other lists (it is called a two-dimen
 
 In this example, we have a list of coordinates that you can access by doing the following:
 
-//longitude = []
-// for loop in coordinate longitude
-longitude = coordinatesList[0][1];
+```py
+longitude = []
 
+for loop in coordinate longitude
+
+longitude = coordinatesList[0][1];
+```
 
 # 📝Instructions:
 Loop through the list printing only the longitudes.
@@ -21,4 +24,4 @@ The result should be something like this:
 ```
 
 💡Hint:
-Remember the index of the position 1 is list[0]
+- Remember the index of the position 1 is list[0]
