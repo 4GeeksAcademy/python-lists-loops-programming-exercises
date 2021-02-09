@@ -1,4 +1,4 @@
-# `15` Techno Beats
+# `16` Techno Beats
 You are working with a DJ and he needs a program that can create a beats for his songs.
 
 # 📝Instructions:
@@ -23,7 +23,7 @@ Drop the base Drop the base Drop the base !!!Break the base!!!
 ```
 
 
-💡Hints
-Remember to use helper variables
-Declare a variable to store
-Declare a variable to count and sum
+💡Hints:
+- Remember to use helper variables
+- Declare a variable to store
+- Declare a variable to count and sum
