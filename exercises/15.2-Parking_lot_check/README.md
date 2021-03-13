@@ -14,15 +14,18 @@ parking_state = [
 ```
 
 # 📝Instructions
-1. Create a function get_parking_lot() that returns an object
+1. Create a function get_parking_lot() that returns a dictionary
 with total_slots, available_slots and occupied_slots like the following:
-const state = {
-     totalSlots: 12,
-     availableSlots: 3,
-     occupiedSlots: 9
-}
 
-💡Hints
-You have to do a nested loop
-Declare a variables to store the value
-Compare the statements
+```python
+state = {
+     total_Slots: 12,
+     available_Slots: 3,
+     occupied_Slots: 9
+}
+```
+
+💡Hints:
+- Declare the key names to store the values.
+- You have to do a nested loop.
+- Compare the statements.
