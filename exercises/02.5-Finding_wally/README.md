@@ -8,8 +8,8 @@ tutorial: "https://www.youtube.com/watch?v=zez4r9ApjSY"
 1. Find Wally :)
 2. Print the position(s) of Wally in the console.
 
-📝Hint
-USE A `LOOP!!!` and an `IF (conditional)`
+💡Hint:
+- USE A `LOOP!!!` and an `IF (conditional)`
 
 
 Easter Egg:
