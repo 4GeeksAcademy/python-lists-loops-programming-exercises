@@ -4,7 +4,7 @@ Dictionaries (or dict in Python) are a way of storing elements just like you
 would in a Python list. But, rather than accessing elements using its index,
 you assign a fixed key to it and access the element using the key. What you now
 deal with is a "key-value" pair, which is sometimes a more appropriate data structure
-for many problem instead of a simple list.
+for many problems instead of a simple list.
 
 
 # 📝Instruction
@@ -18,10 +18,10 @@ phone : 123-123-2134
 email : test@nowhere.com
 ```
 
-💡Hints
--contact.keys()  `['fullname', 'phone', 'email']`
+💡Hint:
+- contact.keys()  `['fullname', 'phone', 'email']`
 
--contact.values()  `['Jane Doe', '321-321-4321', 'test@test.com']`
+- contact.values()  `['Jane Doe', '321-321-4321', 'test@test.com']`
 
--contact.items()  `[('fullname', 'Jane Doe'), ('phone', '321-321-4321'), `
+- contact.items()  `[('fullname', 'Jane Doe'), ('phone', '321-321-4321'), `
                     `('email', 'test@test.com')]`
