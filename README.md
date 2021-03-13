@@ -1,7 +1,7 @@
 
 #  🐍 Python Loops & Lists Tutorial Exercises
 
-     <a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises/blob/master/python-lp-badge.png"></a>
+<a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises/blob/master/python-lp-badge.png"></a>
 
 > By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
