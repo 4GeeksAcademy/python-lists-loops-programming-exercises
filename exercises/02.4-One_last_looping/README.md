@@ -10,8 +10,8 @@ tutorial: "https://www.youtube.com/watch?v=ca1DZgLwy00"
 3. Set the first element to the value of the 3rd element concatenated to the value of the 5th element.
 4. Reverse loop (from the end to the beginning) the whole list and print all the elements.
 
-💡HINT:
--Remember that list start at position 0.
+💡Hint:
+- Remember that list start at position 0.
 
 The result should be something like this:
 ```py
