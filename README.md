@@ -5,7 +5,7 @@
 
 > By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
-![last commit](https://img.shields.io/github/last-commit/python-lists-loops-programming-exercises)
+[![last commit](https://img.shields.io/github/last-commit/python-lists-loops-programming-exercises)
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://breatheco.de)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
