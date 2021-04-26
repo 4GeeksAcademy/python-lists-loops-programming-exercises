@@ -8,8 +8,9 @@ The only way of accessing a particular element in an `list`(in python), is using
 An `index` is an integer number that represents the `position` you want to access in the list.
 
 You need to `wrap` the index into `brackets` like this:
-```js
-my_value = list[index];
+```py
+my_value = list[index]
+
 ```
 
 ## 📝 Instructions
