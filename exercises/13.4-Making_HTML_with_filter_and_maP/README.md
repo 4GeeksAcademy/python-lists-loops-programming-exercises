@@ -9,5 +9,5 @@ Expected:
 ```
 
 💡Hint:
-- Maybe you have to use filter() and map function
-set() values to the new variables
+- Maybe you have to use filter() for colors first and map() function to
+set values to the new variables.
