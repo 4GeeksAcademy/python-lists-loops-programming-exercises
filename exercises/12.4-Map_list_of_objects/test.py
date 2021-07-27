@@ -5,7 +5,7 @@ path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 def test_multp(capsys, app):
     import app
     captured = capsys.readouterr()
-    assert "['Hello, my name is Joe and I am 33 years old', 'Hello, my name is Bob and I am 44 years old', 'Hello, my name is Erika and I am 30 years old', 'Hello, my name is Dylan and I am 20 years old', 'Hello, my name is Steve and I am 16 years old']\n" in captured.out
+    assert "['Hello, my name is Joe and I am 34 years old', 'Hello, my name is Bob and I am 46 years old', 'Hello, my name is Erika and I am 32 years old', 'Hello, my name is Dylan and I am 21 years old', 'Hello, my name is Steve and I am 18 years old']\n" in captured.out
 
 @pytest.mark.it("Use the map function ")
 def test_map():
