@@ -6,5 +6,10 @@
     "description": "Practice Python Lists and tuples (arrays) with interactive auto-graded exercises and video solutions.",
     "duration": 10,
     "difficulty": "easy",
-    "video-solutions": false
+    "video-solutions": false,
+    "config": {
+        "editor": {
+            "version": "1.0.68"
+        }
+    }
 }
