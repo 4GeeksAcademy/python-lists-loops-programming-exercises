@@ -5,8 +5,8 @@
 Las listas forman parte de cada lenguaje de programación. Ellas son la vía a tomar cuando quieres tener una "lista de elementos".
 
 Por ejemplo, podríamos tener una lista que almacena los días de la semana:
-```js
-my_list = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday'];
+```py
+my_list = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday']
 ```
 
 ![¿Qué es una lista?](http://i.imgur.com/DbmSOHT.png)
