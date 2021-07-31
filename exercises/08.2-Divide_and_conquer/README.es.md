@@ -1,7 +1,7 @@
 # `08.2` Divide y vencerás:
 
 # 📝 Instrucciones
-1. Crea una función llamada merge_two_list que espere una lsita números enteros.
+1. Crea una función llamada merge_two_list que espere una lista números enteros.
 2. Itera la lista y separa los números pares e impares en diferentes listas.
 3. Si el número es impar colócalo en una lista llamada odd.
 4. Si el número es par colócalo en una lista llamada even.
