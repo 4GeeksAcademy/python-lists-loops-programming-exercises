@@ -16,4 +16,4 @@ uniendo todos los valores de las dos listas.
 ```
 
 ## 💡 Pista:
-- Tendrás que iterar cada lista e insertar sus elementos en una neuva lista.
+- Tendrás que iterar cada lista e insertar sus elementos en una nueva lista.
