@@ -1,4 +1,4 @@
-# `15` Latidos de tecno
+# `16` Latidos de tecno
 Estás trabajando con un DJ que necesita un programa que pueda crear latidos para sus canciones.
 
 # 📝 Instrucciones:
