@@ -8,6 +8,7 @@ Every language has a console, as it was the only way to interact with the users 
  monitoring tool, ideal to leave a trace of the content of variables during the program execution.
 
 This is an example of how to use it:
+
 ```py
 print("How are you?")
 ```
