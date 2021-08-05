@@ -3,14 +3,19 @@ tutorial: "https://www.youtube.com/watch?v=tFCstq-Us3I"
 ---
 
 # `02.1` Loop from the top
+
 ```js
 This loop is `looping` the list from beginning to end... increasing one by one.
 ```
 
-# 📝Instructions
+## 📝Instructions:
+
 1. Lets try looping from the end to the beginning.
 
+## Expected result:
+
 The console output should be something like this:
+
 ```js
 12
 25

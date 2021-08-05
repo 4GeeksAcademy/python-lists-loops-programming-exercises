@@ -5,11 +5,14 @@ tutorial: "https://www.youtube.com/watch?v=SJv6IgPick8"
 # `02.2` Loop adding two
 
 ```py
-This code is `looping` the whole array, `one by one`.
+This code is `looping` the whole list, `one by one`.
 ```
 
-# 📝Instructions
+## 📝Instructions:
+
 Change the loop so it loops `two by two` instead of one by one.
+
+## Expected result:
 
 The console output should be something like:
 ```js

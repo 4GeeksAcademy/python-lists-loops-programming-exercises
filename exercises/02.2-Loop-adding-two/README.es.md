@@ -1,11 +1,14 @@
 # `02.2` Iterando agregando dos
 
 ```py
-Este códico es `iterando` la lista entera, `uno a uno`.
+Este código es `iterando` la list entera, `uno a uno`.
 ```
 
-# 📝 Instrucciones
-Cambiar el ciclo para que itere `de dos en dos` en lugar de uno a uno.
+## 📝 Instrucciones:
+
+1. Cambiar el bucle o loop para que itere `de dos en dos` en lugar de uno a uno.
+
+## Resultado esperado:
 
 La salida en la consola debería ser como esta:
 ```js

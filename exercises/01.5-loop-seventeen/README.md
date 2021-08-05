@@ -15,7 +15,8 @@ for x in range(0,5):
   print(x)
 ```
 
-Expected output:
+Resultado esperado:
+
 ```md
 0
 1
@@ -24,17 +25,21 @@ Expected output:
 4
 ```
 
-Note that the number specified in range(), 5 in this example, is never reached and 4 is our last output. We can incorporate additional parameters to further specify (now could be a good time to google or at least check the HINT section ;) ).
+> Note that the number `5` specified in `range()`, in this example, is never reached and `4` is our last output. 
 
-# 📝Instructions from your teacher:
+We can incorporate additional parameters to further specify (now could be a good time to google or at least check the HINT section ;) ).
 
-1. Count from 1 to 17 with a loop and print each number on the console.
+## 📝Instructions:
 
-💡HINT:
-1. This how you loop
++ Count from `1` to `17` with a loop and **print** each number on the console.
+
+## 💡 Hint:
+
++  This how you loop with Python:
 `https://www.w3schools.com/python/python_for_loops.asp`
 
-Expected console result:
+## Expected result:
+
 ```py
 1
 2
