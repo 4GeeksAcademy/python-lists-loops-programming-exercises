@@ -14,7 +14,6 @@ tutorial: "https://www.youtube.com/watch?v=zez4r9ApjSY"
 
 + Use a `LOOP!!!` and an `IF (conditional)`
 
-
 ### **Easter Egg:**
 
 What if there is more than one Wally?

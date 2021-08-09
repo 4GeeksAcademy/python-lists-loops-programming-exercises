@@ -36,6 +36,7 @@ We can incorporate additional parameters to further specify (now could be a good
 ## 💡 Hint:
 
 +  This how you loop with Python:
+
 `https://www.w3schools.com/python/python_for_loops.asp`
 
 ## Expected result:

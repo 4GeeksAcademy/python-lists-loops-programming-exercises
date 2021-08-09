@@ -1,4 +1,4 @@
-# `07` Hacer mierntas
+# `07` Hacer mientras
 
 Hacer, hacer, hacer.
 La función `while()` es otro ejemplo de bucle en python es menos común usarla, pero es un bucle.

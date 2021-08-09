@@ -39,24 +39,32 @@ Si encuentras algún error o falta de ortografía, por favor contribuye y repór
 
 ## O por instalación local (si prefieres no usar Gitpod)
 
-1) Asegúrate de tener [breathecode-cli](https://github.com/breatheco-de/breathecode-cli) instalado y `node.js` version 10+ and python version 3+. Este es el comando para instalar el breathecode-cli
+## Instalación local
+
+1. Instala learnpack, el administrador de paquetes para tutoriales de aprendizaje y el complemento del compilador html para learnpack, asegúrate de tener también node.js 12+:
 
 ```sh
-$ npm i breathecode-cli -g
+$ npm i learnpack -g
+$ learnpack plugins:install learnpack-python
 ```
 
-2) Descarga los ejercicios de JavaScript en el directorio actual y ejecutando:
+2. Descarga este ejercicio en particular usando learnpack y `cd` para entrar en la carpeta:
+
 ```
-$ git clone https://github.com/4GeeksAcademy/javascript-functions-exercises.git && cd javascript-functions-exercises
+$ learnpack download python-lists-loops-programming-exercises
+$ cd python-lists-loops-programming-exercises
 ```
 
-Nota: Una vez termine la descarga, encontrarás un nuevo directorio con un subdirectorio llamado "exercises" que contiene todos los ejercicios dentro.
+NNota: Una vez que termine de descargar, encontrarás la carpeta "exercises" que contiene todos los ejercicios.
 
-3) Comienza el tutorial/ejercicios ejecutando el siguiente comando desde la raíz del proyecto:
+3. Start the tutorial/exercises by running the following command at the same level were your bc.json file is:
 
 ```sh
-$ pip install pytest==4.4.2 mock pytest-testdox
-$ breathecode run
+$ $ pip3 install pytest==4.4.2 pytest-testdox mock
+$ learnpack start
+```
+
+3. Inicia el tutorial / ejercicios ejecutando el siguiente comando en el mismo nivel donde está su archivo bc.json:
 ```
 
 ## ¿Cómo están organizados los ejercicios?

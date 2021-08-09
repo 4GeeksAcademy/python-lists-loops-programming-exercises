@@ -7,8 +7,6 @@ list = ["a","b","c"]
 dictionary = { "one": "a", "two": "b", "three": "c"}
 ```
 
-![Python list vs dict](https://ucarecdn.com/4671e04e-651d-4434-a01a-f019dddfb2d2/)
-
 ## Retrieve dictonary values (very similar to lists)
 
 ```python

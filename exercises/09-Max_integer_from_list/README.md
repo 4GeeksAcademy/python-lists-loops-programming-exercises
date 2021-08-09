@@ -1,13 +1,14 @@
 # `09` Max integer from my_list
 
-
 ## 📝Instruccions:
 
 1. Write a `script` that finds the biggest integer in list.
 
 2. Print that number in the console with the `print()` function.
 
+
 ## 💡 Hint:
+
 
 - Define an auxiliar variable and set the first value to 0.
 

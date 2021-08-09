@@ -7,7 +7,7 @@ Un `index` es un número entero que representa la `posición` a la que quieres a
 Tienes que `envolver` el índice entre `corchetes` así:
 
 ```js
-my_value = list[index];
+my_value = list[index]
 ```
 
 ## 📝 Instrucciones:
@@ -15,3 +15,5 @@ my_value = list[index];
 1. Imprime en la console el 1er elemento de la lista
 
 2. Imprime en la console el 4to elemento de la lista
+
+

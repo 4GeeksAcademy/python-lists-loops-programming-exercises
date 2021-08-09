@@ -22,3 +22,4 @@ mergeTwoList([1,2,33,10,20,4])
 ## 💡 Pista:
 
 + Puedes crear variables vacías(placeholders) cuando necesites almacenar información.
+

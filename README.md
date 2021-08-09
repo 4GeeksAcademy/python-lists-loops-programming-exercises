@@ -1,16 +1,15 @@
-<table>
-  <tr>
-    <td><img src="https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,32"></td>
-    <td>
-      <h1> 🐍 Python Loops & Lists Tutorial Exercises</h1>
-      <p>By <a href="https://twitter.com/alesanchezr">@alesanchezr</a> and <a href="https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises/graphs/contributors">other contributors</a> at <a href="http://4geeksacademy.co/">4Geeks Academy</a></p>
-      <img src="https://img.shields.io/github/last-commit/4geeksacademy/python-lists-loops-programming-exercises" />
-      <a href="https://breatheco.de"><img src="https://img.shields.io/badge/certified-BreatheCode-blue" /></a>
-      <a href="https://twitter.com/alesanchezr"><img src="https://img.shields.io/twitter/follow/alesanchezr?style=social&logo=twitter" alt="follow on Twitter"></a>
-      <a href="https://gitpod.io#https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises.git"><img src="https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod" /></a>
-    </td>
-  </tr>
-</table>
+
+#  🐍 Python Loops & Lists Tutorial Exercises
+
+<a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises/blob/master/python-lp-badge.png"></a>
+
+> By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
+
+
+![last commit](https://img.shields.io/github/last-commit/4geeksacademy/python-lists-loops-programming-exercises)
+[![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://breatheco.de)
+[![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
+
 
 Looping is one of the most challenging topics to grasp when learning how to code, learn all the possible ways to loop in python, looping lists, touples, dictionaries and other data-structures. The entire tutorial is 👆 interactive, ✅ auto-graded and with. 📹 video tutorials.
 
@@ -44,18 +43,30 @@ These exercises were built in collaboration, we need you! If you find any bugs o
 
 ## Local Installation
 
-1) Make sure you have the [breathecode-cli](https://github.com/breatheco-de/breathecode-cli) installed and `node.js` version 10+ and python version 3+. This is the command to install the breathecode-cli
+1. Install learnpack, the package manager for learning tutorials and the html compiler plugin for learnpack, make sure you also have node.js 12+:
+
 ```
-$ npm i breathecode-cli -g
+$ npm i learnpack -g
+$ learnpack plugins:install learnpack-python
 ```
 
-2) Clone or download this repository. Once you finish downloading, you will find a new folder with a subdirectory "exercises" that contains all the exercises within.
+2. Download this particular exercise using learnpack and `cd` into the folder:
 
-3) Start the tutorial/exercises by running the following command from the root of the project:
+```
+$ learnpack download python-lists-loops-programming-exercises
+$ cd python-lists-loops-programming-exercises
+```
+
+Note: Once you finish downloading, you will find a "exercises" folder that contains all the exercises within.
+
+3. Start the tutorial/exercises by running the following command at the same level were your bc.json file is:
 
 ```sh
-$ pip install pytest==4.4.2 mock pytest-testdox
-$ breathecode run
+$ $ pip3 install pytest==4.4.2 pytest-testdox mock
+$ learnpack start
+```
+
+Note: The exercises have automatic grading but its very rigid and string, my recomendation is to ignore the tests and use them only as a recomendation or you can get frustrated.
 ```
 
 ## How are the exercises organized?
