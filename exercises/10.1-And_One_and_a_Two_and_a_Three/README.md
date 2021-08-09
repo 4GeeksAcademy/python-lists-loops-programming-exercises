@@ -1,9 +1,9 @@
 # `10.1` And one and two and three
 
-Dictionaries (or dict in Python) are a way of storing elements just like you
-would in a Python list. But, rather than accessing elements using its index,
-you assign a fixed key to it and access the element using the key. What you now
-deal with is a "key-value" pair, which is sometimes a more appropriate data structure
+**Dictionaries** (or `dict` in Python) are a way of storing elements just like you would in a Python list but instead of accessing elements using its index,
+you assign a **fixed key** to it and access the element using the `key`. 
+
+What you now deal with is a "key-value" pair, which is sometimes a more appropriate data structure
 for many problem instead of a simple list.
 
 
