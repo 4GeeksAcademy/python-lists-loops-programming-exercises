@@ -1,9 +1,11 @@
 # `06.1` Everything is Awesome
 
-# Instructions from your teacher:
+## Instructions:
 
-1. Compare the item if it is 1 push the number to the list new_list
-2. Compare the item if it is 0 push "Yahoo" to the list new_list (instead of the number)
+1. Compare the item if it is `1` push the number to the list `new_list`.
+
+2. Compare the item if it is `0` push `Yahoo` to the list `new_list` (instead of the number).
+
 
 ```js
 Example output for [0,0,1,1,0]:
