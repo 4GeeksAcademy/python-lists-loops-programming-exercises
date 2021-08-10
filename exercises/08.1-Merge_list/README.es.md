@@ -2,9 +2,10 @@
 
 Dado que vivimos en un nuevo mundo, no deberían haber colores ni etiquetas, ¿verdad?
 
-# 📝 Instrucciones:
+## 📝 Instrucciones:
 
 1. Escribe una función que una dos listas y devuelva una nueva lista con los valores de las dos listas.
+
 Sigue estos pasos:
 
 + Declara una lista vacía.

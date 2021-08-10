@@ -1,7 +1,13 @@
 # `13.2` Filter done tasks
 
-# 📝Instructions
-1. Use the filter function to remove all the undone tasks from the tasks list and print the new list on the console.
+## 📝Instructions:
+
+1. Use the `filter()` function to remove all the undone tasks from the tasks list 
+
+2. Print the new list on the console.
+
+
+## Expected result:
 
 ```py
 Expected output:

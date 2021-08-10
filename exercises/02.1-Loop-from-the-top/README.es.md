@@ -1,7 +1,7 @@
 # `02.1` Iterar desde el final
 
-```js
-Este ciclo es `iterando` la lista de principio a fin...incrementando uno a uno.
+```py
+Este bucle es `iterando` la lista de principio a fin...incrementando uno a uno.
 ```
 
 ## 📝 Instrucciones:
@@ -12,7 +12,7 @@ Este ciclo es `iterando` la lista de principio a fin...incrementando uno a uno.
 
 La salida en la consola debería ser algo así:
 
-```js
+```py
 12
 25
 23

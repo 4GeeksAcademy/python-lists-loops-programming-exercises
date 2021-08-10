@@ -2,7 +2,7 @@
 
 Las listas forman parte de cada lenguaje de programación. Ellas son la vía a tomar cuando quieres tener una "lista de elementos".
 
-```js
+```py
 my_list = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday'];
 
 ```

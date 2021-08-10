@@ -8,7 +8,7 @@
 
 ## 💡 Pista:
 
-+ Para imprimir el *promedio*, tienes que sumar todos los valores y dividir el total entre la cantidad
++ Para imprimir el `promedio` tienes que sumar todos los valores y dividir el total entre la cantidad
 de elementos de la lista.
 
 ## Resultado esperado:

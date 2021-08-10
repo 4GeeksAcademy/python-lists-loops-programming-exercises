@@ -15,7 +15,8 @@ Change the loop so it loops `two by two` instead of one by one.
 ## Expected result:
 
 The console output should be something like:
-```js
+
+```py
 3423
 4
 654

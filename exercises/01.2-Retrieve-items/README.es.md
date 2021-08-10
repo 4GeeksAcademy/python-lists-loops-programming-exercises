@@ -6,8 +6,9 @@ Un `index` es un número entero que representa la `posición` a la que quieres a
 
 Tienes que `envolver` el índice entre `corchetes` así:
 
-```js
+```py
 my_value = list[index]
+
 ```
 
 ## 📝 Instrucciones:

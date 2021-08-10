@@ -4,7 +4,7 @@ tutorial: "https://www.youtube.com/watch?v=tFCstq-Us3I"
 
 # `02.1` Loop from the top
 
-```js
+```py
 This loop is `looping` the list from beginning to end... increasing one by one.
 ```
 
@@ -16,7 +16,7 @@ This loop is `looping` the list from beginning to end... increasing one by one.
 
 The console output should be something like this:
 
-```js
+```py
 12
 25
 23

@@ -2,6 +2,7 @@
 
 DO DO DO
 The do `while()`(mientras); is another loop example in python is less commonly used but it is a loop.
+
 ```py
 x = 1
 while x < 6:

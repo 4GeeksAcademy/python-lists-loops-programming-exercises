@@ -21,6 +21,7 @@ tutorial: "https://www.youtube.com/watch?v=ca1DZgLwy00"
 ## Expected result:
 
 The result should be something like this:
+
 ```py
 Pepe
 Bart

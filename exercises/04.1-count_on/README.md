@@ -16,11 +16,15 @@ for x in my_list:
 ```
 
 # 📝Instructions:
-1. Loop the given list
-2. Push the data-types found to an new list called hello
-3. Print the variable hello
 
-# Output:
+1. Loop the given list.
+
+2. Push the data-types found to an new list called `hello`.
+
+3. Print the variable `hello`.
+
+
+# Expected result:
 
 ```py
 [[2, 1], {'name': 'juan'}]

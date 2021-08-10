@@ -1,7 +1,12 @@
 # `13.2` Filtrar las tareas realizadas
 
-# 📝 Instrucciones
-1. Usa la función `filter` para remover todas las tareas sin terminar de la lista de tareas e imprime la nueva lista en la consola.
+## 📝 Instrucciones
+
+1. Usa la función `filter()` para eliminar todas las tareas pendientes de la lista de tareas 
+
+2. Imprime la nueva lista en la consola.
+
+## Resultado esperado:
 
 ```py
 Salida esperada:

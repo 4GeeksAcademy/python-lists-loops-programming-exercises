@@ -17,6 +17,7 @@
 ## Resultado esperado:
 
 El resultado debería ser algo como esto:
+
 ```py
 Pepe
 Bart

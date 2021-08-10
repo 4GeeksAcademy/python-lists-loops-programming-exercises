@@ -9,9 +9,10 @@ Es posible recorrer una lista usando un `loop` for para lista en Python, tú tie
 
 ## 💡 Ayuda:
 
-1. Declara variable auxiliar global
+1. Declara variable auxiliar global.
 
-2. Establece su valor inicial con un entero muy grande
+2. Establece su valor inicial con un entero muy grande.
+
 3. Cada vez que iteres, compara su valor con el valor del elemento, si el valor del elemento es más pequeño, asígnalo como nuevo valor de la variable auxiliar.
 
 4. Fuera del bucle o loop, después de que el bucle haya finalizado, **imprime**(`print()`) el valor auxiliar.

@@ -21,7 +21,8 @@ What if there is more than one Wally?
 ## Expected result:
 
 The console output expected:
-```js
+
+```py
 65
 198
 ```

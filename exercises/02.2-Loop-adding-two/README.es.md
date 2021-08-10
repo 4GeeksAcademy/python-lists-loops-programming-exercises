@@ -11,7 +11,8 @@ Este código es `iterando` la list entera, `uno a uno`.
 ## Resultado esperado:
 
 La salida en la consola debería ser como esta:
-```js
+
+```py
 3423
 4
 654

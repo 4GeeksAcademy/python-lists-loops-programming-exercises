@@ -11,7 +11,7 @@ It is possible to traverse an list using the list `for` loop, ou have to specify
 
 1. Declare an auxiliar global variable.
 
-2. Set its value to a very big integer
+2. Set its value to a very big integer.
 
 3. Every time you loop compare its value to the item value, if the item value is smaller update the auxiliar variable value to the item value.
 

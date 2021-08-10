@@ -9,7 +9,7 @@
 +  Si es `0` mete `Yahoo` en la lista `new_list` (en lugar del número).
 
 
-```js
+```py
 Ejemplo de salida para [0,0,1,1,0]:
 
 Yahoo,

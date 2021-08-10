@@ -18,7 +18,9 @@
 ## Resultado esperado:
 
 Salida esperada en la consola:
-```js
+
+
+```py
 65
 198
 ```

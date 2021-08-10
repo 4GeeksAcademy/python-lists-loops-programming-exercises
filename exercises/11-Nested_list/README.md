@@ -1,7 +1,7 @@
 
 # `11` Nested list
 
-It is possible to find a list comprised of other lists (it is called a two-dimension list or matrix).
+It is possible to find a list comprised of other lists, it is called a two-dimension list or `matrix`.
 
 In this example, we have a list of coordinates that you can access by doing the following:
 
@@ -24,4 +24,4 @@ The result should be something like this:
 ```
 
 💡Hint:
-- Remember the index of the position 1 is list[0]
+- Remember the index of the position 1 is `list[0]`
