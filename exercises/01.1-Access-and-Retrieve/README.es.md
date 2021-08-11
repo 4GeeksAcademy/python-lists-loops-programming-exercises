@@ -3,7 +3,7 @@
 Las listas forman parte de cada lenguaje de programación. Ellas son la vía a tomar cuando quieres tener una "lista de elementos".
 
 ```py
-my_list = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday'];
+my_list = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday']
 
 ```
 
