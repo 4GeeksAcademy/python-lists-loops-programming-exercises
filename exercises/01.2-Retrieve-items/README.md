@@ -11,7 +11,7 @@ An `index` is an integer number that represents the `position` you want to acces
 You need to `wrap` the index into `brackets` like this:
 
 
-```js
+```py
 my_value = list[index];
 ```
 

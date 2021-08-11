@@ -10,7 +10,7 @@ Lists are part of every programming language. They are the way to go when you wa
 
 For example, we could have a list that is storing the days of the week:
 
-```js
+```py
 my_list = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday'];
 ```
 
