@@ -5,7 +5,7 @@
 1. Imprime todos los elementos en la consola, en lugar de solo un elemento de la lista.
 
 ```py
-Tendrás que iterar a lo largo de la lista entera usando un ciclo for.
+Tendrás que iterar a lo largo de la lista entera usando un bucle for.
 ```
 
 ## 💡 Pista:

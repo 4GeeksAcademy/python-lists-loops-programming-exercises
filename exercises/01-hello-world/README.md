@@ -13,10 +13,9 @@ This is an example of how to use it:
 print("How are you?")
 ```
 
-📝 Instructions:
+## 📝 Instructions:
 
-```md
-Use the `print()` function to print `Hello World` on the console. 
-```
+1. Use the `print()` function to print `Hello World` on the console. 
+
 Feel free to try other things as well.
 

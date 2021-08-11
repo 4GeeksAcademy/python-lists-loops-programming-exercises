@@ -5,7 +5,7 @@ Este loop o bucle no está iterándo... porque las variables `initialValue`, `st
 
 # 📝 Instrucciones:
 
-1. Cambia el valor de esas variables para hacer que el ciclo imprima solo la segunda mitad de la lista.
+1. Cambia el valor de esas variables para hacer que el bucle imprima solo la segunda mitad de la lista.
 
 2. ¡No cambies nada más que el valor de esas tres variables!
 

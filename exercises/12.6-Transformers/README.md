@@ -11,7 +11,5 @@
 ## Expected result:
 
 ```py
-The expected output
-
 'Mario Montes', 'Joe Biden', 'Bill Clon', 'Hilary Mccafee', 'Bobby Mc birth']
 ```

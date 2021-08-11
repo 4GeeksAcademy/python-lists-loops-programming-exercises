@@ -12,5 +12,4 @@ Esperado:
 ## 💡 Pista:
 
 - Posiblemente tengas que usar las funciones `filter()` y `map()`.
-
 - Asigna valores a las nuevas variables (`set()`).

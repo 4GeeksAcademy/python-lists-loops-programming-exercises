@@ -12,7 +12,7 @@ You need to `wrap` the index into `brackets` like this:
 
 
 ```py
-my_value = list[index];
+my_value = list[index]
 ```
 
 ## 📝 Instructions:

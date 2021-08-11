@@ -7,14 +7,14 @@ list = ["a","b","c"]
 dictionary = { "one": "a", "two": "b", "three": "c"}
 ```
 
-## Retrieve dictonary values (very similar to lists)
+#### Retrieve dictonary values (very similar to lists)
 
 ```python
 person = { "name": "Juan", "lastname": "Contreras" }
 print(person["name"]) # Output: "Juan"
 ```
 
-## Add new value to dictionary
+#### Add new value to dictionary
 
 ```python
 person["age"] = 22
@@ -32,7 +32,7 @@ for key in spanish_translations:
     print(spanish_translations[key]) # <- output: "perro",  "casa", "gato"
 ```
 
-# 📝Instructions
+## 📝Instructions
 
 Programatically add the following translations to the `spanish_translations` dictionary:
 

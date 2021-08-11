@@ -24,6 +24,7 @@ El actual algoritmo crea una lista con solo los nombres de las `persona`s y los 
 ## Resultado esperado:
 
 La salida esperada debería ser similar a esta:
+
 ```py
 [ 'Hello, my name is Joe and I am 32 years old',
   'Hello, my name is Bob and I am 42 years old',

@@ -4,7 +4,7 @@
 
 1. Crea la variable `new_list`.
 
-2. Usando un ciclo, invierte la lista `arr`
+2. Usando un bucle, invierte la lista `arr`
 
 3. Agrega el resultado del loop o bucle a la variable `new_list`.
 

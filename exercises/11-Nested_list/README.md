@@ -10,11 +10,15 @@ longitude = []
 
 for loop in coordinate longitude
 
-longitude = coordinatesList[0][1];
+longitude = coordinatesList[0][1]
 ```
 
-# 📝Instructions:
-Loop through the list printing only the longitudes.
+## 📝Instructions:
+
+1. Loop through the list printing only the longitudes.
+
+## Expected result:
+
 ```py
 The result should be something like this:
 -112.633853
@@ -23,5 +27,6 @@ The result should be something like this:
 -71.653268
 ```
 
-💡Hint:
+## 💡 Hint:
+
 - Remember the index of the position 1 is `list[0]`

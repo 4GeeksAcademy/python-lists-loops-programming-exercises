@@ -8,7 +8,7 @@ En este ejemplo, tenemos una lista de coordenadas a las que puedes acceder hacie
 ```py
 longitude = []
 # bucle for en coordenada de longitud
-longitude = coordinatesList[0][1];
+longitude = coordinatesList[0][1]
 ```
 
 ## 📝 Instrucciones:
