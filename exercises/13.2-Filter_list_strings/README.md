@@ -1,4 +1,4 @@
-# `13.3` Filter list string
+# `13.2` Filter list string
 
 ## 📝Instructions:
 

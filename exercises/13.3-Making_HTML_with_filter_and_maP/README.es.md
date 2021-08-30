@@ -1,4 +1,4 @@
-# `13.4` Haciendo HTML usando las funciones `filter` y `map`
+# `13.3` Haciendo HTML usando las funciones `filter` y `map`
 
 ## 📝 Instrucciones:
 

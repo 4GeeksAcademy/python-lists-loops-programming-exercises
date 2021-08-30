@@ -1,4 +1,4 @@
-# `13.3` Filtrar una lista de string
+# `13.2` Filtrar una lista de string
 
 ## 📝 Instrucciones:
 

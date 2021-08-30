@@ -1,4 +1,4 @@
-# `13` Filter list
+# `13.1` Filter list
 
 Another looping function that is available on python is the `filter()` function. Its main purpose is to remove elements from the original list and return a new list with the result.
 

@@ -1,4 +1,4 @@
-# `13.2` Filtrar las tareas realizadas
+# `13.1` Filtrar las tareas realizadas
 
 ## 📝 Instrucciones
 
