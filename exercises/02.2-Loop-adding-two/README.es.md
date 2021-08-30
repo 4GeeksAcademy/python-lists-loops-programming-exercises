@@ -4,11 +4,13 @@
 Este códico es `iterando` la lista entera, `uno a uno`.
 ```
 
-# 📝 Instrucciones
-Cambiar el ciclo para que itere `de dos en dos` en lugar de uno a uno.
+## 📝 Instrucciones:
 
-La salida en la consola debería ser como esta:
-```js
+1. Cambia el bucle para que itere `de dos en dos` en lugar de uno a uno.
+
+## Resultado esperado:
+
+```py
 3423
 4
 654

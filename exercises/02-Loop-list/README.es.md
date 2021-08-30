@@ -1,16 +1,18 @@
 # `02` Iterar una lista
 
-# 📝 Instrucciones de tu instructor:
-1. Imprimir todos los elementos en la consola, en lugar de solo un elemento de la lista.
+## 📝 Instrucciones:
 
+1. Imprimir todos los elementos en la consola, en lugar de solo un elemento de la lista.
 ```py
-Tendrás que iterar a lo largo de la lista entera usando un ciclo for.
+Tendrás que iterar a lo largo de la lista entera usando un bucle `for`.
 ```
 
-## 💡 Sugerencia:
-1. Si tu objetivo es imprimir cada elemento, que es una tarea repetitiva, podemos usar un bucle. Piensa, por ***cada_item*** en ***mi_lista***, ¿Qué queremos? Podemos hacer la referencia a cada item usando "each_item" y ejecutar cualquier operación que queramos en cada iteración.
+## 💡 Pista:
 
-Resultado esperado en la consola:
++ Si tu objetivo es imprimir cada elemento, que es una tarea repetitiva, podemos usar un bucle. Piensa, por cada item(`each_item`) de `my_list`, ¿Qué queremos? Podemos hacer la referencia a cada item usando `each_item` y ejecutar cualquier operación que queramos en cada iteración.
+
+## Resultado esperado:
+
 ```py
 232
 32
