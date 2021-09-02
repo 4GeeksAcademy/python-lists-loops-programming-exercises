@@ -8,11 +8,13 @@ tutorial: "https://www.youtube.com/watch?v=SJv6IgPick8"
 This code is `looping` the whole array, `one by one`.
 ```
 
-# 📝Instructions
-Change the loop so it loops `two by two` instead of one by one.
+## 📝Instructions:
 
-The console output should be something like:
-```js
+1. Change the loop so it loops `two by two` instead of one by one.
+
+## Expected result:
+
+```py
 3423
 4
 654
