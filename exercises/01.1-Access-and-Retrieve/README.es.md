@@ -26,11 +26,11 @@ Para acceder a un elemento particular dentro de la lista necesitas conocer su `i
 
 El índice(`index`) es un valor entero que representa la posición en la cuál está ubicado el elemento en la lista.
 
-## :mag_right: Importante :
+## :mag_right: Importante:
 
 ¡Cada lista empieza en cero `(0)`! Así que para obtener el primer elemento deberíamos usar `my_list[0]`
 
-## 📝 Instrucciones
+## 📝 Instrucciones:
 
 1. Usando la función `print()`, imprime el **3er elemento** de la lista.
 

@@ -12,18 +12,19 @@
 </table>
 
 Mi nombre Alejandro Sanchez [@alesanchezr](https://twitter.com/alesanchezr). ¡¡Estamos muy entusiasmados por tenerte aquí!! 🎉 😂
-Learning to code is hard, you need coaching! DM me on twitter if you have any question.
 
-Esta es una selección completa de ejercicios autocorregidos e interactivos en Python para cualquier persona interesada en aprender Python!
+Aprender a programar es dificil ¡necesitas coaching! Envíame un DM en twitter si tienes alguna pregunta.
+
+Esta es una selección completa de ejercicios con tests e interactivos en Python para cualquier persona interesada en aprender Python!
 
 <ol>
   <li><a href="https://github.com/4GeeksAcademy/python-beginner-programming-exercises">Python para principiantes</a></li>
-  <li><a href="https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises">Practica el recorrido de listas y tuplas</a> ← Tú estás aquí ahora</li>
-  <li><a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises">Practica de funciones</a></li>
+  <li><a href="https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises"> Itera listas y tuplas</a> ← Tú estás aquí ahora</li>
+  <li><a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises">Practica  funciones</a></li>
   <li><a href="https://github.com/4GeeksAcademy/master-python-programming-exercises">Domina Python (intermedio)</a></li>
 </ol>
 
-Estos ejercicios están pensados para ser construidos en colaboración, ¡te necesitamos!
+Estos ejercicios son colaborativos, ¡te necesitamos!
 Si encuentras algún error o falta de ortografía, por favor contribuye y repórtalo.
 
 <p align="center">
@@ -37,9 +38,9 @@ Si encuentras algún error o falta de ortografía, por favor contribuye y repór
 [![Ábrelo en Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises.git)
 
 
-## O por instalación local (si prefieres no usar Gitpod)
+## O por instalálo localmente (si no quieres usar Gitpod)
 
-## Instalación local
+### Instalación local:
 
 1. Instala learnpack, el administrador de paquetes para tutoriales de aprendizaje y el complemento del compilador html para learnpack, asegúrate de tener también node.js 12+:
 
@@ -55,18 +56,14 @@ $ learnpack download python-lists-loops-programming-exercises
 $ cd python-lists-loops-programming-exercises
 ```
 
-NNota: Una vez que termine de descargar, encontrarás la carpeta "exercises" que contiene todos los ejercicios.
+**Nota:** Una vez que termine de descargar, encontrarás la carpeta "exercises" que contiene todos los ejercicios.
 
-3. Start the tutorial/exercises by running the following command at the same level were your bc.json file is:
+3. Comienza con los ejercicios ejecutando el siguiente en el mismo nivel que tu archivo bc.json:
 
 ```sh
 $ $ pip3 install pytest==4.4.2 pytest-testdox mock
 $ learnpack start
 ```
-
-3. Inicia el tutorial / ejercicios ejecutando el siguiente comando en el mismo nivel donde está su archivo bc.json:
-```
-
 ## ¿Cómo están organizados los ejercicios?
 
 Cada ejercicio es un pequeño proyecto en Python que contiene los siguientes archivos:
@@ -75,7 +72,7 @@ Cada ejercicio es un pequeño proyecto en Python que contiene los siguientes arc
 2. **README.md:** contiene las instrucciones del ejercicio.
 3. **test.py:** no tienes que abrir este archivo. Contiene los scripts de pruebas del ejercicio.
 
-## Contribuyentes
+## Colaboradores:
 
 Nuestro agradecimiento para estas maravillosas personas ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 

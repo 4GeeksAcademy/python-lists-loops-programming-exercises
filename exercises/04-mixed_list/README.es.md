@@ -1,9 +1,13 @@
 # `04` Lista mezclada
 
-# 📝 Instrucciones:
+## 📝 Instrucciones:
+
 1. Escribe una función para imprimir en la consola los tipos
-de los valores contenidos en la lista en cada posición
-2. Puedes usar el ciclo `for`.
+de los valores contenidos en la lista en cada posición.
+
+2. Puedes usar el bucle `for`.
+
+## Resultado esperado:
 
 ```py
 La consola debería mostrar algo como esto:
@@ -19,5 +23,7 @@ La consola debería mostrar algo como esto:
 ```
 
 ## 💡 Pista:
+
 - Puedes usar la función `type()` de python.
+
 - Recuerda que `len()` devuelve la longitud de tu lista.

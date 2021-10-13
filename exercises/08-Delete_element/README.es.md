@@ -3,10 +3,11 @@
 La unica forma de borrar a `Daniella` de la lista (sin trampas)
 será crear una nueva lista con todas las demás personas, excepto Daniella.
 
-# 📝 Instrucciones
-1. Por favor, crea una función `deletePerson` que elimine a una persona dada de una lista
- y devuelva una nueva lista sin esa persona.
+## 📝 Instrucciones:
 
+1. Por favor, crea una función `deletePerson` que elimina a una persona dada de una lista y devuelve una nueva lista sin esa persona.
+
+## Resultado esperado:
 
  ```py
  Resultado:

@@ -1,8 +1,7 @@
 # `04.1` Contando
 
 
-Como has visto en el ejercicio anterior tu lista puede ser un a mezcla de
-`tipos de datos` que vamos a dividir y conquistar.
+Como has visto en el ejercicio anterior tu lista puede ser un a mezcla de `tipos de datos` que vamos a dividir y conquistar.
 
 ¿Serías tan amable de añadir todos los elementos con *data-type* `Dictionary` dentro de la lista `hello`?
 
@@ -18,12 +17,15 @@ for x in my_list:
     print(x)
 ```
 
-# 📝 Instrucciones:
-1. Itera la lista dada
-2. Mete los tipos de datos encontrados en una nueva lista llamada `hello`
-3. Imprime la variable `hello`
+## 📝 Instrucciones:
 
-# Output:
+1. Itera la lista dada.
+
+2. Mete los tipos de datos encontrados en una nueva lista llamada `hello`.
+
+3. Imprime la variable `hello`.
+
+## Expected result::
 
 ```py
 [[2, 1], {'name': 'juan'}]
