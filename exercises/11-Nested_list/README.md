@@ -17,6 +17,10 @@ longitude = coordinatesList[0][1];
 
 1. Loop through the list printing only the longitudes.
 
+## 💡 Hint:
+
+- Remember the index of the position 1 is list[0]
+
 ## Expected result:
 
 ```py
@@ -27,6 +31,3 @@ The result should be something like this:
 -71.653268
 ```
 
-## 💡 Hint:
-
-- Remember the index of the position 1 is list[0]

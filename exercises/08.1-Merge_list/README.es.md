@@ -14,6 +14,9 @@ Escribe una función que una dos listas y devuelva una nueva lista (`merge_list`
 
  4. Imprime la variable con las dos listas.
 
+## 💡 Pista:
+
+- Tendrás que iterar cada lista e insertar sus elementos en una nueva lista.
 ## Resultado esperado:
 
 ```py
@@ -21,6 +24,4 @@ Escribe una función que una dos listas y devuelva una nueva lista (`merge_list`
  ['Lebron', 'Aaliyah', 'Diamond', 'Dominique', 'Aliyah', 'Jazmin', 'Darnell', 'Lucas', 'Jake', 'Scott', 'Amy', 'Molly', 'Hannah', 'Lucas']
 ```
 
-## 💡 Pista:
 
-- Tendrás que iterar cada lista e insertar sus elementos en una nueva lista.

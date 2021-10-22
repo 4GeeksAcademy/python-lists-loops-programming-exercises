@@ -8,7 +8,6 @@
 ```py
 El resultado debería ser 925960
 ```
-
 ## 💡 Pista:
 
 + Tienes que `iterar la lista entera` y sumar el valor de cada elemento en la variable `total`.

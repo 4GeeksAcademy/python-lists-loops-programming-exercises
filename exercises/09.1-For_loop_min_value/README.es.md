@@ -1,7 +1,7 @@
 # `09.1` Mínimo entero:
 
 Es posible recorrer una lista usando un bucle `for` para listas,
-tú tienees que especificar qué hacer en cada iteración de la lista.
+tú tienes que especificar qué hacer en cada iteración de la lista.
 
 ## 📝 Instrucciones:
 
@@ -10,13 +10,13 @@ de la lista e imprimirlo en la consola.
 
 ## 💡 Pista:
 
-1. Declara variable auxiliar global.
+* Declara variable auxiliar global.
 
-2. Establece su valor inicial con un entero muy grande.
+* Establece su valor inicial con un entero muy grande.
 
-3. Cada vez que iteres, compara su valor con el valor del elemento, si el valor del elemento es más pequeño, asígnalo como nuevo valor de la variable auxiliar.
+* Cada vez que iteres, compara su valor con el valor del elemento, si el valor del elemento es más pequeño, asígnalo como nuevo valor de la variable auxiliar.
 
-4. Fuera del bucle, después de que el bucle haya finalizado, imprime el valor auxiliar.
+* Fuera del bucle, después de que el bucle haya finalizado, imprime el valor auxiliar.
 
 ## Resultado esperado:
 

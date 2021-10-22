@@ -12,6 +12,10 @@
 
 5. Then concatenate the `odd` list to the even list to combine them. Remember, the `odd` list comes first and you have to append the even `mergeTwoList`.
 
+## 💡 Hint:
+
++ Create empty(placeholder) variables when you need to store data.
+
 ## Ejemplo:
 
 ```py
@@ -19,7 +23,3 @@ mergeTwoList([1,2,33,10,20,4])
 
 [[1,33,2], [10,20,4]]
 ```
-
-## 💡 Hint:
-
-+ Create empty(placeholder) variables when you need to store data.

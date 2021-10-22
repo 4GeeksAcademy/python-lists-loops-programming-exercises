@@ -16,7 +16,11 @@ while x < 6:
 1. Print every iteration number on the console from 20 to 0,
  but `concatenate an exclamation point` to the output if the number is a module of 5.
 
-2. At the end print() `LIFTOFF``
+2. At the end print() `LIFTOFF`.
+
+## 💡 Hint:
+
++ https://www.w3schools.com/python/python_while_loops.asp
 
 ## Expected result:
 
@@ -38,6 +42,3 @@ Example Output on the console:
 LIFTOFF
 ```
 
-## 💡 Hint:
-
-+ https://www.w3schools.com/python/python_while_loops.asp

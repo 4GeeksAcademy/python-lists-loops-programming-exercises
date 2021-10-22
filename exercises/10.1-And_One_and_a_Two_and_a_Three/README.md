@@ -8,13 +8,6 @@ Dictionaries (or dict in Python) are a way of storing elements just like you wou
 
 2. You will have to loop its properties to be able to print them.
 
-```py
-Example console output:
-fullname : John Doe
-phone : 123-123-2134
-email : test@nowhere.com
-```
-
 ## 💡Hint:
 
 - contact.keys()  `['fullname', 'phone', 'email']`
@@ -22,3 +15,11 @@ email : test@nowhere.com
 - contact.values()  `['Jane Doe', '321-321-4321', 'test@test.com']`
 
 - contact.items()  `[('fullname', 'Jane Doe'), ('phone', '321-321-4321'), ``('email', 'test@test.com')]`
+
+## Example console output:
+
+```py
+fullname : John Doe
+phone : 123-123-2134
+email : test@nowhere.com
+```

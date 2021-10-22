@@ -8,7 +8,6 @@
 ```py
 The result should be 925960
 ```
-
 ## 💡Hint:
 
 + You have to `loop the entire list` and add the value of each item into the "total" variable.

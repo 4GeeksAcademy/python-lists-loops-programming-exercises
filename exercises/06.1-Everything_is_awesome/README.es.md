@@ -5,8 +5,6 @@
 1. Compara el elemento. Si es 1 mete el número en la lista `new_list`.
 
 2. Compara el elemento. Si es `0` mete "Yahoo" en la lista `new_list`, en lugar del número.
-
-
 ## Ejemplo:
 
 ```py

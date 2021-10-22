@@ -7,11 +7,11 @@
 
 2. Devuleve e imprime el resultado.
 
-## :grey_exclamation: Para hacer este ejercicio, considera que:
+## ❕ Para hacer este ejercicio, considera que:
 
-- Necesitas `declarar una variable auxiliar fuera del bucle` para llevar la suma de valores.
+- Debes `declarar una variable auxiliar fuera del bucle` para llevar la suma de valores.
 
-- Crea una función
+- Crea una función.
 
 - Tienes que `iterar la lista`.
 

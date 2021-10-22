@@ -1,6 +1,5 @@
 # `09` Máximo entero en my_list
 
-
 ## 📝 Instrucciones:
 
 1. Escribe un script que encuentre el entero más grande la lista.

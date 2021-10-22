@@ -14,6 +14,10 @@ Write a function that merges two list and returns a single new list (`merge_list
 
  4. Print the variable with two list.
 
+ ## 💡 Hint:
+
+- You will have to loop though each list and insert their items into a new list.
+
  ## Expected result:
 
 ```py
@@ -21,6 +25,3 @@ Write a function that merges two list and returns a single new list (`merge_list
  ['Lebron', 'Aaliyah', 'Diamond', 'Dominique', 'Aliyah', 'Jazmin', 'Darnell', 'Lucas', 'Jake', 'Scott', 'Amy', 'Molly', 'Hannah', 'Lucas']
 ```
 
-## 💡 Hint:
-
-- You will have to loop though each list and insert their items into a new list.

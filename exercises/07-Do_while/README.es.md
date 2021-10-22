@@ -10,12 +10,15 @@ while x < 6:
   print(x)
   x += 1
 ```
-
 ## 📝 Instrucciones:
 
 1. Imprime cada número de iteración en la cónsola desde el `20` a `0`, pero `concatena un signo de exclamación` a la salida si el número es un módulo de `5`.
 
-2. al final imrpime `LIFTOFF``
+2. al final imrpime `LIFTOFF`.
+
+## 💡 Pista:
+
++ https://www.w3schools.com/python/python_while_loops.asp
 
 ## Resultado esperado:
 
@@ -37,6 +40,4 @@ Ejemplo de salida en la consola:
 LIFTOFF
 ```
 
-## 💡 Pista:
 
-+ https://www.w3schools.com/python/python_while_loops.asp

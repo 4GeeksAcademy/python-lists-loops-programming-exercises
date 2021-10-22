@@ -1,6 +1,5 @@
 # `09` Max integer from my_list
 
-
 ## 📝Instructions:
 
 1. Write a script that finds the biggest integer in the list.

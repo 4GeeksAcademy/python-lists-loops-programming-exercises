@@ -12,6 +12,10 @@
 
 5. Luego concatena la lista `odd` y la lista `even` para combinarlas. Recuerda que la lista `odd` va primero y que debes añadirle la lista `even`.
 
+## 💡 Pista:
+
++ Crea variables vacías cuando necesites almacenar información.
+
 ## Ejemplo:
 
 ```py
@@ -20,6 +24,3 @@ mergeTwoList([1,2,33,10,20,4])
 [[1,33,2], [10,20,4]]
 ```
 
-## 💡 Pista:
-
-+ Crea variables vacías cuando necesites almacenar información.

@@ -7,7 +7,7 @@
 
 2. Returns and print the result.
 
-# :grey_exclamation: To do this exercise consider:
+## ❕ To do this exercise consider:
 
 - You will need to `declare an auxiliar variable outside the loop` to keep adding the values.
 

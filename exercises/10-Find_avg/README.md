@@ -8,7 +8,7 @@
 
 ## 💡 Hint:
 
-- To print the average, you have to add all the values and divide the result by the total length of the list.
+* To print the average, you have to add all the values and divide the result by the total length of the list.
 
 ## Expected result:
 

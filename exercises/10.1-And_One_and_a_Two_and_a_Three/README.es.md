@@ -8,13 +8,6 @@ Los diccionarios (o `dict` en Python) son una forma de almacenar elementos como 
 
 2. Tendrás que iterar sus propiedades para poder imprimirlos
 
-```py
-Ejemplo de salida:
-fullname : John Doe
-phone : 123-123-2134
-email : test@nowhere.com
-```
-
 ## 💡 Pista:
 
 - contact.keys()  `['fullname', 'phone', 'email']`.
@@ -22,3 +15,12 @@ email : test@nowhere.com
 - contact.values()  `['Jane Doe', '321-321-4321', 'test@test.com']`.
 
 - contact.items()  `[('fullname', 'Jane Doe'), ('phone', '321-321-4321'), ``('email', 'test@test.com')]`
+
+## Ejemplo resultado esperado:
+
+```py
+Ejemplo de salida:
+fullname : John Doe
+phone : 123-123-2134
+email : test@nowhere.com
+```
