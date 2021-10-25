@@ -6,13 +6,6 @@
 
 2. Print that list on the console.
 
-## Expected result:
-
-```py
-Example output:
-
-[ 'woko',   'wiki',   'woko',   'woko',   'wiki',   'wiki',   'wiki',   'woko',   'woko',   'wiki',   'woko',   'wiki',   'wiki',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'wiki',   'woko',   'woko',   'woko',   'woko',   'wiki' ]
-```
 ## 💡 Hint:
 
 + You need to map the entire list.
@@ -22,3 +15,9 @@ Example output:
 + If the current value is 1 you print the string `'wiki'`.
 
 + If the current value is 0 you print the string `'woko'`.
+
+## Expected result:
+
+```py
+[ 'woko',   'wiki',   'woko',   'woko',   'wiki',   'wiki',   'wiki',   'woko',   'woko',   'wiki',   'woko',   'wiki',   'wiki',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'wiki',   'woko',   'woko',   'woko',   'woko',   'wiki' ]
+```

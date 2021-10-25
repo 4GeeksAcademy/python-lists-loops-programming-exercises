@@ -1,6 +1,5 @@
 # `12.1` More mapping
 
-
 The list `map()` method calls a function for each value in a
 list  and then outputs a new list with the modified values.
 

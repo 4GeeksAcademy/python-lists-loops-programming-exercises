@@ -1,7 +1,6 @@
 # `16` Latidos de tecno
 
-Estás trabajando con un DJ que necesita un programa que pueda crear ritmos
- para sus canciones.
+Estás trabajando con un DJ que necesita un programa que pueda crear ritmos para sus canciones.
 
 ## 📝 Instrucciones:
 
@@ -14,9 +13,17 @@ Estás trabajando con un DJ que necesita un programa que pueda crear ritmos
 
 3. Por cada `1` añade el string `Drop the base`.
 
-## :grey_exclamation: Adicionalmente:
+## ❕ Adicionalmente:
 
 Si encuentras un `1` tres veces seguidas, tambíen debes añadir el string `!!!Break the base!!!`
+
+## 💡 Pista:
+
+- Recuerda usar variables auxiliares.
+
+- Declara una variable para almacenar.
+
+- Declara una variable para contar y sumar.
 
 ## Resultado esperado:
 
@@ -33,12 +40,3 @@ Boom Boom Boom
 Drop the base Boom Drop the base
 Drop the base Drop the base Drop the base !!!Break the base!!!
 ```
-
-
-## 💡 Pista:
-
-- Recuerda usar variables auxiliares.
-
-- Declara una variable para almacenar.
-
-- Declara una variable para contar y sumar.

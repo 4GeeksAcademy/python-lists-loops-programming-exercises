@@ -3,7 +3,6 @@ You are working with a DJ and he needs a program that can create a beats for his
 
 ## 📝Instructions:
 
-
 1. Create a function lyrics_generator that receives a list. The list passed to the function will be something like this:
 
 ```py
@@ -14,9 +13,17 @@ You are working with a DJ and he needs a program that can create a beats for his
 
 3. For each One you will add to the string `Drop the base`.
 
-## :grey_exclamation: In addition:
+## ❕ In addition:
 
 If you find the number `1` three times in a row, you should ALSO ADD to the string `!!!Break the base!!!`
+
+## 💡 Hint:
+
+- Remember to use auxiliary variables.
+
+- Declare a variable to store
+
+- Declare a variable to count and sum
 
 
 ## Expected result:
@@ -34,12 +41,3 @@ Boom Boom Boom
 Drop the base Boom Drop the base
 Drop the base Drop the base Drop the base !!!Break the base!!!
 ```
-
-
-## 💡 Hint:
-
-- Remember to use auxiliary variables.
-
-- Declare a variable to store
-
-- Declare a variable to count and sum

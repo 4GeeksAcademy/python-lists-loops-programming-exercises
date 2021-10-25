@@ -18,7 +18,6 @@ print(odd_numbers)
 
 2. Usa la función `filter()`.
 
-
 ## Resultado esperado:
 
 ```py

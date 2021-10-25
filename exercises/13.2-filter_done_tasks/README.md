@@ -7,7 +7,5 @@
 ## Expected result:
 
 ```py
-Expected output:
-
 [{'label': 'Eat my lunch', 'done': True}, {'label': 'Replit the finishes', 'done': True}, {'label': 'Read a book', 'done': True}]
   ```

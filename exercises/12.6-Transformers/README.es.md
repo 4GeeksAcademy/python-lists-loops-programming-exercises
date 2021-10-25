@@ -11,7 +11,5 @@
 ## Resultado esperado:
 
 ```py
-La salida esperada:
-
 'Mario Montes', 'Joe Biden', 'Bill Clon', 'Hilary Mccafee', 'Bobby Mc birth']
 ```

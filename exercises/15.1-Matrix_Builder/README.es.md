@@ -12,7 +12,6 @@ y necesita ayuda para reconstruirse. Crea una matriz aleatoria de 0's y 1's basa
 
 2. Esta función debería devolver una lista de listas que represente la matriz. 
 
-
 ## Resultado esperado:
 
 3 debería retornar:

@@ -13,7 +13,5 @@ The code on the left is filtering the odd numbers from the `allNumbers` list.
 ## Expected result:
 
 ```py
-Expected output:
-
 [ 23, 12, 35, 54, 21, 534, 23, 42 ]
 ```

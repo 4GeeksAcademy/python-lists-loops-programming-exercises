@@ -12,7 +12,5 @@ El código de la izquierda está filtrando los números impares de la lista `all
 ## Resultado esperado:
 
 ```py
-Salida esperada:
-
 [ 23, 12, 35, 54, 21, 534, 23, 42 ]
 ```

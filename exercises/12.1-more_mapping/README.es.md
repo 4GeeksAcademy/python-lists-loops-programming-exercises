@@ -11,7 +11,6 @@ def values_list(number) {
 my_list = [1, 2, 3, 4]
 result = map(values_list, my_list)  #retorna [2, 3, 4, 5]
 ```
-
 ## 📝 Instrucciones:
 
 1. Crear una función llamada `increment_by_one` que multiplicará cada número por 3.

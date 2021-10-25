@@ -15,8 +15,6 @@ The string "Hello World" contains the following repetitions `h=1 e=1 l=3 o=2 w=1
 ## Expected outcome:
 
 ```py
-
 print(count("Hello World"))
-
 # will print on the console { "h":1 "e":1 "l":3 "o":2 "w":1 "r":1 "d":1 }
 ```

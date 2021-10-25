@@ -4,7 +4,7 @@ The most common scenario for the mapping function is for simplifying given lists
 
 The current algorithm creates a lists with only the names of the people and prints it on the console.
 
-## 📝Instructions:
+## 📝 Instructions:
 
 1. At this time the function is printing the names only.
 

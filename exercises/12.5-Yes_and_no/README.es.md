@@ -6,6 +6,16 @@
 
 2. Imprime la nueva lista en la consola.
 
+## 💡 Pista:
+
+- Debes mapear la lista entera.
+
+- Dentro de tu función de mapeo necesitas usar un condicional para verificar si el valor actual es `1` o `0`.
+
+- Si el valor es 1 asignas el texto `'wiki'`.
+
+- Si el valor es 0 asignas el texto `'woko'`.
+
 ## Resultado esperado:
 
 ```py
@@ -14,12 +24,3 @@ Ejemplo de salida:
 [ 'woko',   'wiki',   'woko',   'woko',   'wiki',   'wiki',   'wiki',   'woko',   'woko',   'wiki',   'woko',   'wiki',   'wiki',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'wiki',   'woko',   'woko',   'woko',   'woko',   'wiki' ]
 ```
 
-## 💡 Pista:
-
-- Debes mapear la lista entera
-
-- Dentro de tu función de mapeo necesitas usar un condicional para verificar si el valor actual es `1` o `0`.
-
-- Si el valor es 1 asignas el texto `'wiki'`
-
-- Si el valor es 0 asignas el texto `'woko'`
