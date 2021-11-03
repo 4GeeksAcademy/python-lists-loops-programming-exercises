@@ -1,5 +1,6 @@
 {
     "language": "python3",
+    "slug": "python-lists-loops",
     "title": "Learn Python Loops and lists Interactively",
     "repository": "https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises",
     "preview": "https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises/blob/master/preview.gif?raw=true",
@@ -9,7 +10,7 @@
     "video-solutions": false,
     "config": {
         "editor": {
-            "version": "1.0.70"
+            "version": "1.0.71"
         }
     }
 }
