@@ -14,9 +14,9 @@
 
 ## 💡 Hint:
 
-+ Create empty(placeholder) variables when you need to store data.
++ Create empty (placeholder) variables when you need to store data.
 
-## Ejemplo:
+## Example:
 
 ```py
 mergeTwoList([1,2,33,10,20,4])
