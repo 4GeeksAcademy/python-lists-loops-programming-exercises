@@ -11,9 +11,10 @@ tutorial: "https://www.youtube.com/watch?v=zez4r9ApjSY"
 2. Print the position(s) of Wally in the console.
 
 ## 💡 Hint:
-- USE A `LOOP!!!` and an `IF (conditional)`
 
-### :gem: Easter Egg:
+- Use a loop and an if (conditional)
+
+## :gem: Easter Egg:
 
 What if there is more than one Wally?
 
