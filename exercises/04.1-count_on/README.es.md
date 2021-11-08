@@ -2,7 +2,7 @@
 
 Como has visto en el ejercicio anterior tu lista puede ser un a mezcla de `tipos de datos` que vamos a dividir y conquistar.
 
-¿Serías tan amable de añadir todos los elementos con *data-type* `Dictionary` dentro de la lista `hello`?
+¿Serías tan amable de añadir todos los elementos con *data-type* `dict` dentro de la lista `hello`?
 
 ## 📝 Instrucciones:
 
