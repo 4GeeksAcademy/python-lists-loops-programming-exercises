@@ -14,24 +14,25 @@ map(function, iterable, ...)
 
 #### map() Parameter:
 
-**map() function:** passes each item of the iterable to this function.
+**function:** passes each item of the iterable to this function.
 
-**iterable:** iterable which is to be mapped. You can pass more than one iterable to the `map() function`.
+**iterable:** iterable which is to be mapped. You can pass more than one iterable to the `map()` function.
 
 #### Return Value from map():
 
-The `map()` function applies to a given to function and in particular to each item of an iterable and returns a list of the results.
+The `map()` function applies to a given function and in particular to each item of an iterable and returns a list of the results.
 
-The returned value from map() (map object) then can be passed to functions
+The returned value from `map()` (map object) then can be passed to functions
 like list() (to create a list), set() (to create a set) and so on.
 
 ## 📝Instructions:
 
-1. Using the same logic, add the needed code to convert a list of Celsius values into Fahrenheit inside the map function.
+1. Using the same logic, add the needed code to convert a list of Celsius values into Fahrenheit inside the `map()` function.
 
 ## Expected result:
 
 ```py
 Expected in console:
+
 [28.4, 93.2, 132.8, 14.0]
 ```
