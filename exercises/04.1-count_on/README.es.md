@@ -22,7 +22,7 @@ my_list = [42, true, "towel", [2,1], 'hello', 34.4, {"name": "juan"}]
 for x in my_list:
     print(x)
 ```
-## Expected result::
+## Resultado esperado:
 
 ```py
 [[2, 1], {'name': 'juan'}]
