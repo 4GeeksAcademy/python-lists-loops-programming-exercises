@@ -6,9 +6,9 @@
 
 2. Imprime la(s) posición(es) de Wally en la consola.
 
-## 📝 Sugerencia
+## 📝 Pista
 
-USA UN `BUCLE!!!` y un `IF (condicional)`
++ Usa un bucle y un if (condicional)
 
 ### :gem: Elemento sorpresa:
 
