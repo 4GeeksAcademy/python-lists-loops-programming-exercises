@@ -1,16 +1,14 @@
 # `09.1` Mínimo entero:
 
-Es posible recorrer una lista usando un bucle `for` para listas,
-tú tienes que especificar qué hacer en cada iteración de la lista.
+Es posible recorrer una lista usando un bucle `for` para listas, tú tienes que especificar qué hacer en cada iteración de la lista.
 
 ## 📝 Instrucciones:
 
-1. Por favor, usa la función for para obtener el menor valor
-de la lista e imprimirlo en la consola.
+1. Por favor, usa la función for para obtener el menor valor de la lista e imprimirlo en la consola.
 
 ## 💡 Pista:
 
-* Declara variable auxiliar global.
+* Declara una variable auxiliar global.
 
 * Establece su valor inicial con un entero muy grande.
 
