@@ -38,7 +38,7 @@ Si encuentras algún error o falta de ortografía, por favor contribuye y repór
 [![Ábrelo en Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises.git)
 
 
-## O por instalálo localmente (si no quieres usar Gitpod)
+## O instalálo localmente (si no quieres usar Gitpod)
 
 ### Instalación local:
 
@@ -58,10 +58,10 @@ $ cd python-lists-loops-programming-exercises
 
 **Nota:** Una vez que termine de descargar, encontrarás la carpeta "exercises" que contiene todos los ejercicios.
 
-3. Comienza con los ejercicios ejecutando el siguiente en el mismo nivel que tu archivo bc.json:
+3. Comienza con los ejercicios ejecutando el siguiente en el mismo nivel que tu archivo learn.json:
 
 ```sh
-$ $ pip3 install pytest==4.4.2 pytest-testdox mock
+$ pip3 install pytest==4.4.2 pytest-testdox mock
 $ learnpack start
 ```
 ## ¿Cómo están organizados los ejercicios?
