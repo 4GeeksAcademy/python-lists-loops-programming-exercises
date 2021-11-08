@@ -16,7 +16,7 @@ Write a function that merges two list and returns a single new list (`merge_list
 
  ## 💡 Hint:
 
-- You will have to loop though each list and insert their items into a new list.
+- You will have to loop through each list and insert their items into a new list.
 
  ## Expected result:
 
