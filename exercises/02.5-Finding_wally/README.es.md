@@ -10,7 +10,7 @@
 
 + Usa un bucle y un if (condicional)
 
-### :gem: Elemento sorpresa:
+## :gem: Elemento sorpresa:
 
 ¿Qué pasa si hay más de un Wally?
 
