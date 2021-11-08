@@ -24,7 +24,7 @@ Cada lista tiene las siguientes partes:
 
 Para acceder a un elemento particular dentro de la lista necesitas conocer su `index` (posición).
 
-El índice(`index`) es un valor entero que representa la posición en la cuál está ubicado el elemento en la lista.
+El índice (`index`) es un valor entero que representa la posición en la cuál está ubicado el elemento en la lista.
 
 ## :mag_right: Importante:
 
