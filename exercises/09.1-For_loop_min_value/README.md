@@ -1,15 +1,13 @@
 # `09.1` Minimum integer:
 
-It is possible to traverse an list using the list for loop,
-you have to specify what to do on each iteration of the loop.
+It is possible to traverse a list using the `for` loop, you have to specify what to do on each iteration of the loop.
 
 
 ## 📝Instructions:
 
-1. Please use the `for` loop function to get the minimum value
- of the list and print it in the console.
+1. Please use the `for` loop function to get the minimum value of the list and print it in the console.
 
-## 💡 Pista:
+## 💡 Hint:
 
 * Declare an Auxiliary Global Variable.
 
