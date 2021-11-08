@@ -2,7 +2,7 @@
 
 As you saw in the last exercise your list can be a mix `types of data` we are going to divide and conquer.
 
-Would you be so kind to add all the items with data-type Dictionary and List into the hello list?
+Would you be so kind to add all the items with data-type `dict` and `list` into the hello list?
 
 ## 📝Instructions:
 
