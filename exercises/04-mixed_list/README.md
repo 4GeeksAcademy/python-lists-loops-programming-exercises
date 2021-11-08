@@ -6,8 +6,7 @@ tutorial: "https://www.youtube.com/watch?v=tJ-si9lRkUc"
 
 ## 📝 Instructions:
 
-1. Write a function to programmatically print in the console the
-types of the values that the list contains in each position.
+1. Write a function to programmatically print in the console the types of the values that the list contains in each position.
 
 2. You can use the `for` loop.
 
@@ -15,7 +14,6 @@ types of the values that the list contains in each position.
 
 ```py
 The console must have something like this:
-
 
 <class 'int'>
 <class 'bool'>
