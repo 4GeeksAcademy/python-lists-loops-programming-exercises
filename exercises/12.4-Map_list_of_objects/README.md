@@ -2,13 +2,11 @@
 
 The most common scenario for the mapping function is for simplifying given lists, for example:
 
-The current algorithm creates a lists with only the names of the people and prints it on the console.
+The current algorithm creates a list with only the names of the people and prints it on the console.
 
 ## 📝 Instructions:
 
-1. At this time the function is printing the names only.
-
-2. Please update the mapping function so it creates a list where each item contains the following:
+1. At this time the function is printing the names only. Please update the mapping function so it creates a list where each item contains the following:
 
 `Hello, my name is Joe and I am 13 years old`
 
