@@ -21,9 +21,9 @@ parking_state = [
 
 ```python
 state = {
-     total_Slots: 12,
-     available_Slots: 3,
-     occupied_Slots: 9
+     total_slots: 12,
+     available_slots: 3,
+     occupied_slots: 9
 }
 ```
 
