@@ -2,7 +2,7 @@
 
 ## 📝 Instrucciones:
 
-1. Crea las funciones `generate_li` y `filter_colors` para hacer que el ejercicio imprima el siguiente HTML solo con colores atractivos.
+1. Crea las funciones `generate_li` y `filter_colors` para hacer que el ejercicio imprima el siguiente HTML solo con colores cuya propiedad sexy sea verdadero.
 
 ## Resultado esperado:
 
