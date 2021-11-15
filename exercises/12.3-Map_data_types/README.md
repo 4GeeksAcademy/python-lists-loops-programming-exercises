@@ -4,7 +4,7 @@ Some times lists come with mixed values and you need to unify them into only one
 
 ## 📝Instructions:
 
-1. Update the map function to make it create a `new list` that contains the data types of each corresponding item from the original list.
+1. Update the map function to make it create a **new list** that contains the data types of each corresponding item from the original list.
 
 ## 💡 Hint:
 
