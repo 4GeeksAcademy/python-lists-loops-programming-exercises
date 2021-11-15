@@ -11,8 +11,16 @@ longitude = []
 longitude = coordinatesList[0][1];
 ```
 
-# 📝 Instrucciones:
-Itera la lista imprimiendo solo las longitudes.
+## 📝 Instrucciones:
+
+1. Itera la lista imprimiendo solo las longitudes.
+
+## 💡 Pista:
+
+* Recuerda que el índice en la primera posición es list[0].
+
+## Resultado esperado:
+
 ```py
 El resultado debería ser algo como esto:
 -112.633853
@@ -21,5 +29,3 @@ El resultado debería ser algo como esto:
 -71.653268
 ```
 
-## 💡 Pista:
-Recuerda que el índice en la primera posición es list[0]
