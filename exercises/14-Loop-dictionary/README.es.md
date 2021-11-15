@@ -7,21 +7,21 @@ list = ["a","b","c"]
 dictionary = { "one": "a", "two": "b", "three": "c"}
 ```
 
-## Cómo obtener valores de un diccionario (muy similar a las listas):
+#### Cómo obtener valores de un diccionario (muy similar a las listas):
 
 ```python
 person = { "name": "Juan", "lastname": "Contreras" }
 print(person["name"]) # Salida: "Juan"
 ```
 
-## Cómo añadirle un nuevo valor a un diccionario:
+#### Cómo añadirle un nuevo valor a un diccionario:
 
 ```python
 person["age"] = 22
 print(person) # Salida: { "name": "Juan", "lastname": "Contreras", "age": 22 }
 ```
 
-Para hacerle un bucle en una lista, puedes hacer lo siguiente:
+#### Para hacerle un bucle en una lista, puedes hacer lo siguiente:
 
 ```python
 spanish_translations = { "dog": "perro", "house": "casa", "cat": "gato" }
