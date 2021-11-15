@@ -2,7 +2,6 @@
 
 Puedes pensar en un diccionario como en una lista con posiciones no numéricas:
 
-
 ```python
 list = ["a","b","c"]
 dictionary = { "one": "a", "two": "b", "three": "c"}
