@@ -2,7 +2,7 @@
 
 ## 📝Instructions:
 
-1. Given a list names please create a function filters the list with only the names that contain the given string.
+1. Given a list of names called `names` please create a function that filters the list with only the names that contain the given string.
 
 2. The given string is `'am'`
 
