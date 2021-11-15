@@ -17,14 +17,14 @@ parking_state = [
 
 ## 📝 Instrucciones:
 
-1. Crea una función `get_parking_lot()` que devuelva un objeto con `total_slots`(cantidad total de estacionamientos), `available_slots`(estacionamientos disponibles) y `occupied_slots`(estacionamientos ocupados) así:
+1. Crea una función `get_parking_lot()` que devuelva un objeto con `total_slots` (cantidad total de estacionamientos), `available_slots` (estacionamientos disponibles) y `occupied_slots`(estacionamientos ocupados) así:
 
 
 ```py
-const state = {
-     totalSlots: 12,
-     availableSlots: 3,
-     occupiedSlots: 9
+state = {
+     total_slots: 12,
+     available_slots: 3,
+     occupied_slots: 9
 }
 ```
 
