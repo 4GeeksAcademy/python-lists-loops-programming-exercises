@@ -28,7 +28,7 @@ To access any particular item within the list you need to know its `index` (posi
 
 The `index` is an integer value that represents the position in which the element is located.
 
-## :mag_right: Important:
+### 🔎 Important:
 
 Every list starts from zero (0)! So to get the `first item` we'd use `my_list[0]`
 

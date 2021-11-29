@@ -1,4 +1,4 @@
-# `08.2` Divide y vencerás:
+# `08.2` Divide and coquer
 
 ## 📝 Instrucciones:
 
@@ -16,7 +16,7 @@
 
 + Crea variables vacías cuando necesites almacenar información.
 
-## Ejemplo:
+## Resultado esperado:
 
 ```py
 mergeTwoList([1,2,33,10,20,4])

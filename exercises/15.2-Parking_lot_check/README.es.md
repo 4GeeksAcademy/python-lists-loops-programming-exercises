@@ -1,4 +1,4 @@
-# `15.2` El Parking
+# `15.2` Parking lot
 
 Podemos usar una lista bidimensional (matriz) para representar el estado actual de un estacionamiento:
 
@@ -28,7 +28,7 @@ state = {
 }
 ```
 
-## 💡 Pistas:
+## 💡 Pista:
 
 - Tienes que hacer un bucle anidado.
 

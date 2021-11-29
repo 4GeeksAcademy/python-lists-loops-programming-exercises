@@ -12,7 +12,7 @@ The string "Hello World" contains the following repetitions `h=1 e=1 l=3 o=2 w=1
 
 3. Spaces should be ignored!
 
-## Expected outcome:
+## Expected result:
 
 ```py
 print(count("Hello World"))

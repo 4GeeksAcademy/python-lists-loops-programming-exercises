@@ -11,7 +11,6 @@ The `map()` function applies a given function to each item of an iterable (list,
 ```py
 map(function, iterable, ...)
 ```
-
 #### map() Parameter:
 
 **function:** passes each item of the iterable to this function.

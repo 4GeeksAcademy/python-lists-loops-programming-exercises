@@ -10,6 +10,12 @@ tutorial: "https://www.youtube.com/watch?v=tJ-si9lRkUc"
 
 2. You can use the `for` loop.
 
+## 💡 Hint:
+
+- You can use the `type()` python function.
+
+- Remember that `len()` return the large of your list.
+
 ## Expected result:
 
 ```py
@@ -24,8 +30,3 @@ The console must have something like this:
 <class 'dict'>
 ```
 
-## 💡 Hint:
-
-- You can use the `type()` python function.
-
-- Remember that `len()` return the large of your list.

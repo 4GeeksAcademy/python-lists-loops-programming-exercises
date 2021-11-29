@@ -14,8 +14,6 @@ Some times lists come with mixed values and you need to unify them into only one
 
 ## Expected result:
 
-The result in the console should be something like:
-
 ```py
 [<class 'str'>, <class 'str'>, <class 'str'>, <class 'str'>, <class 'str'>, <class 'str'>, <class 'int'>, <class 'int'>]
 ```

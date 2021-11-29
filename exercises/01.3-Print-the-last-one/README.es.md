@@ -1,4 +1,4 @@
-# `01.3` Imprimir el último
+# `01.3` Print the last one
 
 Nunca sabrás cuántos `items` tiene `my_stupid_list`, porque se genera aleatoriamente durante la ejecución!
 

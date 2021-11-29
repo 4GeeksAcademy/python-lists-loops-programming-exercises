@@ -1,4 +1,4 @@
-# `02.2` Iterando agregando dos
+# `02.2` Loop adding two
 
 ```py
 Este códico es `iterando` la lista entera, `uno a uno`.

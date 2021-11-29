@@ -1,4 +1,4 @@
-# `12.3` Mapear tipos de datos
+# `12.3` Map data type
 
 Muchas veces las listas vienen con valores mixtos y necesitamos unificarlos dentro de un solo tipo de datos.
 
@@ -13,8 +13,6 @@ Muchas veces las listas vienen con valores mixtos y necesitamos unificarlos dent
 + Más sobre tipos de datos: https://www.w3schools.com/python/python_datatypes.asp
 
 ## Resultado esperado:
-
-El resultado en la consola debería parecerse a esto:
 
 ```py
 [<class 'str'>, <class 'str'>, <class 'str'>, <class 'str'>, <class 'str'>, <class 'str'>, <class 'int'>, <class 'int'>]

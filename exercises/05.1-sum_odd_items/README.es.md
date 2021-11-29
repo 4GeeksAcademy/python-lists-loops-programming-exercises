@@ -1,5 +1,4 @@
-# `05.1` Suma los números impares
-
+# `05.1` Sum odd items
 
 ## 📝 Instrucciones:
 

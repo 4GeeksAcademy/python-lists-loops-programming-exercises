@@ -1,4 +1,4 @@
-# `01.1` Acceso y obtención
+# `01.1` Access and retrieve
 
 ## 📝 Instrucciones:
 
@@ -26,7 +26,7 @@ Para acceder a un elemento particular dentro de la lista necesitas conocer su `i
 
 El índice (`index`) es un valor entero que representa la posición en la cuál está ubicado el elemento en la lista.
 
-## :mag_right: Importante:
+### 🔎 Importante:
 
 ¡Cada lista empieza en cero `(0)`! Así que para obtener el primer elemento deberíamos usar `my_list[0]`
 

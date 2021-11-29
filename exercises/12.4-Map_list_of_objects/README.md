@@ -1,4 +1,4 @@
-# `12.4` Map list of objects
+# `12.4` Map a list of objects
 
 The most common scenario for the mapping function is for simplifying given lists, for example:
 

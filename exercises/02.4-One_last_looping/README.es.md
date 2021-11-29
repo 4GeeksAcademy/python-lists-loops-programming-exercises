@@ -1,4 +1,4 @@
-# `02.4` Una última iteración
+# `02.4` One last looping
 
 ## 📝 Instrucciones:
 

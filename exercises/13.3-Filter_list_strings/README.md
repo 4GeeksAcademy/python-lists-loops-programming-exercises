@@ -11,6 +11,5 @@
 ## Expected result:
 
 ```py
-Result:
 ['Liam', 'William', 'James', 'Benjamin', 'Samuel', 'Camila']
 ```

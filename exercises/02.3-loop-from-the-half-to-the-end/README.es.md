@@ -1,5 +1,5 @@
 
-# `02.3` Iterando desde la mitad hasta el final
+# `02.3` Loop from the half to the end
 
 Este bucle no es iterándolo todo... porque las variables `initialValue`, `stopValue` e `increasingValue` son iguales a cero.
 

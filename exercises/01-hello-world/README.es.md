@@ -1,4 +1,4 @@
-# `01` Hola, Mundo
+# `01` Hello world
 
 En Python, usamos `print` para hacer que el computador escriba cualquier cosa que queramos 
 (el contenido de una variable, una cadena de texto dada, etc.)
@@ -18,7 +18,6 @@ print("How are you?")
 
 1. Usa la función `print()` para escribir "Hello World" en la consola. 
  
-
-## :bulb: Pista:
+## 💡 Pista:
 
 + Siéntete libre de intentar otras cosas también.

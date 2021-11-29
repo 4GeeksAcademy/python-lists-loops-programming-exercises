@@ -1,4 +1,4 @@
-# `09.1` Mínimo entero:
+# `09.1` Minimum integer
 
 Es posible recorrer una lista usando un bucle `for` para listas, tú tienes que especificar qué hacer en cada iteración de la lista.
 

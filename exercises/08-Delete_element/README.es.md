@@ -1,4 +1,4 @@
-# `08` Borrar un elemento
+# `08` Delete element
 
 La unica forma de borrar a `Daniella` de la lista (sin trampas)
 será crear una nueva lista con todas las demás personas, excepto Daniella.

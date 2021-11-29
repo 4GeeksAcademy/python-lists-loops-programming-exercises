@@ -1,4 +1,4 @@
-# `13.3` Filtrar una lista de texto
+# `13.3` Filter list string
 
 ## 📝 Instrucciones:
 

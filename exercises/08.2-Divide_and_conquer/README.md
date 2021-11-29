@@ -16,7 +16,7 @@
 
 + Create empty (placeholder) variables when you need to store data.
 
-## Example:
+## Expected result:
 
 ```py
 mergeTwoList([1,2,33,10,20,4])

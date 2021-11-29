@@ -1,12 +1,12 @@
 # `09` Max integer from my_list
 
-## 📝Instructions:
+## 📝 Instructions:
 
 1. Write a script that finds the biggest integer in the list.
 
 2. Print that number in the console with the `print()` function.
 
-## 💡Hint:
+## 💡 Hint:
 
 - Define an auxiliar variable and set the first value to `0`.
 
