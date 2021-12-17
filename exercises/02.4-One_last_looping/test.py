@@ -12,4 +12,5 @@ def test_for_loop():
     with open(path, 'r') as content_file:
         content = content_file.read()
         regex = re.compile(r"for(\s)+[a-zA-Z\-_]+(\s)+in(\s)+range.*")
-        assert bool(regex.search(content)) == True
+        regex2 = re.compile(r"for(\s)+[a-zA-Z\-_]+(\s)+in(\s)+reversed.*")
+        assert bool(regex.search(content)) == True or bool(regex2.search(content)) == True
