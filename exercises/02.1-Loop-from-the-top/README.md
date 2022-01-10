@@ -8,7 +8,7 @@ tutorial: "https://www.youtube.com/watch?v=tFCstq-Us3I"
 This loop is `looping` the list from beginning to end... increasing one by one.
 ```
 
-## 📝Instructions:
+## 📝Instructions::
 
 1. Lets try looping from the end to the beginning.
 

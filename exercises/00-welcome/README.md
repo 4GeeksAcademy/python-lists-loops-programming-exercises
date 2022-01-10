@@ -10,7 +10,7 @@ During this course you will be learning the following concepts:
 
 - What is tuple.
 
-- Looping a list using 'for'.
+- Looping a list using `for`.
 
 - Mapping lists.
 

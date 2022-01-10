@@ -4,8 +4,7 @@
 
 1. Añadir 10 enteros aleatorios a la lista `arr`.
 
-
-## 💡 Pistas:
+## 💡 Pista:
 
 - Tienes que importar la función "random": `import random`.
 

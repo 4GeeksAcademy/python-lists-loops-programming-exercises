@@ -9,7 +9,7 @@ En Python, `range(x,y)` devuelve una secuencia de números empezando en x, incre
 
 Por ejemplo:
 
-```python
+```py
 for x in range(0,5):
   print(x)
 ```
@@ -32,7 +32,7 @@ Podemos incorporar parámetros adicionales para especificar más detalle (ahora 
 
 1. Contar del 1 al 17 con un bucle e imprimir cada número en la consola.
 
-## 💡 Pistas:
+## 💡 Pista:
 
 + Así haces un bucle:
 

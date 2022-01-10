@@ -4,7 +4,7 @@ tutorial: "https://www.youtube.com/watch?v=uUQ6FlkoZbQ"
 
 # `01.1` Access and retrieve
 
-# 📝Instructions from your teacher:
+## 📝Instructions:
 
 **Lists** are part of every programming language. They are the way to go when you want to have a 'list of elements'.
 
@@ -32,7 +32,7 @@ The `index` is an integer value that represents the position in which the elemen
 
 Every list starts from zero (0)! So to get the `first item` we'd use `my_list[0]`
 
-## 📝 Instructions
+## 📝 Instructions:
 
 1. Using the `print()` function, print the 3rd item from the list.
 

@@ -4,20 +4,23 @@ tutorial: "https://www.youtube.com/watch?v=zez4r9ApjSY"
 
 # `02.5` Finding Wally
 
-# 📝Instructions:
+## 📝Instructions:
+
 1. Find Wally :)
+
 2. Print the position(s) of Wally in the console.
 
-💡Hint:
-- USE A `LOOP!!!` and an `IF (conditional)`
+## 💡 Hint:
 
+- Use a loop and an if (conditional)
 
-Easter Egg:
+## :gem: Easter Egg:
+
 What if there is more than one Wally?
 
+## Expected result:
 
-The console output expected:
-```js
+```py
 65
 198
 ```

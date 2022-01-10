@@ -10,7 +10,7 @@ En este curso aprenderás los siguientes conceptos:
 
 - Qué es una tupla.
 
-- Recorrer una lista usando "for".
+- Recorrer una lista usando `for`.
 
 - Mapeo de listas.
 
