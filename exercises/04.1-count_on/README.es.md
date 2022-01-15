@@ -2,7 +2,7 @@
 
 Como has visto en el ejercicio anterior tu lista puede ser un a mezcla de `tipos de datos` que vamos a dividir y conquistar.
 
-¿Serías tan amable de añadir todos los elementos con *data-type* `dict` y `list` dentro de la lista `hello`?
+¿Serías tan amable de añadir todos los elementos con *data-type* (tipo de dato) `dict` y `list` dentro de la lista `hello`?
 
 ## 📝 Instrucciones:
 
@@ -13,6 +13,8 @@ Como has visto en el ejercicio anterior tu lista puede ser un a mezcla de `tipos
 3. Imprime la variable `hello`.
 
 ## 💡 Pista:
+
++ Recuerda que puedes saber el tipo de dato de una variable o valor con la función `type`
 
 Así es como puedes imprimir TODOS los elementos:
 

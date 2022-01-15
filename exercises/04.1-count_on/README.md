@@ -14,6 +14,8 @@ Would you be so kind to add all the items with data-type `dict` and `list` into 
 
 ## 💡 Hint :
 
++ Remember that you can know the data-type of a variable or value with the function `type`
+
 Here is how to print ALL the items.
 
 ```py
