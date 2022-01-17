@@ -4,7 +4,7 @@ tutorial: "https://www.youtube.com/watch?v=zez4r9ApjSY"
 
 # `02.5` Finding Wally
 
-## 📝Instructions:
+## 📝 Instructions:
 
 1. Find Wally :)
 
@@ -14,7 +14,7 @@ tutorial: "https://www.youtube.com/watch?v=zez4r9ApjSY"
 
 - Use a loop and an if (conditional)
 
-## :gem: Easter Egg:
+## 💎 Easter Egg:
 
 What if there is more than one Wally?
 

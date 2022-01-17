@@ -1,4 +1,4 @@
-# `12.2` Map function inside of variable
+# `12.2` Map function inside a variable
 
 The variable names contains a lot of names (:unamused: dugh...)
 

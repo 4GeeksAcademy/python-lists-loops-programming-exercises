@@ -11,7 +11,6 @@ tutorial: "https://www.youtube.com/watch?v=VK7jmXad64k"
 ```py
 You will have to loop through the whole array using a for loop.
 ```
-
  ## 💡 Hint:
  
  + If our goal is to print every item, which is a repetitive task, we can use a loop. Think, for `each_item` in `my_list`, what do we want? We can then use the namespace reference to each item by using `each_item` and perform any operations we want upon each iteration.

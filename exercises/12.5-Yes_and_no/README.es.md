@@ -1,4 +1,4 @@
-# `12.5` Sí y no
+# `12.5` Yes and no
 
 ## 📝 Instrucciones:
 
@@ -19,7 +19,6 @@
 ## Resultado esperado:
 
 ```py
-Ejemplo de salida:
 
 [ 'woko',   'wiki',   'woko',   'woko',   'wiki',   'wiki',   'wiki',   'woko',   'woko',   'wiki',   'woko',   'wiki',   'wiki',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'woko',   'wiki',   'woko',   'woko',   'woko',   'woko',   'wiki' ]
 ```

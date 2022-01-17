@@ -1,4 +1,4 @@
-# `12.1` Más mapeo
+# `12.1` More mapping
 
 El método `map()` de una lista, llama a una función por cada valor en la lista y, luego, entrega una nueva lista con los valores modificados.
 
@@ -11,6 +11,7 @@ def values_list(number) {
 my_list = [1, 2, 3, 4]
 result = map(values_list, my_list)  #retorna [2, 3, 4, 5]
 ```
+
 ## 📝 Instrucciones:
 
 1. Crear una función llamada `increment_by_one` que multiplicará cada número por 3.

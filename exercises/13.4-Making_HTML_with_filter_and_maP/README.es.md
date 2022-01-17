@@ -1,4 +1,4 @@
-# `13.4` Haciendo HTML usando las funciones `filter` y `map`
+# `13.4` Making HTML with `filter` and `map` function
 
 ## 📝 Instrucciones:
 
@@ -11,7 +11,4 @@
 # Rojo - Naranjo - Rosado - Violeta
 ```
 
-## 💡 Pista:
 
-+ Posiblemente tengas que usar las funciones `filter()` y `map()`
-+ Asigna (`set()`) valores a las nuevas variables.

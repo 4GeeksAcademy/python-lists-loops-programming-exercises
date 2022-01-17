@@ -1,4 +1,4 @@
-# `09` Máximo entero en my_list
+# `09` Max integer from my_list
 
 ## 📝 Instrucciones:
 

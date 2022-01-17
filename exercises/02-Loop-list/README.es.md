@@ -1,8 +1,9 @@
-# `02` Iterar una lista
+# `02` Loop a list
 
 ## 📝 Instrucciones:
 
 1. Imprimir todos los elementos en la consola, en lugar de solo un elemento de la lista.
+
 ```py
 Tendrás que iterar a lo largo de la lista entera usando un bucle `for`.
 ```

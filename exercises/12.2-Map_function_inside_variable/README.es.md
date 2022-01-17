@@ -1,6 +1,6 @@
-# `12.2` Función map dentro de una variable
+# `12.2` Map function inside a variable
 
-La variable names contiene muchos nombres :unamused:(daah...)
+La variable names contiene muchos nombres 😒 (daah...)
 
 La función `prepender` almacenada en la variable devuelve lo que sea que se le pase pero agregando antes: `'My name is:'`
 

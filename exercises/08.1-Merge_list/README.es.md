@@ -1,6 +1,6 @@
-# `08.1` Fusionar listas:
+# `08.1` Merge list
 
-Dado que vivimos en un nuevo mundo, no deberían haber colores ni etiquetas, ¿verdad?
+Dado que vivimos en un nuevo mundo, no deberían haber colores ni etiquetas ¿verdad?
 
 ## 📝 Instrucciones:
 

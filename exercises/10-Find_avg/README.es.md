@@ -1,5 +1,4 @@
-# `10` Encuentra el promedio
-
+# `10` Find the average
 
 ## 📝 Instrucciones:
 
@@ -9,7 +8,7 @@
 
 ## 💡 Pista:
 
-* Para imprimir el promedio, tienes que sumar todos los valores y dividir el total entre la cantidad de elementos de la lista.
++ Para imprimir el promedio, tienes que sumar todos los valores y dividir el total entre la cantidad de elementos de la lista.
 
 ## Resultado esperado:
 

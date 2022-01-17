@@ -1,4 +1,4 @@
-# `04` Lista mezclada
+# `04` Mixed list
 
 ## 📝 Instrucciones:
 
@@ -6,12 +6,15 @@
 
 2. Puedes usar el bucle `for`.
 
+## 💡 Pista:
+
+- Puedes usar la función `type()` de python.
+
+- Recuerda que `len()` devuelve la longitud de tu lista.
+
 ## Resultado esperado:
 
 ```py
-La consola debería mostrar algo como esto:
-
-
 <class 'int'>
 <class 'bool'>
 <class 'str'>
@@ -21,8 +24,4 @@ La consola debería mostrar algo como esto:
 <class 'dict'>
 ```
 
-## 💡 Pista:
 
-- Puedes usar la función `type()` de python.
-
-- Recuerda que `len()` devuelve la longitud de tu lista.

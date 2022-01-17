@@ -1,4 +1,4 @@
-# `02.1` Iterar desde el tope
+# `02.1` Loop from the top
 
 ```py
 Este bucle es `iterando` la lista de principio a fin... incrementando uno a uno.
@@ -8,7 +8,8 @@ Este bucle es `iterando` la lista de principio a fin... incrementando uno a uno.
 
 1. Vamos a intentar iterar desde el fin hasta el principio.
 
-La salida en la consola debería ser algo así:
+## Resultado esperado:
+
 ```js
 12
 25

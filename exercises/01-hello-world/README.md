@@ -18,7 +18,7 @@ print("How are you?")
 
 1. Use the `print()` function to print `Hello World` on the console. 
 
-## :bulb: Hint:
+## 💡 Hint:
 
 + Feel free to try other things as well.
 

@@ -1,4 +1,4 @@
-# `13.1` Filtrar Listas
+# `13.1` Filter and list
 
 Aquí hay otro ejemplo en el se usa `filter()` en una lista en python. Este algoritmo filtra la lista `all_numbers` y retorna una nueva lista solo con los números impares:
 

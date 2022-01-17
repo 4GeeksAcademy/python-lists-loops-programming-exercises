@@ -1,4 +1,4 @@
-# `16` Latidos de tecno
+# `16` Techno beats:
 
 Estás trabajando con un DJ que necesita un programa que pueda crear ritmos para sus canciones.
 
@@ -9,6 +9,7 @@ Estás trabajando con un DJ que necesita un programa que pueda crear ritmos para
 ```py
     [0,0,1,1,0,0,0]
 ```
+
 2. Por cada `0` añade el string `Boom`.
 
 3. Por cada `1` añade el string `Drop the base`.

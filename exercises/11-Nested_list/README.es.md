@@ -1,5 +1,5 @@
+# `11` Nested list
 
-# `11` Lista anidada
 
 Es posible encontrar una lista dentro de otra lista (se llama lista de dos dimensiones o matriz).
 

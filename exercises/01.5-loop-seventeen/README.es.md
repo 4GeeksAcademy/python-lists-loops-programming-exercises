@@ -1,4 +1,4 @@
-# `01.5` Bucle del 1 al 17
+# `01.5` Loop from 1 to 17
 
 Para iterar un número específico de números, podemos usar 
 ```py

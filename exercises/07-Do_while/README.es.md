@@ -1,4 +1,4 @@
-# `07` Hacer mientras
+# `07` Do while
 
 Hacer, hacer, hacer.
 

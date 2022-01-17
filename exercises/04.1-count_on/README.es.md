@@ -1,4 +1,4 @@
-# `04.1` Contando
+# `04.1` Count on
 
 Como has visto en el ejercicio anterior tu lista puede ser un a mezcla de `tipos de datos` que vamos a dividir y conquistar.
 

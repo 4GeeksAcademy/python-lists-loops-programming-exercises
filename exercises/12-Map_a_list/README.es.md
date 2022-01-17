@@ -1,4 +1,4 @@
-# `12` Mapea una lista
+# `12` Map a list
 
 ```py
 Python map()
@@ -8,10 +8,10 @@ La función `map()` aplica una función dada a cada elemento de un 'iterable' (y
 
 ### La sintaxis de map() es:
  
-
 ```py
 map(funcion, iterable, ...)
 ```
+
 #### Parámetros de map():
 
 - **función:** La función `map()` pasa cada elemento del iterable a esta función.

@@ -1,4 +1,4 @@
-# `12.4` Mapeando lista de objetos
+# `12.4` Map a list of objects
 
 El escenario más común para la función de mapeo es simplificar listas dadas, por ejemplo:
 

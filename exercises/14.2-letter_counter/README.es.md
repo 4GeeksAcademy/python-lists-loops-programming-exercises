@@ -1,4 +1,4 @@
-# `14.2` Contador de letras
+# `14.2` Letter counter
 
 ## 📝 Instrucciones:
 

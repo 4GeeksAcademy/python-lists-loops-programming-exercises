@@ -1,4 +1,4 @@
-# `01.2` Obtener elementos
+# `01.2` Retrieve items
 
 La única forma de acceder a un elemento particuar en una `list` (en python), es usando un índice.
 
@@ -9,7 +9,6 @@ Necesitas `envolver` el índice entre `corchetes` así:
 ```py
 my_value = list[index]
 ```
-
 ## 📝 Instrucciones:
 
 1. Imprime en la consola el `1er elemento` de la lista.
