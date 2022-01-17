@@ -2,14 +2,12 @@
 
 ## 📝Instructions:
 
-1. Declare a new function called `my_var` and pass 1 argument.
+1. Declare a new function called `data_transformer()` that receives a list as parameter.
 
-2. Declare a new variable called `transformedData`.
-
-3. Fill the declared variable with a list of strings containing the full name of each user using the `map()` function.
+2. The function should return a list of strings containing the full name of each user using the `map()` method.
 
 ## Expected result:
 
 ```py
-'Mario Montes', 'Joe Biden', 'Bill Clon', 'Hilary Mccafee', 'Bobby Mc birth']
+['Mario Montes', 'Joe Biden', 'Bill Clon', 'Hilary Mccafee', 'Bobby Mc birth']
 ```
