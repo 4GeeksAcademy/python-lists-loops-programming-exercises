@@ -41,4 +41,4 @@ def test_function_value2(app):
 def test_map_usage():
     f = open(os.path.dirname(os.path.abspath(__file__)) + '/app.py')
     content = f.read()
-    assert content.find("map") > 0
+    assert re.search("map\s*\(", content)
