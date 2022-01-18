@@ -14,7 +14,9 @@ Como has visto en el ejercicio anterior tu lista puede ser un a mezcla de `tipos
 
 ## 💡 Pista:
 
-+ Recuerda que puedes saber el tipo de dato de una variable o valor con la función `type`
++ Recuerda que puedes saber el tipo de dato de una variable o valor con la función `type()`
+
++ Para más información sobre la función `type()`: https://www.w3schools.com/python/ref_func_type.asp
 
 Así es como puedes imprimir TODOS los elementos:
 
@@ -24,6 +26,7 @@ my_list = [42, true, "towel", [2,1], 'hello', 34.4, {"name": "juan"}]
 for x in my_list:
     print(x)
 ```
+
 ## Resultado esperado:
 
 ```py
