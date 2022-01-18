@@ -14,7 +14,9 @@ Would you be so kind to add all the items with data-type `dict` and `list` into 
 
 ## 💡 Hint :
 
-+ Remember that you can know the data-type of a variable or value with the function `type`
++ Remember that you can know the data-type of a variable or value with the function `type()`.
+
++ Check this link for more information about the `type()` function: https://www.w3schools.com/python/ref_func_type.asp
 
 Here is how to print ALL the items.
 
