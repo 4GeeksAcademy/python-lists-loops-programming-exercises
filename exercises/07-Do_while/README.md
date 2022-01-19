@@ -1,7 +1,7 @@
 # `07` D0 While
 
 DO DO DO
-The do while() is another loop example in python is less commonly used but it is a loop.
+The `while()` function is another loop example in python is less commonly used but it is a loop.
 
 ```py
 x = 1
