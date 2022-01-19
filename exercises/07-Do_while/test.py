@@ -12,7 +12,8 @@ def test_output(capsys, app):
 def test_for_loop():
     with open(path, 'r') as content_file:
         content = content_file.read()
-        regex = re.compile(r"while(\s)+[a-zA-Z\-_]+(\s)")
+        # regex = re.compile(r"while(\s)+[a-zA-Z\-_]+(\s)") only checks for one character before the space.
+        regex = re.compile(r"while(\s)\S*")
         assert bool(regex.search(content)) == True
 
 @pytest.mark.it("Use if statement")
