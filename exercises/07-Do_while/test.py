@@ -1,7 +1,7 @@
 import io, sys, os, pytest, re
 path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
-@pytest.mark.it("You have a good list numbers with exclamation sign!!! 😃")
+@pytest.mark.it("The output should be as expected")
 def test_output(capsys, app):
     app()
     captured = capsys.readouterr()
