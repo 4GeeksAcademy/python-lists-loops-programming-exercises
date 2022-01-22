@@ -11,6 +11,26 @@ def test_output(capsys, app):
 def test_for_loop():
     with open(path, 'r') as content_file:
         content = content_file.read()
-        regex = re.compile(r"for(\s)+[a-zA-Z\-_]+(\s)+in(\s)+range.*")
-        regex2 = re.compile(r"for(\s)+[a-zA-Z\-_]+(\s)+in(\s)+reversed.*")
-        assert bool(regex.search(content)) == True or bool(regex2.search(content)) == True
+        regex = re.compile(r"for(\s*)+\S+(\s*)+in(\s*)+range.*")
+        assert bool(regex.search(content)) == True
+
+@pytest.mark.it("You have to put Steven in the second place in the array.")
+def test_for_loop():
+    with open(path, 'r') as content_file:
+        content = content_file.read()
+        regex = re.compile(r"my_sample_list\[\s*1\s*\]\s*\=\s*[\'\"]\s*Steven\s*[\'\"]")
+        assert bool(regex.search(content)) == True 
+
+@pytest.mark.it("You have to put Steven in the second place in the array.")
+def test_for_loop():
+    with open(path, 'r') as content_file:
+        content = content_file.read()
+        regex = re.compile(r"my_sample_list\[\s*1\s*\]\s*\=\s*[\'\"]\s*Steven\s*[\'\"]")
+        assert bool(regex.search(content)) == True 
+
+@pytest.mark.it("Check the third point again")
+def test_for_loop():
+    with open(path, 'r') as content_file:
+        content = content_file.read()
+        regex = re.compile(r"my_sample_list\[\s*0\s*\]\s*\=\s*my_sample_list\[\s*2\s*\]\s*\+\s*my_sample_list\[\s*4\s*\]")
+        assert bool(regex.search(content)) == True 
