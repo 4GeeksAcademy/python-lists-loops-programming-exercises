@@ -4,7 +4,7 @@ tutorial: "https://www.youtube.com/watch?v=ca1DZgLwy00"
 
 # `02.4` One last looping
 
-## 📝Instructions:
+## 📝 Instructions:
 
 1. Change the second item value to `Steven`.
 
@@ -14,7 +14,7 @@ tutorial: "https://www.youtube.com/watch?v=ca1DZgLwy00"
 
 4. Loop the list in reverse order (from the end to the beginning) and print all the elements.
 
-## 💡Hint:
+## 💡 Hint:
 
 + Remember that list start at position `0`.
 
@@ -22,7 +22,7 @@ tutorial: "https://www.youtube.com/watch?v=ca1DZgLwy00"
 
 + You should use the `for` loop to reverse it instead of any other method.
 
-## Expected result:
+## Expected result:
 
 ```py
 Pepe
