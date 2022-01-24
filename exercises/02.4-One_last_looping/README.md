@@ -4,21 +4,25 @@ tutorial: "https://www.youtube.com/watch?v=ca1DZgLwy00"
 
 # `02.4` One last looping
 
-## 📝Instructions:
+## 📝 Instructions:
 
 1. Change the second item value to `Steven`.
 
 2. Set the last position to `Pepe`.
 
-3. Set the first element to the value of the 3rd element concatenated to the value of the 5th element.
+3. Set the first element's value to the value of the 3rd element concatenated to the value of the 5th element.
 
-4. Reverse loop (from the end to the beginning) the whole list and print all the elements.
+4. Loop the list in reverse order (from the end to the beginning) and print all the elements.
 
-## 💡Hint:
+## 💡 Hint:
 
-- Remember that list start at position `0`.
++ Remember that list start at position `0`.
 
-## Expected result:
++ Remember to use the `for` loop in this exercise.
+
++ You should use the `for` loop to reverse it instead of any other method.
+
+## Expected result:
 
 ```py
 Pepe
