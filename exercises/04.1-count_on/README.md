@@ -8,7 +8,7 @@ Would you be so kind to add all the items with data-type `dict` and `list` into 
 
 1. Loop the given list.
 
-2. Push the data-types found to an new list called `hello`.
+2. Push the data-types `dict` and `list` found to a new list called `hello`.
 
 3. Print the variable `hello`.
 
