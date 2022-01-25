@@ -2,11 +2,11 @@
 
 Como has visto en el ejercicio anterior tu lista puede ser un a mezcla de `tipos de datos` que vamos a dividir y conquistar.
 
-¿Serías tan amable de añadir todos los elementos con *data-type* (tipo de dato) `dict` y `list` de la lista `data_types` en una nueva lista llamada `new_list`?
+¿Serías tan amable de añadir todos los elementos con *data-type* (tipo de dato) `dict` y `list` de la lista `my_list` en una nueva lista llamada `new_list`?
 
 ## 📝 Instrucciones:
 
-1. Itera la lista dada (`data_types`).
+1. Itera la lista dada (`my_list`).
 
 2. Mete los tipos de datos `dict` y `list` encontrados en una nueva lista llamada `new_list`.
 
@@ -21,9 +21,9 @@ Como has visto en el ejercicio anterior tu lista puede ser un a mezcla de `tipos
 Así es como puedes imprimir TODOS los elementos:
 
 ```py
-data_types = [42, true, "towel", [2,1], 'hello', 34.4, {"name": "juan"}]
+my_list = [42, true, "towel", [2,1], 'hello', 34.4, {"name": "juan"}]
 
-for x in data_types:
+for x in my_list:
     print(x)
 ```
 
