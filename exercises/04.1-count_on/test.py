@@ -9,7 +9,6 @@ def test_variable_exists():
 def test_variable_value():
     assert app.new_list == [[2, 1], {'name': 'juan'}]
 
-
 @pytest.mark.it("You have to use a for loop")
 def test_for_loop():
     with open(path, 'r') as content_file:
@@ -24,15 +23,16 @@ def test_if():
         regex = re.compile(r"if(\s)")
         assert bool(regex.search(content)) == True
 
-# @pytest.mark.it("You have to print the value of the variable 'hello' in the console")
-# def test_all_data_type(capsys, app):
-#     app()
-#     captured = capsys.readouterr()
-#     assert "[[2, 1], {'name': 'juan'}]\n" in captured.out
-
-@pytest.mark.it("Print the value of the variable 'new_list'")
-def test_if():
+@pytest.mark.it("you should use print()")
+def test_print():
     with open(path, 'r') as content_file:
         content = content_file.read()
         regex = re.compile(r"print\(new_list\)")
         assert bool(regex.search(content)) == True
+
+@pytest.mark.it("You have to print the value of the variable 'new_list' in the console")
+def test_all_data_type(capsys, app):
+    app()
+    captured = capsys.readouterr()
+
+    assert "[[2, 1], {'name': 'juan'}]\n" in captured.out
