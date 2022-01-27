@@ -7,7 +7,7 @@
 ## Resultado esperado:
 
 ```py
-<li>Red</li><li>Orange</li><li>Pink</li><li>Violet</li> 
+['<li>Red</li>', '<li>Orange</li>', '<li>Pink</li>', '<li>Violet</li>']
 # Rojo - Naranjo - Rosado - Violeta
 ```
 

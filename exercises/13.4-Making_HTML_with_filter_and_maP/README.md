@@ -9,7 +9,7 @@
 
 ```py
 Expected:
-<li>Red</li><li>Orange</li><li>Pink</li><li>Violet</li>
+['<li>Red</li>', '<li>Orange</li>', '<li>Pink</li>', '<li>Violet</li>']
 ```
 
 ## 💡 Hint:
