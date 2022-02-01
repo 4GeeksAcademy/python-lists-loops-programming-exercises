@@ -2,7 +2,9 @@
 
 Podemos usar una lista bidimensional (matriz) para representar el estado actual de un estacionamiento:
 
-![Parking lot](https://storage.googleapis.com/replit/images/1558366147943_71c41e2a3f01564b5bdba6618797af79.pn)
+![Parking lot](../../.learn/assets/ex15.2.png)
+  
+  
 
 ```py
 

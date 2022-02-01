@@ -8,7 +8,16 @@ La función `prepender` almacenada en la variable devuelve lo que sea que se le 
 
 1. Por favor, mapea la lista de nombres usando la función `prepender` para crear una nueva lista que se parezca a esto:
 
-## Resultado Esperado:
+## Resultado Esperado:
 
-!["Map function"](https://storage.googleapis.com/replit/images/1525912878195_89876a082d32ee32bb7a1ab5834dbca0.pn)
+```py
+[ 'My name is: Alice',
+  'My name is: Bob',
+  'My name is: Marry',
+  'My name is: Joe',
+  'My name is: Hilary',
+  'My name is: Stevia',  
+  'My name is: Dylan' ]
+```
+
 
