@@ -1,6 +1,14 @@
 # `14` Loop A Dictionary
 
-The dictionaries allow us to identify each element by a key `key`, as opposed to lists where there are simply values and indexes. To define a dictionary, the list of values is enclosed in curly braces. Key and value pairs are separated by commas, and key and value are separated by colons: `{key: value, otherKey: otherValue, ...}`.
+The dictionaries allow us to identify each element by a `key`, opposed to lists where there are only values and indexes. To define a dictionary, the list of values is enclosed in curly braces. Key and value pairs are separated by commas, and keys are separated from values by colons: 
+
+```py
+{
+    key: value,
+    otherKey: otherValue,
+    ...
+}
+```
 
 ### You can think of a dictionary like a list with non-numerical positions:
 
