@@ -54,5 +54,5 @@ smart -> inteligente
 ## Resultado Esperado:
 
 ```py
-{'dog': 'perro', 'house': 'casa', 'cat': 'gato', 'love': 'amor', 'code': 'codigo', 'smart': 'inteligente'bukb}
+{'dog': 'perro', 'house': 'casa', 'cat': 'gato', 'love': 'amor', 'code': 'codigo', 'smart': 'inteligente'}
 ```
