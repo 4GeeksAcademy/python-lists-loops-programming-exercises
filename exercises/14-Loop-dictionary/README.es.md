@@ -1,6 +1,14 @@
 # `14` Loop a Dictionary
 
-Los diccionarios nos permiten identificar cada elemento por una clave `key`, a diferencia de las listas en donde simplemente hay valores e índices. Para definir un diccionario, se encierra el listado de valores entre llaves. Las parejas de clave y valor se separan con comas, y la clave y el valor se separan con dos puntos: `{clave: valor, otraClave: otroValor, ...}`.
+Los diccionarios nos permiten identificar cada elemento por una clave `key`, a diferencia de las listas en donde simplemente hay valores e índices. Para definir un diccionario, se encierra el listado de valores entre llaves. Las parejas de clave y valor se separan con comas, y la clave y el valor se separan con dos puntos: 
+
+```
+{
+    clave: valor,
+    otraClave: otroValor, 
+    ...
+}
+```
 
 ### Puedes pensar en un diccionario como en una lista con posiciones no numéricas:
 
