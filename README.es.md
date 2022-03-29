@@ -41,7 +41,7 @@ Estos ejercicios son colaborativos, ¡te necesitamos! Si encuentras algún error
 
 ## Instalación local:
 
-1. Instala learnpack, el administrador de paquetes para tutoriales de aprendizaje y el complemento del compilador html para learnpack, asegúrate de tener también node.js 12+:
+1. Instala learnpack, el administrador de paquetes para tutoriales de aprendizaje y el complemento del compilador html para learnpack, asegúrate de tener también node.js 14+:
 
 ```sh
 $ npm i learnpack -g
