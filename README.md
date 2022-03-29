@@ -1,9 +1,9 @@
 
-#  🐍 Python Loops & Lists Tutorial Exercises
+#  🐍 Tutorial Ejercicios de Python sobre loops y listas
 
 <a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises/blob/master/python-lp-badge.png"></a>
 
-> By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
+> Por [@alesanchezr](https://twitter.com/alesanchezr) y [otros colaboradores](https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
 
 ![last commit](https://img.shields.io/github/last-commit/4geeksacademy/python-lists-loops-programming-exercises)
@@ -11,7 +11,13 @@
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
 
-Looping is one of the most challenging topics to grasp when learning how to code, learn all the possible ways to loop in python, looping lists, touples, dictionaries and other data-structures. The entire tutorial is 👆 interactive, ✅ auto-graded and with. 📹 video tutorials.
+Looping is one of the most challenging topics to grasp when learning how to code, you willlearn:
+
+1. all the possible ways to loop in python,
+
+2.  looping lists, touples, dictionaries and other data-structures. 
+
+The entire tutorial is 👆 interactive, ✅ auto-graded and with. 📹 video tutorials.
 
 <h3>📚 Table of contents:</h3>
 <table>
@@ -36,7 +42,7 @@ These exercises were built in collaboration, we need you! If you find any bugs o
   <a href="https://www.youtube.com/watch?v=xMg9d0KsYAk&list=PLCVs_S8Skwp-I5pbEKvs7Vb-94HFNPOSC"><img src="https://github.com/4GeeksAcademy/python-beginner-programming-exercises/blob/master/python-intro.gif?raw=true"></a>
 </p>
 
-<h2>One click installation:</h2>
+## One click installation:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises.git)
 
@@ -67,7 +73,6 @@ $ learnpack start
 ```
 
 Note: The exercises have automatic grading but its very rigid and string, my recomendation is to ignore the tests and use them only as a recomendation or you can get frustrated.
-```
 
 ## How are the exercises organized?
 
@@ -81,9 +86,8 @@ Each exercise is a small python project containing the following files:
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
-1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribution: (coder) :computer: (idea) 🤔, (build-tests) :warning:, (pull-request-review) :eyes: (build-tutorial) :white_check_mark: (documentation) :book:
-2. [Paolo (plucodev)](https://github.com/plucodev), contribution: (bug reports) :bug:, contribution: (coder), (translation) :earth_americas:
+1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribution: (coder) 💻  (idea) 🤔, (build-tests) ⚠️ , (pull-request-review) 👀 (build-tutorial) ✅ (documentation) 📖
 
-This project follows the
-[all-contributors](https://github.com/kentcdodds/all-contributors)
-specification. Contributions of any kind are welcome!
+2. [Paolo (plucodev)](https://github.com/plucodev), contribution: (bug reports) 🐛, contribution: (coder), (translation) 🌎
+
+This project follows the[all-contributors](https://github.com/kentcdodds/all-contributors) specification.Contributions of any kind are welcome!
