@@ -11,7 +11,7 @@ def test_variable_exists(app):
 @pytest.mark.it('The function get_parking_lot should return an object with correct values')
 def test_variable_exists(app):
     value1 = [[1,1,1], [0,0,0], [1,1,2]]
-    result1 = {'total_slots': 9, 'available_slots': 1, 'occupied_slots': 5}
+    result1 = {'total_slots': 6, 'available_slots': 1, 'occupied_slots': 5}
     try:
         assert app.get_parking_lot(value1) == result1
     except AttributeError:
