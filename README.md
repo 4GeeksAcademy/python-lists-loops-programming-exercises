@@ -1,4 +1,4 @@
-
+<!-- hide -->
 #  🐍 Python lists and loops tutorial exercises
 
 <a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises/blob/master/python-lp-badge.png"></a>
@@ -9,16 +9,17 @@
 ![last commit](https://img.shields.io/github/last-commit/4geeksacademy/python-lists-loops-programming-exercises)
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://breatheco.de)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
+<!-- endhide -->
 
+Lists and Loops is one of the most challenging topics to grasp when learning how to code, you will learn:
 
-Looping is one of the most challenging topics to grasp when learning how to code, you willlearn:
+1. All the possible ways to loop in python,
 
-1. all the possible ways to loop in python,
-
-2.  looping lists, touples, dictionaries and other data-structures. 
+2. Looping lists, tuples, dictionaries and other data-structures. 
 
 The entire tutorial is 👆 interactive, ✅ auto-graded and with. 📹 video tutorials.
 
+<!-- hide -->
 <h3>📚 Table of contents:</h3>
 <table>
   <tr>
@@ -73,6 +74,8 @@ $ learnpack start
 ```
 
 Note: The exercises have automatic grading but its very rigid and string, my recomendation is to ignore the tests and use them only as a recomendation or you can get frustrated.
+
+<!-- endhide -->
 
 ## How are the exercises organized?
 
