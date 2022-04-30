@@ -11,20 +11,9 @@ Aprender a programar es dificil ¡necesitas coaching! Envíame un DM en twitter 
 
 Esta es una selección completa de ejercicios con tests e interactivos en Python para cualquier persona interesada en aprender Python!
 
-<h3>📚 Tabla de contenidos</h3>
-<table>
-  <tr>
-    <td>1. <a href="https://github.com/4GeeksAcademy/python-beginner-programming-exercises">Python para principiantes</a></td></tr>
-  <tr color="white"><td>2. <a href="https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises">Practica Loops en Listas y Tuplas</a>← 🔥 estás aquí</td>
-   <td><a href="https://gitpod.io#https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises.git"><img src="https://gitpod.io/button/open-in-gitpod.svg" /></a></td>
-   </tr>
-  <tr><td>3. <a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises">Practica funciones</a></td></tr>
-  <tr><td>4. <a href="https://github.com/4GeeksAcademy/master-python-programming-exercises">Master Python (intermedio)</a></td></tr>
-  <tr><td>5. <a href="https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises">Python API Requests</a></td></tr>
-  <tr><td>6. Que sigue? <a href="https://github.com/4GeeksAcademy/About-4Geeks-Academy/issues/new">Solicita un nuevo tutorial</a> o <a href="https://github.com/4GeeksAcademy/About-4Geeks-Academy/labels/help%20wanted">colabora</a>.<br /> Añadiremos tu perfil a nuestra lista de colaboradores </td></tr>
-</table>
 Estos ejercicios son colaborativos, ¡te necesitamos! Si encuentras algún error o falta de ortografía, por favor contribuye y repórtalo.
 
+<!-- hide -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/4GeeksAcademy/react-exercises/master/preview.gif">
 </p>
@@ -57,6 +46,9 @@ Nota: Una vez que termine de descargar, encontrarás la carpeta "exercises" que 
 $ pip3 install pytest==4.4.2 pytest-testdox mock
 $ learnpack start
 ```
+
+<!-- endhide -->
+
 ## ¿Cómo están organizados los ejercicios?
 
 Cada ejercicio es un pequeño proyecto en Python que contiene los siguientes archivos:
