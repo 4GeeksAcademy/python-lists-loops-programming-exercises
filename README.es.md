@@ -1,17 +1,11 @@
-<table>
-  <tr>
-    <td><img src="https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,32"></td>
-    <td>
-      <h1 align="center"> Ejercicios de looping en listas y tuplas de Python en 4Geeks Academy</h1>
-      <img src="https://img.shields.io/github/last-commit/4geeksacademy/python-lists-loops-programming-exercises" />
-      <a href="https://breatheco.de"><img src="https://img.shields.io/badge/certified-BreatheCode-blue" /></a>
-      <a href="https://twitter.com/alesanchezr"><img src="https://img.shields.io/twitter/follow/alesanchezr?style=social&logo=twitter" alt="follow on Twitter"></a>
-      <a href="https://gitpod.io#https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises.git"><img src="https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod" /></a>
-    </td>
-  </tr>
-</table>
+<!-- hide -->
+# Ejercicios de looping en listas y tuplas de Python en 4Geeks Academy</h1>
 
-Mi nombre Alejandro Sanchez [@alesanchezr](https://twitter.com/alesanchezr). ¡¡Estamos muy entusiasmados por tenerte aquí!! 🎉 😂
+<a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises/blob/master/python-lp-badge.png"></a>
+
+> Por [@alesanchezr](https://twitter.com/alesanchezr) y [otros colaboradores](https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
+
+<!-- endhide -->
 
 Aprender a programar es dificil ¡necesitas coaching! Envíame un DM en twitter si tienes alguna pregunta.
 
