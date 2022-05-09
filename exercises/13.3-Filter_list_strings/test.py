@@ -5,7 +5,7 @@ path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 def test_output(capsys, app):
     import app
     captured = capsys.readouterr()
-    assert "['Liam', 'William', 'James', 'Benjamin', 'Samuel', 'Camila']\n" in captured.out
+    assert "['Liam', 'William', 'James', 'Benjamin', 'Amelia', 'Samuel', 'Camila']\n" in captured.out
 
 @pytest.mark.it("Using filter function")
 def test_map():
