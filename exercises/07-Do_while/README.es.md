@@ -27,18 +27,18 @@ while x < 6:
 Ejemplo de salida en la consola:
 
 20!
-19
-18
-17
-16
+.
+.
 15!
-14
-13
-12
-11
+.
+.
 10!
 .
 .
+5!
+.
+.
+1
 LIFTOFF
 ```
 
