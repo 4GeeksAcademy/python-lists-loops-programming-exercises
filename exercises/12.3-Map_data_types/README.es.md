@@ -4,7 +4,7 @@ Muchas veces las listas vienen con valores mixtos y necesitamos unificarlos dent
 
 ## 📝 Instrucciones:
 
-1. Actualiza la función `map()` para hacer que cree una nueva lista (`new_list`) que contenga el tipo de dato que corresponde a cada elemento de la lista original.
+1. Actualiza la función `type_list()` para hacer que cree una nueva lista (`new_list`) que contenga el tipo de dato que corresponde a cada elemento de la lista original.
 
 ## 💡 Pista:
 
