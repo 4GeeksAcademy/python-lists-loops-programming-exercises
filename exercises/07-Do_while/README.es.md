@@ -13,7 +13,7 @@ while x < 6:
 
 ## 📝 Instrucciones:
 
-1. Imprime cada número de iteración en la cónsola desde el `20` a `0`, pero **concatena un signo de exclamación** a la salida si el número es un múltiplo  de `5`.
+1. Imprime cada número de iteración en la cónsola desde el `20` a `1`, pero **concatena un signo de exclamación** a la salida si el número es un múltiplo  de `5`.
 
 2. al final imrpime `LIFTOFF`.
 
@@ -27,15 +27,16 @@ while x < 6:
 Ejemplo de salida en la consola:
 
 20!
-.
-.
+19
+18
+17
+16
 15!
-.
-.
+14
+13
+12
+11
 10!
-.
-.
-5!
 .
 .
 1
