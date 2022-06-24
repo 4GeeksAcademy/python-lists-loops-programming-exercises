@@ -12,4 +12,4 @@ def test_output(capsys, app):
 def test_print():
     f = open(os.path.dirname(os.path.abspath(__file__)) + '/app.py')
     content = f.read()
-    assert content.find("print") > 0
+    assert content.find("print") >= 0
