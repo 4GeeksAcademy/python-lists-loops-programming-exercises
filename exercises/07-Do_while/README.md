@@ -12,7 +12,7 @@ while x < 6:
 
 ## 📝 Instructions:
 
-1. Print every iteration number on the console from 20 to 0, but **concatenate an exclamation point** to the output if the number is a multiple of 5.
+1. Print every iteration number on the console from `20` to `1`, but **concatenate an exclamation point** to the output if the number is a multiple of `5`.
 
 2. At the end print() `LIFTOFF`.
 
@@ -38,6 +38,7 @@ Example Output on the console:
 10!
 .
 .
+1
 LIFTOFF
 ```
 
