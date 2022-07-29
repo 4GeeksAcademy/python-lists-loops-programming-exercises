@@ -7,7 +7,7 @@ It is possible to traverse a list using the `for` loop, you have to specify what
 
 1. Please use the `for` loop function to get the minimum value of the list and print it in the console.
 
-## 💡 Hint:
+## 💡 Hint:
 
 * Declare an Auxiliary Global Variable.
 
@@ -20,5 +20,5 @@ It is possible to traverse a list using the `for` loop, you have to specify what
 ## Expected result:
 
 ```py
-expected: 23
+23
 ```

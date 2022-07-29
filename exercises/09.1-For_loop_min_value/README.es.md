@@ -19,5 +19,5 @@ Es posible recorrer una lista usando un bucle `for` para listas, tú tienes que 
 ## Resultado esperado:
 
 ```py
- 23
+23
 ```
