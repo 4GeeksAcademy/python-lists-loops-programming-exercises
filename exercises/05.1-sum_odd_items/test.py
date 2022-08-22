@@ -14,10 +14,10 @@ def test_for_loop():
         regex = re.compile(r"for(\s)")
         assert bool(regex.search(content)) == True
 
-@pytest.mark.it("sumOdds function should exist")
+@pytest.mark.it("sum_odds function should exist")
 def test_function_exists():
     import app
     try:
-        assert app.sumOdds
+        assert app.sum_odds
     except:
-        raise AttributeError("The function 'sumOdds' should exist")
+        raise AttributeError("The function 'sum_odds' should exist")

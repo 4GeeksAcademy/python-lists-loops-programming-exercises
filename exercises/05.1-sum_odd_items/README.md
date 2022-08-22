@@ -2,11 +2,11 @@
 
 ## 📝Instructions:
 
-1. Create a function called sumOdds that sums all the odd numbers in the `arr` variable.
+1. Create a function called `sum_odds` that sums all the odd numbers in the `arr` variable.
 
 2. Returns and print the result.
 
-## 💡 Hint:
+## 💡 Hints:
 
 - You will need to declare an **auxiliar variable** outside the loop to keep adding the values.
 
