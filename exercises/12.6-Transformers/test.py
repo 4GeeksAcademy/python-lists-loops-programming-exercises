@@ -1,12 +1,12 @@
 import io, sys, pytest, os, re
 path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
-@pytest.mark.it("You should create a function named data_transformer")
-def test_function_exists(app):
+@pytest.mark.it('You should create a function named "data_transformer"')
+def test_variable_exists(app):
     try:
-        app.data_transformer
+        assert app.data_transformer
     except AttributeError:
-        raise AttributeError("The function 'data_transformer' should exist on app.py")
+        raise AttributeError('The function "data_transformer" should exists')
 
 @pytest.mark.it('The function named data_transformer should return the correct value')
 def test_function_value1(app):
@@ -41,4 +41,4 @@ def test_function_value2(app):
 def test_map_usage():
     f = open(os.path.dirname(os.path.abspath(__file__)) + '/app.py')
     content = f.read()
-    assert re.search("map\s*\(", content)
+    assert re.search(r"map\s*\(", content)
