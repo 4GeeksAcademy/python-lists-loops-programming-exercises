@@ -4,7 +4,15 @@ Es posible recorrer una lista usando un bucle `for` para listas, tú tienes que 
 
 ## 📝 Instrucciones:
 
-1. Por favor, usa la función for para obtener el menor valor de la lista e imprimirlo en la consola.
+1. Crea una función llamada `minInteger`
+
+2. Dentro de la función mencionada, por favor utilice el bucle `for` para obtener el valor mínimo de la lista.
+
+3. La función `minInteger` debe devolver el valor mínimo.
+
+4. Por último, debe imprimir el valor devuelto fuera de la función.
+
+  + `print(minInteger(my_list))`
 
 ## 💡 Pista:
 

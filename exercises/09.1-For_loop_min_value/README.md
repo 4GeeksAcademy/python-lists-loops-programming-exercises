@@ -5,7 +5,14 @@ It is possible to traverse a list using the `for` loop, you have to specify what
 
 ## 📝Instructions:
 
-1. Please use the `for` loop function to get the minimum value of the list and print it in the console.
+1.Create a function called `minInteger`
+
+2.Inside the aforementioned function, please use the `for` loop function to get the minimum value of the list.
+
+3.The `minInteger` function should then return the minimum value.
+
+4.Lastly, you should print the returned value outside the function.
+  + `print(minInteger(my_list))`
 
 ## 💡 Hint:
 
