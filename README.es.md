@@ -35,7 +35,7 @@ $ learnpack plugins:install learnpack-python
 
 2. Descarga este ejercicio en particular usando learnpack y `cd` para entrar en la carpeta:
 
-```
+```bash
 $ learnpack download python-lists-loops-programming-exercises
 $ cd python-lists-loops-programming-exercises
 ```
