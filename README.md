@@ -19,33 +19,19 @@ Lists and Loops is one of the most challenging topics to grasp when learning how
 
 The entire tutorial is 👆 interactive, ✅ auto-graded and with. 📹 video tutorials.
 
-<!-- hide -->
-<h3>📚 Table of contents:</h3>
-<table>
-  <tr>
-    <td>1. <a href="https://github.com/4GeeksAcademy/python-beginner-programming-exercises">Python for Beginners</a> </td>
-    
-  </tr>
-  <tr color="white"><td>2. <a href="https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises">Practice Looping Lists and Tuples</a></td>
-<td>← 🔥 your are here now</td>
-    <td><a href="https://gitpod.io#https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises.git"><img src="https://gitpod.io/button/open-in-gitpod.svg" /></a></td>
-  </tr>
-  <tr><td>3. <a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises">Practice functions</a></td>
-</tr>
-  <tr><td>4. <a href="https://github.com/4GeeksAcademy/master-python-programming-exercises">Master Python (intermediate)</a></td></tr>
-  <tr><td>5. <a href="https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises">Python API Requests</a></td></tr>
-  <tr><td>6. What next? <a href="https://github.com/4GeeksAcademy/About-4Geeks-Academy/issues/new">Request a new tutorial</a> or <a href="https://github.com/4GeeksAcademy/About-4Geeks-Academy/labels/help%20wanted">collaborate</a>.<br /> We will feature your profile in our list of contributors</td></tr>
-</table>
-
 These exercises were built in collaboration, we need you! If you find any bugs or misspells plese contribute and report them.
+
+<!-- hide -->
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=xMg9d0KsYAk&list=PLCVs_S8Skwp-I5pbEKvs7Vb-94HFNPOSC"><img src="https://github.com/4GeeksAcademy/python-beginner-programming-exercises/blob/master/python-intro.gif?raw=true"></a>
 </p>
 
-## One click installation:
+## One click installation (recommended):
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises.git)
+You can open these exercises in just a few seconds by clicking: [Open in Codespaces](https://codespaces.new/?repo=4GeeksAcademy/python-lists-loops-programming-exercises) (recommended) or [Open in Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises).
+
+> Once you have VSCode open the LearnPack exercises should start automatically. If exercises don't run automatically you can try typing on your terminal: `$ learnpack start`
 
 
 ## Local Installation
