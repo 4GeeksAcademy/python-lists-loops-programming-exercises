@@ -11,6 +11,8 @@
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 <!-- endhide -->
 
+*Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises/blob/master/README.es.md) :es:*
+
 Lists and Loops is one of the most challenging topics to grasp when learning how to code, you will learn:
 
 1. All the possible ways to loop in python,
@@ -50,7 +52,7 @@ $ learnpack download python-lists-loops-programming-exercises
 $ cd python-lists-loops-programming-exercises
 ```
 
-Note: Once you finish downloading, you will find a "exercises" folder that contains all the exercises within.
+> Note: Once you finish downloading, you will find a "exercises" folder that contains all the exercises within.
 
 3. Start the tutorial/exercises by running the following command at the same level were your bc.json file is:
 
@@ -58,8 +60,6 @@ Note: Once you finish downloading, you will find a "exercises" folder that conta
 $ $ pip3 install pytest==4.4.2 pytest-testdox mock
 $ learnpack start
 ```
-
-Note: The exercises have automatic grading but its very rigid and string, my recomendation is to ignore the tests and use them only as a recomendation or you can get frustrated.
 
 <!-- endhide -->
 
@@ -70,6 +70,8 @@ Each exercise is a small python project containing the following files:
 1. **app.py:** represents the entry python file that will be executed by the computer.
 2. **README.md:** contains exercise instructions.
 3. **test.py:** you don't have to open this file, it contains the testing script for the exercise.
+
+> Note: The exercises have automatic grading but its very rigid and string, my recomendation is to ignore the tests and use them only as a recomendation or you can get frustrated.
 
 ## Contributors
 
