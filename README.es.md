@@ -40,7 +40,6 @@ $ learnpack download python-lists-loops-programming-exercises
 $ cd python-lists-loops-programming-exercises
 ```
 
-Nota: Una vez que termine de descargar, encontrarás la carpeta "exercises" que contiene todos los ejercicios.
 
 3. Comienza con los ejercicios ejecutando el siguiente en el mismo nivel que tu archivo learn.json:
 
@@ -58,6 +57,8 @@ Cada ejercicio es un pequeño proyecto en Python que contiene los siguientes arc
 1. **app.py:** representa el archivo de entrada de python que será ejecutado en el computador.
 2. **README.md:** contiene las instrucciones del ejercicio.
 3. **test.py:** no tienes que abrir este archivo. Contiene los scripts de pruebas del ejercicio.
+
+> Nota: Los ejercicios tienen calificación automática pero es muy rígido y estricto, mi recomendación es ignorar las pruebas y usarlas solo como una recomendación o puedes frustrarse.
 
 ## Colaboradores
  
