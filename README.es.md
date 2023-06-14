@@ -26,6 +26,8 @@ Puedes empezar estos ejercicios en pocos segundos haciendo clic en: [Abrir en Co
 
 ## Instalación local:
 
+Clona el repositorio en tu ambiente local y sigue los siguientes pasos:
+
 1. Instala learnpack, el administrador de paquetes para tutoriales de aprendizaje y el complemento del compilador html para learnpack, asegúrate de tener también node.js 14+:
 
 ```sh
