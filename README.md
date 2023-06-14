@@ -9,9 +9,10 @@
 ![last commit](https://img.shields.io/github/last-commit/4geeksacademy/python-lists-loops-programming-exercises)
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://breatheco.de)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
-<!-- endhide -->
 
 *Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises/blob/master/README.es.md) :es:*
+<!-- endhide -->
+
 
 Lists and Loops is one of the most challenging topics to grasp when learning how to code, you will learn:
 
@@ -35,8 +36,9 @@ You can open these exercises in just a few seconds by clicking: [Open in Codespa
 
 > Once you have VSCode open the LearnPack exercises should start automatically. If exercises don't run automatically you can try typing on your terminal: `$ learnpack start`
 
-
 ## Local Installation
+
+Clone the repository in your local environment and follow the steps below:
 
 1. Install learnpack, the package manager for learning tutorials and the html compiler plugin for learnpack, make sure you also have node.js 14+:
 
