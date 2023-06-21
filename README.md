@@ -10,7 +10,6 @@
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://breatheco.de)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-
 *Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises/blob/master/README.es.md) :es:*
 <!-- endhide -->
 
@@ -36,7 +35,6 @@ These exercises were built in collaboration, we need you! If you find any bugs o
 You can open these exercises in just a few seconds by clicking: [Open in Codespaces](https://codespaces.new/?repo=4GeeksAcademy/python-lists-loops-programming-exercises) (recommended) or [Open in Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises).
 
 > Once you have VSCode open the LearnPack exercises should start automatically. If exercises don't run automatically you can try typing on your terminal: `$ learnpack start`
-
 
 ## Local Installation
 
