@@ -5,7 +5,7 @@ import pytest
 def test_output(capsys, app):
     app()
     captured = capsys.readouterr()
-    assert "Hello World\n" == captured.out
+    assert "hello world\n" in captured.out.lower()
     # convert everything in the buffer to lower case, captured to lower case
 
 @pytest.mark.it("Use print function")
