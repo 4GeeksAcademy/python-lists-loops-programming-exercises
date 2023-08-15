@@ -12,7 +12,9 @@ Por ejemplo, podríamos tener una lista que almacena los días de la semana:
 my_list = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday']
 ```
 
-![¿Qué es una lista?](http://i.imgur.com/DbmSOHT.png)
+![¿Qué es una lista?](https://i.imgur.com/54OOsmS.png)
+
+__Nota: Estas "listas" también se conocen comúnmente como `arrays`  .__
 
 Cada lista tiene las siguientes partes:
 
