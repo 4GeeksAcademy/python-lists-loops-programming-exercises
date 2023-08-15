@@ -14,3 +14,7 @@ my_value = list[index]
 1. Imprime en la consola el `1er elemento` de la lista.
 
 2. Imprime en la consola el `4to elemento` de la lista.
+
+## 💡 Pista: 
+
++ En Python, una lista empieza en la posición 0.
