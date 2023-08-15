@@ -18,3 +18,5 @@ my_value = list[index]
 ## 💡 Pista: 
 
 + En Python, una lista empieza en la posición 0.
+
++ Do NOT hardcode your answer. 

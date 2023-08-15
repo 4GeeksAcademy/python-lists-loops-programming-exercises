@@ -22,4 +22,6 @@ my_value = list[index]
 
 ## 💡 Hint:
 
-+ In Python, a list starts at position 0
++ In Python, a list starts at position 0.
+
++ Do NOT hardcode your answer.
