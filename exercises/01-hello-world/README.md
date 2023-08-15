@@ -22,3 +22,7 @@ print("How are you?")
 
 + Feel free to try other things as well.
 
++ Remember, to run the code and see the output on the console, click on the box icon in the top left of the screen:
+
+  https://i.imgur.com/w6u4aDd.png
+
