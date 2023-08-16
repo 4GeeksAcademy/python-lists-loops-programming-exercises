@@ -5,7 +5,7 @@ path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 def test_import_random():
     with open(path, 'r') as content_file:
         content = content_file.read()
-        regex = re.compile(r"import(\s)+random")
+        regex = re.compile(r"^[^#]*\bimport(\s)+random\b", re.MULTILINE)
         assert bool(regex.search(content)) == True
 
 @pytest.mark.it("Create the variable the_last_one")
