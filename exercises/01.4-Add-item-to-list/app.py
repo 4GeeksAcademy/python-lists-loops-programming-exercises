@@ -1,5 +1,9 @@
-#Remember import random function here:
+# ✅ ↓ Remember import random function here: ↓ ✅
+
+# ❌ ↓  Do NOT change the line below ↓ ❌
 
 my_list = [4,5,734,43,45]
 
-#The magic is here:
+# ❌ ↑ Do NOT change the line above ↑ ❌
+
+# ✅ ↓ The magic is here: ↓ ✅
