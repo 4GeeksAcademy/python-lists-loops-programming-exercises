@@ -10,7 +10,7 @@ You know that the property:
 ```py
 len(name_list) # function
 ```
-returns the `length of` name_list .
+returns the `length` of name_list .
 
 ## 📝 Instructions:
 
