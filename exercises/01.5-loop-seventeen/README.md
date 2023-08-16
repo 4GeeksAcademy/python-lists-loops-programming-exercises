@@ -28,17 +28,17 @@ Expected output:
 4
 ```
 
-Note that the number specified in `range()`, 5 in this example, is never reached and 4 is our last output. 
+Note that the end number specified in `range()`, 5 in this example, is never reached and 4 is our last output. 
 
 We can incorporate additional parameters to further specify (now could be a good time to google or at least check the HINT section ;) ).
 
 ## 📝Instructions:
 
-1. Count from 1 to 17 with a loop and print each number on the console.
+1. Count from 1 to 17 with a loop and print each number on the console.  
 
-## 💡 Hint:
+## 💡 Hint:
 
-- This how you loop : https://www.w3schools.com/python/python_for_loops.asp
+  - This is how you loop: https://www.w3schools.com/python/python_for_loops.asp
 
 ## Expected result:
 
