@@ -6,14 +6,12 @@ tutorial: "https://www.youtube.com/watch?v=VK7jmXad64k"
 
 ## 📝Instructions:
 
-1. Print all of the elements in the console, instead of just the single value of the list.
+1. Print all of the elements of the list called `my_list` in the console, instead of just the single value of the list.
 
-```py
-You will have to loop through the whole array using a for loop.
-```
- ## 💡 Hint:
- 
- + If our goal is to print every item, which is a repetitive task, we can use a loop. Think, for `each_item` in `my_list`, what do we want? We can then use the namespace reference to each item by using `each_item` and perform any operations we want upon each iteration.
+## 💡 Hints:
+  + You will have to loop through the whole array using a for loop.
+  + If our goal is to print every item, which is a repetitive task, we can use a loop. Think, for `each_item` in `my_list`, what do we want? We can then use the namespace reference to each item by using `each_item` and perform any operations we want upon each iteration.
+  + If you are stuck on how to use a `for` loop to iterate a list, check this out: https://www.w3schools.com/python/python_lists_loop.asp
 
 ## Expected result:
 
@@ -33,8 +31,7 @@ You will have to loop through the whole array using a for loop.
 5
 34
 2
-3
-5
+35
 5365743
 52
 34
