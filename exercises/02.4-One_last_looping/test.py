@@ -39,7 +39,6 @@ def test_output(capsys, app):
 def test_no_hardcoding():
     with open(path, 'r') as content_file:
         content = content_file.read()
-        # Assuming the original list is provided as 'my_list = [4,5,734,43,45]'
         # Counting the occurrences of this exact string ensures it hasn't been modified.
         occurrences = content.count("names = ['Esmeralda','Kiko','Ruth','Lebron','Pedro','Maria','Lou','Fernando','Cesco','Bart','Annie']")
         assert occurrences == 1
