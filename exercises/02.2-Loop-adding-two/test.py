@@ -21,3 +21,11 @@ def test_for_loop():
         regex = re.compile(r"for(\s)+[a-zA-Z\-_]+(\s)+in(\s)+range.*")
         assert bool(regex.search(content)) == True
 
+@pytest.mark.it("The original my_sample_list should not have any values hardcoded into it")
+def test_no_hardcoding():
+    with open(path, 'r') as content_file:
+        content = content_file.read()
+        # Assuming the original list is provided as 'my_list = [4,5,734,43,45]'
+        # Counting the occurrences of this exact string ensures it hasn't been modified.
+        occurrences = content.count('my_sample_list= [3423,5,4,47889,654,8,867543,23,48,56432,55,23,25,12]')
+        assert occurrences == 1
