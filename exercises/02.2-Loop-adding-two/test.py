@@ -7,6 +7,12 @@ def test_output(capsys, app):
     captured = capsys.readouterr()
     assert "3423\n4\n654\n867543\n48\n55\n25\n" in captured.out
 
+@pytest.mark.it("You should not be hardcoding the answer")
+def test_hard_code():
+    with open(path, 'r') as content_file:
+        content = content_file.read()
+        regex = re.compile(r"\"\s*3423\\n4\\n654\\n867543\\n48\\n55\\n25\\n\s*\"")
+        assert bool(regex.search(content)) == False
 
 @pytest.mark.it("Use the for loop")
 def test_for_loop():
