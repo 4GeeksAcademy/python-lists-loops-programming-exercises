@@ -1,5 +1,7 @@
 my_sample_list = [3423,5,4,47889,654,8,867543,23,48,56432,55,23,25,12]
 
+# ❌ ↑ Do NOT change the line of code above ↑ ❌
+
 # The magic pass below: 
 # ✅ ↓ Create a variable, like "i", that uses the last index position in the array "my_sample_list". Remember we can access the length property of an array using len, and that the position will always be 1 less than the item number (item one is index 0, item 5653 would be one less...) ↓ ✅
 
