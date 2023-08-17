@@ -1,7 +1,11 @@
 # `02.1` Loop from the top
 
+Este bucle está `iterando` la lista de principio a fin... incrementando uno a uno:
 ```py
-Este bucle es `iterando` la lista de principio a fin... incrementando uno a uno.
+my_list = [2, 56, 9]
+
+for item in my_list:
+    print(item) # 2 -> 56 -> 9
 ```
 
 ## 📝 Instrucciones:
