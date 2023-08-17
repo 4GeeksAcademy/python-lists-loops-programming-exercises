@@ -16,7 +16,7 @@ my_list = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday
 
 ![What is a list?](http://i.imgur.com/DbmSOHT.png)
 
-__Note: These "lists" are also commonly referred to as `arrays`.__
+__Note: These "lists" are also commonly referred to as `arrays` in other programming languages.__
 
 Every list has the following parts:
 

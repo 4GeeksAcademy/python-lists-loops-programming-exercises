@@ -1,8 +1,8 @@
 # `02.2` Loop adding two
 
-```py
-Este códico es `iterando` la lista entera, `uno a uno`.
-```
+
+El códico dado está `iterando` la lista entera, `uno a uno`.
+
 
 ## 📝 Instrucciones:
 
@@ -19,3 +19,8 @@ Este códico es `iterando` la lista entera, `uno a uno`.
 55
 25
 ```
+
+## 💡 Pista:
+
++ No lo pienses mucho, solo tienes que cambiar una cosa minúscula.
++ Información adicional sobre la función `range`: https://www.freecodecamp.org/espanol/news/bucle-for-en-python-ejemplo-de-for-i-en-range#la-funci-n-range-en-python

@@ -34,3 +34,11 @@ def test_output(capsys, app):
     app()
     captured = capsys.readouterr()
     assert "Pepe\nBart\nCesco\nFernando\nLou\nMaria\nPedro\nLebron\nRuth\nSteven\nRuthPedro\n" in captured.out
+
+@pytest.mark.it("The original names list should not have any values hardcoded into it")
+def test_no_hardcoding():
+    with open(path, 'r') as content_file:
+        content = content_file.read()
+        # Counting the occurrences of this exact string ensures it hasn't been modified.
+        occurrences = content.count("names = ['Esmeralda','Kiko','Ruth','Lebron','Pedro','Maria','Lou','Fernando','Cesco','Bart','Annie']")
+        assert occurrences == 1

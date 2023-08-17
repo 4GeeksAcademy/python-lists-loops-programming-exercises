@@ -4,9 +4,9 @@ tutorial: "https://www.youtube.com/watch?v=SJv6IgPick8"
 
 # `02.2` Loop adding two
 
-```py
-This code is `looping` the whole array, `one by one`.
-```
+
+The given code is `looping` the whole array, `one by one`.
+
 
 ## 📝Instructions:
 
@@ -23,3 +23,8 @@ This code is `looping` the whole array, `one by one`.
 55
 25
 ```
+
+## 💡 Hint:
+
++ Do not think about it too much, you only need to do a very small change.
++ Addtional information on the `range` function: https://www.w3schools.com/python/gloss_python_for_range.asp
