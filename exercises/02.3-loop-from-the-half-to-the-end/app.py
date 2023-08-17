@@ -9,7 +9,5 @@ increaseValue = 0
 
 # ❌ ↓ Do NOT change any code below this line ↓ ❌
 
-for i in range(initialValue, stopValue):
-    if i == my_list[i]:
-        i += increaseValue
+for i in range(initialValue, stopValue, increaseValue):
     print(my_list[i])
