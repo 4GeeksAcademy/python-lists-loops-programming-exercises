@@ -1,7 +1,7 @@
 # `02.2` Loop adding two
 
 
-> El códico dado está `iterando` la lista entera, `uno a uno`.
+El códico dado está `iterando` la lista entera, `uno a uno`.
 
 
 ## 📝 Instrucciones:

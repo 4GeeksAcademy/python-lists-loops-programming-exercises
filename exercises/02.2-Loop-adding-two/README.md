@@ -5,7 +5,7 @@ tutorial: "https://www.youtube.com/watch?v=SJv6IgPick8"
 # `02.2` Loop adding two
 
 
->The given code is `looping` the whole array, `one by one`.
+The given code is `looping` the whole array, `one by one`.
 
 
 ## 📝Instructions:
