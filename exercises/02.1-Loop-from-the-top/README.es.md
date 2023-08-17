@@ -30,3 +30,8 @@ for item in my_list:
 5
 3423
 ```
+
+## 💡 Pista
+
++ Aunque en este ejercicio solo usamos un enfoque, hay múltiples maneras de hacer bucles en reversa, échale un vistazo:
+https://www.techiedelight.com/es/loop-backwards-python/

@@ -35,3 +35,8 @@ for item in my_list:
 5
 3423
 ```
+
+## 💡Hint:
+
++ Even though in this exercise we only use one approach, there are multiple ways of looping in reverse, check it out:  
+ https://www.geeksforgeeks.org/backward-iteration-in-python/
