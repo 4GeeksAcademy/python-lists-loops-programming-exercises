@@ -20,3 +20,8 @@ Este bucle no es iterándolo todo... porque las variables `initialValue`, `stopV
 25
 12
 ```
+
+## 💡 Pistas:
+
++ Recuerda que en `range(a, b)`, `b` NO es incluido. Por ejemplo, `range(0,3)` sigue esta sequencia: `0 > 1 > 2`, el `3` no es incluido.
++ En `range(a, b)`, los dos `a` y `b` tiene que ser `int` (números enteros), no pueden ser floats (números decimales).
