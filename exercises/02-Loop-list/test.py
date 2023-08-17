@@ -21,3 +21,12 @@ def test_for_loop():
         content = content_file.read()
         regex = re.compile(r"for(\s)")
         assert bool(regex.search(content)) == True
+
+@pytest.mark.it("The original my_list should not have any values hardcoded into it")
+def test_no_hardcoding():
+    with open(path, 'r') as content_file:
+        content = content_file.read()
+        # Assuming the original list is provided as 'my_list = [4,5,734,43,45]'
+        # Counting the occurrences of this exact string ensures it hasn't been modified.
+        occurrences = content.count('my_list = [232,32,1,4,55,4,3,32,3,24,5,5,5,34,2,35,5365743,52,34,3,55]')
+        assert occurrences == 1
