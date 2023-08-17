@@ -14,7 +14,7 @@ my_list = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday
 
 ![¿Qué es una lista?](https://i.imgur.com/54OOsmS.png)
 
-__Nota: Estas "listas" también se conocen comúnmente como `arrays` en otros lenguajes de programación.__
+> Nota: Estas "listas" también se conocen comúnmente como `arrays` en otros lenguajes de programación.
 
 Cada lista tiene las siguientes partes:
 
