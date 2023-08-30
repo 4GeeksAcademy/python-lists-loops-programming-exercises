@@ -2,9 +2,15 @@
 
 ## 📝 Instructions:
 
-1. Write a script that finds the biggest integer in the list.
+1. Create a function named `maxInteger`
 
-2. Print that number in the console with the `print()` function.
+2. This function should take a list as an input parameter and 
+return the maximum number found in the list. 
+
+3. You should use a 'for' loop to iterate through the list. 
+
+4. Use the `print()` function to print what the function returns when it is called.
+  - For **example**: `print(myFunction(param))` 
 
 ## 💡 Hint:
 
