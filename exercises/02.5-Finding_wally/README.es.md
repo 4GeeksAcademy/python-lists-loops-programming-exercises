@@ -12,10 +12,9 @@
 + También puedes considerar usar enumarate en un bucle de esta manera:
 https://micro.recursospython.com/recursos/la-funcion-enumerate.html#:~:text=La%20funci%C3%B3n%20enumerate()%20es%20especialmente%20%C3%BAtil%20cuando%20al%20emplear%20un%20bucle%20for%20se%20precisa%20tanto%20de%20los%20elementos%20de%20un%20iterable%20como%20de%20su%20posici%C3%B3n.
 
-+ Posiblemente tengas que usar las funciones `filter()` y `map()`
++ Una de las soluciones posibles entabla usar las funciones `filter()` y `map()`
 
 + Asigna (`set()`) valores a las nuevas variables. 
-
 
 
 ## 💎 Elemento sorpresa:
