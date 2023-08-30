@@ -17,4 +17,17 @@ def test_flip(capsys, app):
     assert "[60, 32, 5, 23, 87, 67, 45]" in captured.out
 
 
+@pytest.mark.it("The original arr list should not have any values hardcoded into it")
+def test_no_hardcoding_on_list():
+    with open(path, 'r') as content_file:
+        content = content_file.read()
+        # Counting the occurrences of this exact string ensures it hasn't been modified.
+        occurrences = content.count("arr = [45, 67, 87, 23, 5,  32, 60]")
+        assert occurrences == 1
 
+@pytest.mark.it("Do not hard code the solution")
+def test_for_hard_output():
+    with open(path, 'r') as content_file:
+        content = content_file.read()
+        regex = re.compile(r"\[ *\s*60\s*,\s*32\s*,\s*5\s*,\s*23\s*,\s*87\s*,\s*67\s*,\s*45\s* *\]")
+        assert bool(regex.search(content)) == False
