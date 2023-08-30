@@ -2,16 +2,21 @@
 
 ## 📝 Instrucciones:
 
-1. Encuentra a Wally 😊
+1. Encuentra a Wally en la lista de personas (`people`) 😊
 
 2. Imprime la(s) posición(es) de Wally en la consola.
 
-## 💡 Pista:
+## 💡 Pistas:
++ Usa un bucle y un if (condicional)
+
++ También puedes considerar usar enumarate en un bucle de esta manera:
+https://micro.recursospython.com/recursos/la-funcion-enumerate.html#:~:text=La%20funci%C3%B3n%20enumerate()%20es%20especialmente%20%C3%BAtil%20cuando%20al%20emplear%20un%20bucle%20for%20se%20precisa%20tanto%20de%20los%20elementos%20de%20un%20iterable%20como%20de%20su%20posici%C3%B3n.
 
 + Posiblemente tengas que usar las funciones `filter()` y `map()`
-+ Asigna (`set()`) valores a las nuevas variables. Pista
 
-+ Usa un bucle y un if (condicional)
++ Asigna (`set()`) valores a las nuevas variables. 
+
+
 
 ## 💎 Elemento sorpresa:
 

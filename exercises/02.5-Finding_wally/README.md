@@ -6,13 +6,14 @@ tutorial: "https://www.youtube.com/watch?v=zez4r9ApjSY"
 
 ## 📝 Instructions:
 
-1. Find Wally :)
+1. Find Wally in the `poeple` list :D
 
 2. Print the position(s) of Wally in the console.
 
-## 💡 Hint:
+## 💡 Hints:
 
 - Use a loop and an if (conditional)
+- Consider using the `enumarate` function to extract the position of Wally. Check out how `enumrate` is used in for loops: https://www.geeksforgeeks.org/enumerate-in-python/#:~:text=Using%20Enumerate%20object,Python3
 
 ## 💎 Easter Egg:
 
