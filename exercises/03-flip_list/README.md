@@ -6,17 +6,19 @@ tutorial: "https://www.youtube.com/watch?v=8wM8muTQJmU"
 
 ## 📝Instructions:
 
-1. Create a variable `new_list`.
+1. Create a variable `new_list` and set it's initial value to be an empty list ( `[]` ).
 
-2. Using a loop, invert the `arr` list.
+2. Using a loop, iterate the `arr` list in reverse.
 
-3. Append the result loop into the `new_list` variable.
+3. Append each item from the `arr` list as you loop into the `new_list` variable.
 
-4. With the `print()` function output in the console the result that you have.
+4. With the `print()` function output in the console the result that you have store in the `new_list` variable.
 
-## 💡 Hint:
+## 💡 Hints:
 
 - You should loop the entire list, and push all the items (as you go) into a new list.
+
+- There are multiple ways of looping a list in reverse. If you are stuck, you can check out some ways of doing so in this thread: https://stackoverflow.com/questions/529424/traverse-a-list-in-reverse-order-in-python
 
 ## Expected Result:
 

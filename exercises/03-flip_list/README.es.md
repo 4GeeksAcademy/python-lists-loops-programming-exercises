@@ -2,17 +2,18 @@
 
 ## 📝 Instrucciones:
 
-1. Crea la variable `new_list`.
-
-2. Usando un bucle, invierte la lista `arr`.
-
-3. Agrega el resultado del bucle a la variable `new_list`.
-
-4. Con la función `print()` imprime en la consola el resultado obtenido.
-## 💡 Pista:
+1.  Crea una variable `new_list` y establece su valor inicial como una lista vacía (`[]`).
+    
+2.  Usando un bucle, itera la lista `arr` en orden inverso.
+    
+3.  Añade cada elemento de la lista `arr` a la variable `new_list` mientras realizas el bucle.
+    
+4.  Con la función `print()`, muestra en la consola el resultado que has almacenado en la variable `new_list`.
+## 💡 Pistas:
 
 - Deberías iterar la lista entera y meter los valores en la nueva lista a medida que avanzas.
 
+- Hay multiples maneras de recorrer una lista en reverso. Si estás estancado, puedes encontrar multiple soluciones aquí: https://es.stackoverflow.com/questions/146070/c%C3%B3mo-puedo-recorrer-una-lista-en-orden-inverso
 ## Resultado esperado:
 
 ```py
