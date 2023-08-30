@@ -15,9 +15,6 @@ tutorial: "https://www.youtube.com/watch?v=zez4r9ApjSY"
 - Use a loop and an if (conditional)
 - Consider using the `enumarate` function to extract the position of Wally. Check out how `enumrate` is used in for loops: https://www.geeksforgeeks.org/enumerate-in-python/#:~:text=Using%20Enumerate%20object,Python3
 
-- One of the solution can involve the `filter()` and `map()` functions.
-  - Assign `(set())` values to the new variables.
-
 ## 💎 Easter Egg:
 
 What if there is more than one Wally?
