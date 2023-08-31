@@ -2,9 +2,16 @@
 
 ## 📝 Instrucciones:
 
-1. Escribe un script que encuentre el entero más grande la lista.
+1. Crea una función llamada `maxInteger`. 
 
-2. Imprime ese número en la consola con al función `print()`.
+2. Esta función debe tomar una lista como parámetro de entrada y devolver el número máximo encontrado en la lista. 
+
+3. Deberías usar un bucle 'for' para recorrer la lista. 
+
+4. Utiliza la función `print()` para imprimir lo que devuelve la función al ser llamada. 
+
+  - Por **ejemplo**: `print(myFunction(param))`
+
 
 ## 💡 Pista:
 
