@@ -7,11 +7,15 @@
 
 <!-- endhide -->
 
-Aprender a programar es dificil ¡necesitas coaching! Envíame un DM en twitter si tienes alguna pregunta.
+Las listas y los bucles son uno de los temas más desafiantes de comprender al aprender a programar. Aprenderás:
 
-Esta es una selección completa de ejercicios con tests e interactivos en Python para cualquier persona interesada en aprender Python!
+1. Todas las formas posibles de hacer bucles en Python.
 
-Estos ejercicios son colaborativos, ¡te necesitamos! Si encuentras algún error o falta de ortografía, por favor contribuye y repórtalo.
+2. Cómo hacer bucles con listas, tuplas, diccionarios y otras estructuras de datos.
+
+Todo el tutorial es 👆 interactivo, ✅ con calificación automática y 📹 videos tutoriales.
+
+Estos ejercicios se crearon en colaboración, ¡te necesitamos! Si encuentras errores o faltas de ortografía, por favor contribuye y repórtalos.
 
 <!-- hide -->
 <p align="center">
@@ -42,6 +46,7 @@ $ learnpack download python-lists-loops-programming-exercises
 $ cd python-lists-loops-programming-exercises
 ```
 
+> Nota: Una vez que hayas terminado de descargar, encontrarás una carpeta de "ejercicios" que contiene todos los ejercicios dentro de ella.
 
 3. Comienza con los ejercicios ejecutando el siguiente en el mismo nivel que tu archivo learn.json:
 
