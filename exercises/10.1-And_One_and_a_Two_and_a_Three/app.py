@@ -4,4 +4,5 @@ contact = {
     "email": "test@test.com"
 }
 #Your code here:
-
+for key in contact:
+    print(key,":", contact[key])
