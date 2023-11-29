@@ -16,9 +16,9 @@
 
 Lists and loops are one of the most challenging topics to grasp when learning how to code. You will learn:
 
-1. All the possible ways to loop in Python.
++ All the possible ways to loop in Python.
 
-2. Looping lists, tuples, dictionaries and other data structures. 
++ Looping lists, tuples, dictionaries and other data structures. 
 
 The entire tutorial is 👆 interactive, ✅ auto-graded, and has 📹 video tutorials.
 
