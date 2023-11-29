@@ -1,4 +1,4 @@
-# `06` `ForEach` loop
+# `06` ForEach loop
 
 Es posible recorrer una lista usando un bucle `for` especificando además qué hacer en cada iteración del bucle.
 
