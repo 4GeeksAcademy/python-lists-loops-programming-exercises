@@ -7,9 +7,11 @@
 
 <!-- endhide -->
 
-Aprender a programar es difícil ¡necesitas coaching! Envíame un DM en Twitter si tienes alguna pregunta.
+Las listas y los bucles son uno de los temas más desafiantes de comprender al aprender a programar. Aprenderás lo siguiente:
 
-Esta es una selección completa de ejercicios con tests interactivos en Python para cualquier persona interesada en aprender Python.
++ Todas las formas posibles de realizar bucles en Python.
+
++ Iterar sobre listas, tuplas, diccionarios y otras estructuras de datos.
 
 Estos ejercicios son colaborativos, ¡te necesitamos! Si encuentras algún error o falta de ortografía, por favor contribuye y repórtalo.
 
