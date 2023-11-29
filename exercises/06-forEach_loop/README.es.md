@@ -1,6 +1,6 @@
 # `06` `ForEach` loop
 
-Es posible recorrer una lista usando un bucle de la función for. Tú tienes que especificar qué hacer en cada iteración del bucle.
+Es posible recorrer una lista usando un bucle `for` especificando además qué hacer en cada iteración del bucle.
 
 ## 📝 Instrucciones:
 
@@ -10,4 +10,4 @@ Justo ahora, el código está imprimiendo todos los elementos en la lista.
 
 ## 💡 Pista:
 
-+ Un número X es divisible entre 2 si: `(X % 2 === 0)`
++ Un número x es divisible entre 2 si: `(x % 2 == 0)`
