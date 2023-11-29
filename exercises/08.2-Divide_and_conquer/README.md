@@ -6,11 +6,11 @@
 
 2. Loop through the list and separate the *odd* and the *even* numbers.
 
-3. Create a variable called `sorted_numbers` to start appending the *odd* numbers.
+3. Create a variable called `sorted_list` to start appending the *odd* numbers.
 
 4. If the number is even, push it to a placeholder list named `even`.
 
-5. Then insert the `even` list into the `sorted_numbers`. Remember, the *odd* numbers come first, and you have to insert the `even` list after.
+5. Then insert the `even` list into the `sorted_list`. Remember, the *odd* numbers come first, and you have to insert the `even` list after.
 
 ## 💡 Hints:
 
