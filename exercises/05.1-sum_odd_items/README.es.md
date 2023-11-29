@@ -14,6 +14,6 @@
 
 - En cada iteración, tienes que preguntar en esa posición de la lista si es un número impar.
 
-- Si es impar, entonces sumalo en la **variable auxiliar**.
+- Si es impar, entonces súmalo en la **variable auxiliar**.
 
 - Una **variable auxiliar** es una variable como cualquier otra, la única diferencia es una diferencia lógica. Una **variable auxiliar** será útil hasta que complete su propósito (sumar todos los valores, hacer una copia de un valor, etc.).
