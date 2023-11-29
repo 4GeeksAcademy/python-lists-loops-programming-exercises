@@ -8,7 +8,9 @@
 
 3. You should use a `for` loop to iterate through the list. 
 
-4. Use the `print()` function to print what the function returns when it is called. For example: `print(my_function(param))` 
+4. Use the `print()` function to print what the function returns when it is called.
+  
+    + For example: `print(my_function(param))` 
 
 ## 💡 Hints:
 
