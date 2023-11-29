@@ -7,7 +7,7 @@ Un `index` es un número entero que representa la *posición* a la que quieres a
 Debes **envolver** el índice entre corchetes así:
 
 ```py
-my_value = list[index]
+my_value = my_list[index]
 ```
 
 ## 📝 Instrucciones:
