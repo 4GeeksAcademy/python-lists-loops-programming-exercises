@@ -1,8 +1,8 @@
-# `04.1` Count on
+# `04.1` Count On
 
-Como has visto en el ejercicio anterior tu lista puede ser un a mezcla de `tipos de datos` que vamos a dividir y conquistar.
+Como has visto en el ejercicio anterior, tu lista puede ser una mezcla de diferentes tipos de datos.
 
-¿Serías tan amable de añadir todos los elementos con *data-type* (tipo de dato) `dict` y `list` de la lista `my_list` en una nueva lista llamada `new_list`?
+¿Serías tan amable de añadir todos los elementos con tipo de dato `dict` y `list` de la lista `my_list` en una nueva lista llamada `new_list`?
 
 ## 📝 Instrucciones:
 
@@ -12,7 +12,7 @@ Como has visto en el ejercicio anterior tu lista puede ser un a mezcla de `tipos
 
 3. Imprime la variable `new_list`.
 
-## 💡 Pista:
+## 💡 Pistas:
 
 + Recuerda que puedes saber el tipo de dato de una variable o valor con la función `type()`
 
@@ -27,7 +27,7 @@ for x in my_list:
     print(x)
 ```
 
-## Resultado esperado:
+## 💻 Resultado esperado:
 
 ```py
 [[2, 1], {'name': 'juan'}]
