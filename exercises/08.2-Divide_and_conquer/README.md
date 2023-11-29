@@ -1,4 +1,4 @@
-# `08.2` Divide and conquer:
+# `08.2` Divide and conquer
 
 ## 📝 Instructions:
 
