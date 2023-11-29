@@ -8,7 +8,7 @@ Write a function `merge_list` that merges two lists and returns a single new lis
 
  2. Loop the two lists.
 
- 3. Concatenate the results in an empty list.
+ 3. Append the results into an empty list.
 
  4. Print the new variable with the merged lists.
 
@@ -16,7 +16,7 @@ Write a function `merge_list` that merges two lists and returns a single new lis
 
 + You will have to loop through each list and insert their items into a new list.
 
-+ There are more ways to merge lists in Python, this would be a good time for you to search on the Internet "how to merge lists in python".
++ There are more ways to merge lists in Python. This would be a good time for you to search on the Internet "how to merge lists in python".
 
  ## 💻 Expected result:
 
