@@ -16,7 +16,7 @@ Escribe una función `merge_list` que una dos listas y devuelva una nueva lista 
 
 + Tendrás que iterar cada lista e insertar sus elementos en una nueva lista.
 
-+ Hay más formas para combinar listas en Python. Este es un buen momento para buscar en Internet "como combinar listas en python".
++ Hay más formas para combinar listas en Python. Este es un buen momento para buscar en Internet "cómo combinar listas en python".
 
 ## 💻 Resultado esperado:
 
