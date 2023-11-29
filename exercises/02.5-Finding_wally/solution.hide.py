@@ -3,5 +3,5 @@ people = ['Lebron','Aaliyah','Diamond','Dominique','Aliyah','Jazmin','Darnell','
 # Your code here
 
 for i in range(0, len(people)):
-    if people[i] == "Wally":
+    if people[i].lower() == "wally":
         print(i)
