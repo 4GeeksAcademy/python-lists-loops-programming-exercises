@@ -8,16 +8,13 @@
 
 ## 💡 Pista:
 
-+ Posiblemente tengas que usar las funciones `filter()` y `map()`
-+ Asigna (`set()`) valores a las nuevas variables. Pista
-
-+ Usa un bucle y un if (condicional)
++ Usa un bucle `for` y un condicional `if`.
 
 ## 💎 Elemento sorpresa:
 
 ¿Qué pasa si hay más de un Wally?
 
-## Resultado esperado:
+## 💻 Resultado esperado:
 
 ```py
 65
