@@ -1,6 +1,6 @@
 my_list = [3423,5,4,47889,654,8,867543,23,48,56432,55,23,25,12]
 
-#Your code here:
+# Your code here
 inicialValue = 0
 stopValue = 0
 increaseValue = 0
