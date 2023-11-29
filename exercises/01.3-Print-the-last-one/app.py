@@ -9,6 +9,8 @@ def generate_random_list():
         aux_list.append(randonlength)
         i += i
     return aux_list
+
 my_stupid_list = generate_random_list()
 
-# Feel happy to write the code below this comment, good luck!:
+# Write your code below this comment, good luck!
+
