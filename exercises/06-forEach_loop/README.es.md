@@ -4,9 +4,7 @@ Es posible recorrer una lista usando un bucle `for` especificando además qué h
 
 ## 📝 Instrucciones:
 
-Justo ahora, el código está imprimiendo todos los elementos en la lista.
-
- 1. Por favor, cambia el código para imprimir solo los números **divisibles entre 14**.
+1. Por favor, modifica el código para imprimir solo los números **divisibles entre 14**.
 
 ## 💡 Pista:
 
