@@ -24,7 +24,7 @@ returns the length of `list_name`.
 
 ## 💡 Hints:
 
-- To use the random functionality, we must import. The most effective way is by using `import random` at the beginning of the document.
++ To use the random functionality, we must import. The most effective way is by using `import random` at the beginning of the document.
 
 + For more information about importing, check out the Python documentation: https://docs.python.org/3/reference/import.html?highlight=importing.
 
