@@ -11,7 +11,7 @@ while x < 6:
 
 ## 📝 Instrucciones:
 
-1. Imprime cada iteración en la consola de los números del `20` al `1`, pero **concatena un signo de exclamación** si el número es múltiplo de `5`.
+1. Imprime cada iteración en la consola de los números del `20` al `1`, pero **concatena un signo de exclamación** si el número es múltiplo de 5.
 
 2. Al final imprime `LIFTOFF`.
 
