@@ -4,15 +4,13 @@ tutorial: "https://www.youtube.com/watch?v=SJv6IgPick8"
 
 # `02.2` Loop adding two
 
-```py
-This code is `looping` the whole array, `one by one`.
-```
+This code is `looping` the whole array, *one by one*.
 
-## 📝Instructions:
+## 📝 Instructions:
 
-1. Change the loop so it loops `two by two` instead of one by one.
+1. Change the loop so it loops *two by two* instead of *one by one*.
 
-## Expected result:
+## 💻 Expected result:
 
 ```py
 3423
