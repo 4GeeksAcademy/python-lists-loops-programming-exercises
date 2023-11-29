@@ -14,7 +14,7 @@
 
 ## 💡 Pistas:
 
-- Defina una variable auxiliar y establece su valor en `0`.
+- Defina una variable auxiliar y establece su valor como el primer elemento de la lista.
 
 - Compara la variable con todos los elementos de la lista.
 
