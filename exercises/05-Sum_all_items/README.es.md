@@ -2,7 +2,7 @@
 
 ## 📝 Instrucciones:
 
-1. Completa el código de la función `sum` para que devuelva la suma de todos los elementos en la lista `my_sample_list`.
+1. Completa el código de la función `sum_all_values` para que devuelva la suma de todos los elementos en la lista `my_sample_list`.
 
 ## 💡 Pista:
 
