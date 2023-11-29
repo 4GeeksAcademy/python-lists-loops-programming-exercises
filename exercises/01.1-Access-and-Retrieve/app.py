@@ -1,8 +1,7 @@
+my_list = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday']
 
-my_list = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday']
+# 1. Print the 3rd item here
 
-# 1. print the item here
+# 2. Change the value of 'thursday' to None
 
-# 2. change the position were 'thursday' is to None
-
-# 3. print that position now here
+# 3. Print that position now here
