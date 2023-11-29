@@ -5,7 +5,7 @@ path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 def test_variable_exists():
     assert app.new_list != None
 
-@pytest.mark.it("The variable 'new_list' value should contain data-types of 'dict' and 'list'")
+@pytest.mark.it("The variable 'new_list' should contain data-types of 'dict' and 'list'")
 def test_variable_value():
     assert app.new_list == [[2, 1], {'name': 'juan'}]
 
@@ -23,7 +23,7 @@ def test_if():
         regex = re.compile(r"if(\s)")
         assert bool(regex.search(content)) == True
 
-@pytest.mark.it("you should use print()")
+@pytest.mark.it("You should use print()")
 def test_print():
     with open(path, 'r') as content_file:
         content = content_file.read()
