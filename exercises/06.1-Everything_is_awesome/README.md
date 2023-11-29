@@ -11,9 +11,9 @@
 ```py
 Example output for [0,0,1,1,0]:
 
-Yahoo,
-Yahoo,
+'Yahoo',
+'Yahoo',
 1,
 1,
-Yahoo
+'Yahoo'
 ```
