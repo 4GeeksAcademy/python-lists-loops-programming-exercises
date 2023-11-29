@@ -1,4 +1,4 @@
-# `02.1` Loop from the top
+# `02.1` Loop from the end
 
 Este bucle está iterando la lista de principio a fin, incrementando uno en uno.
 
