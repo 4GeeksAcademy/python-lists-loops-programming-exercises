@@ -18,7 +18,7 @@ tutorial: "https://www.youtube.com/watch?v=zez4r9ApjSY"
 
 What if there is more than one Wally?
 
-## Expected result:
+## 💻 Expected result:
 
 ```py
 65
