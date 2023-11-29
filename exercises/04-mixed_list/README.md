@@ -19,8 +19,6 @@ tutorial: "https://www.youtube.com/watch?v=tJ-si9lRkUc"
 ## 💻 Expected result:
 
 ```py
-The console must have something like this:
-
 <class 'int'>
 <class 'bool'>
 <class 'str'>
