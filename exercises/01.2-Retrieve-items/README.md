@@ -11,7 +11,7 @@ An `index` is an integer number that represents the *position* you want to acces
 You need to **wrap** the index into brackets like this:
 
 ```py
-my_value = list[index]
+my_value = my_list[index]
 ```
 
 ## 📝 Instructions:
