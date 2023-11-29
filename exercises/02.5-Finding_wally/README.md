@@ -12,7 +12,7 @@ tutorial: "https://www.youtube.com/watch?v=zez4r9ApjSY"
 
 ## 💡 Hint:
 
-- Use a loop and an if (conditional)
++ Use a `for` loop and an `if` statement.
 
 ## 💎 Easter Egg:
 
