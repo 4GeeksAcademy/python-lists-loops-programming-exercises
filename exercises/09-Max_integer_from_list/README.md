@@ -14,9 +14,9 @@
 
 ## 💡 Hints:
 
-- Define an auxiliary variable and set the first value to `0`.
+- Define an auxiliary variable and set the first value to the first element on the list.
 
-- Then compare the variables with all the items in the list.
+- Then compare the variable with all the items in the list.
 
 - Replace the value every time the new element is bigger than the one stored in the auxiliary variable.
 
