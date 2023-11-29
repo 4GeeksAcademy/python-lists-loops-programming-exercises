@@ -6,7 +6,7 @@
 
 2. This function should take a list as an input parameter and return the maximum number found in the list. 
 
-3. You should use a 'for' loop to iterate through the list. 
+3. You should use a `for` loop to iterate through the list. 
 
 4. Use the `print()` function to print what the function returns when it is called. For example: `print(my_function(param))` 
 
