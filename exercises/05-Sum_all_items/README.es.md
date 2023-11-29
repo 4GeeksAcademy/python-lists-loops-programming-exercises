@@ -6,10 +6,10 @@
 
 ## 💡 Pista:
 
-+ Tienes que `iterar la lista entera` y sumar el valor de cada elemento en la variable `total`.
++ Tienes que iterar la lista entera y sumar el valor de cada elemento en la variable `total`.
 
-## Resultado esperado:
+## 💻 Resultado esperado:
 
 ```py
-El resultado debería ser 925960
+925960
 ```
