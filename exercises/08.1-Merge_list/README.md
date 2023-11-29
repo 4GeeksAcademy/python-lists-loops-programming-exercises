@@ -21,8 +21,6 @@ Write a function that merges two lists and returns a single new list (`merge_lis
  ## 💻 Expected result:
 
 ```py
-The console expected:
-
 ['Lebron', 'Aaliyah', 'Diamond', 'Dominique', 'Aliyah', 'Jazmin', 'Darnell', 'Lucas', 'Jake', 'Scott', 'Amy', 'Molly', 'Hannah', 'Lucas']
 ```
 
