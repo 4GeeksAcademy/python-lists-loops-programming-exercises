@@ -4,9 +4,7 @@ It is possible to traverse a list using a `for` loop, also specifying what to do
 
 ## 📝 Instructions:
 
-Right now, the code is printing all the items in the list.
-
-1. Please change the function's code to print only the numbers **divisible by 14**.
+1. Please modify the code to print only the numbers **divisible by 14**.
 
 ## 💡 Hint:
 
