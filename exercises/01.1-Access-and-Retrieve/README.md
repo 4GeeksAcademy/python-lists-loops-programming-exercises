@@ -34,6 +34,6 @@ Every list starts from zero (0), so to get the first item we'd use `my_list[0]`.
 
 1. Using the `print()` function, print the 3rd item from the list.
 
-2. Change the value in the position where `Thursday'` is located to `None`.
+2. Change the value in the position where `thursday` is located to `None`.
 
 3. Print the particular position of step two.
