@@ -1,18 +1,12 @@
-# `01.4` Add item to list
+# `01.4` Add items to the list
+
 ## 📝 Instrucciones:
 
-1. Añadir 10 enteros aleatorios a la lista `arr`.
+1. Añade 10 números enteros aleatorios a la lista `my_list`.
 
-## 💡 Pista:
+## 💡 Pistas:
 
-- Tienes que importar la función "random": `import random`.
++ Tienes que importar el módulo "random": `import random`.
 
-- Usa la función `random()` para obtener números aleatorios.
++ Usa la función `random.randint()` para obtener números aleatorios. Busca en Google "cómo usar la función randint".
 
-- Busca en Google cómo usar la función random.
-
-## Resultado esperado:
-
-```py
-[4, 5, 734, 43, 45, 36, 2, 88, 12, 87, 79, 96, 58, 46, 7]
-```
