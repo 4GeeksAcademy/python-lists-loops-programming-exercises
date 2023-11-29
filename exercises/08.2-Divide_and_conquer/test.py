@@ -1,7 +1,7 @@
 import io, sys, os, pytest, re
 path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
-@pytest.mark.it("Concatenate both lists. Remember the ddd list comes first")
+@pytest.mark.it("Concatenate both lists. Remember the odd list comes first")
 def test_odd_even(capsys, app):
     import app
     captured = capsys.readouterr()
