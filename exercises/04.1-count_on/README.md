@@ -1,10 +1,10 @@
 # `04.1` Count On
 
-As you saw in the last exercise your list can be a mix `types of data` we are going to divide and conquer.
+As you saw in the last exercise, your list can be a mix types of data; we are going to divide and conquer.
 
 Would you be so kind to add all the items with data-type `dict` and `list` of the list named `my_list` into a new list named `new_list`?
 
-## 📝Instructions:
+## 📝 Instructions:
 
 1. Loop the given list.
 
@@ -12,7 +12,7 @@ Would you be so kind to add all the items with data-type `dict` and `list` of th
 
 3. Print the variable `new_list`.
 
-## 💡 Hint :
+## 💡 Hints:
 
 + Remember that you can know the data-type of a variable or value with the function `type()`.
 
@@ -27,7 +27,7 @@ for x in my_list:
     print(x)
 ```
 
-## Expected result:
+## 💻 Expected result:
 
 ```py
 [[2, 1], {'name': 'juan'}]
