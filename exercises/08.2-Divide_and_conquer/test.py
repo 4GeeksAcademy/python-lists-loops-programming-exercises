@@ -5,7 +5,7 @@ path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 def test_odd_even(capsys, app):
     import app
     captured = capsys.readouterr()
-    assert "[[85, 59, 37, 25, 5, 81, 41, 55], [4, 80, 64, 66, 20, 64, 22, 76, 76, 96, 2, 68]]\n" in captured.out
+    assert "[85, 59, 37, 25, 5, 81, 41, 55, 4, 80, 64, 66, 20, 64, 22, 76, 76, 96, 2, 68]\n" in captured.out
 
 @pytest.mark.it("Use the for loop")
 def test_for_loop():
