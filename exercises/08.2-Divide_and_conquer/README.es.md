@@ -6,11 +6,11 @@
 
 2. Itera la lista y separa los números *pares* e *impares*.
 
-3. Crea una lista vacía llamada `sorted_numbers` y empieza a insertar los números *impares*.
+3. Crea una lista vacía llamada `sorted_list` y empieza a insertar los números *impares*.
 
 4. Si el número es par, colócalo en una lista llamada `even`.
 
-5. Luego concatena la lista `even` en `sorted_numbers`. Recuerda que los números *impares* van primero y luego debes añadirle la lista `even` después.
+5. Luego concatena la lista `even` en `sorted_list`. Recuerda que los números *impares* van primero y luego debes añadirle la lista `even` después.
 
 ## 💡 Pista:
 
