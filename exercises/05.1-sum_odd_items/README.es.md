@@ -4,7 +4,7 @@
 
 1. Crea una función llamada `sum_odds` que sume todos los números impares en la variable `my_list`.
 
-2. Devuleve e imprime el resultado.
+2. Devuelve e imprime el resultado.
 
 ## 💡 Pistas:
 
