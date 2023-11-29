@@ -14,15 +14,15 @@ tutorial: "https://www.youtube.com/watch?v=ca1DZgLwy00"
 
 4. Loop the list in reverse order (from the end to the beginning) and print all the elements.
 
-## 💡 Hint:
+## 💡 Hints:
 
-+ Remember that list start at position `0`.
++ Remember that lists start at position `0`.
 
 + Remember to use the `for` loop in this exercise.
 
 + You should use the `for` loop to reverse it instead of any other method.
 
-## Expected result:
+## 💻 Expected result:
 
 ```py
 Pepe
