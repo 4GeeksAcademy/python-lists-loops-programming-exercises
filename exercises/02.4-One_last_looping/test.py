@@ -1,21 +1,21 @@
 import io, sys, pytest, os, re, app
 path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
-@pytest.mark.it('The variable "names" should exist.')
+@pytest.mark.it('The variable "names" should exist')
 def test_variable_exists():
     try:
         app.names
     except AttributeError:
         raise AttributeError('The variable "names" should exist on app.py')
 
-@pytest.mark.it('You have to set the second element of the array to "Steven".')
+@pytest.mark.it('You have to set the second element of the list to "Steven"')
 def test_change_second():
     try:
         assert app.names[1] == "Steven"
     except AttributeError:
         raise AttributeError('The second element of the list "names" should should be "Steven"')
 
-@pytest.mark.it('You have to change the first element of the array to the third + the fifth element.')
+@pytest.mark.it('You have to change the first element of the list to the third + the fifth element')
 def test_change_first():
     try:
         assert app.names[0] == "RuthPedro"
@@ -29,7 +29,7 @@ def test_for_loop():
         regex = re.compile(r"for(\s*)+\S+(\s*)+in(\s*)+range.*")
         assert bool(regex.search(content)) == True
 
-@pytest.mark.it('You should print the list "names" reversed.')
+@pytest.mark.it('You should print the list "names" reversed')
 def test_output(capsys, app):
     app()
     captured = capsys.readouterr()
