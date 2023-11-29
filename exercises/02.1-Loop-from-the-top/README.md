@@ -4,15 +4,13 @@ tutorial: "https://www.youtube.com/watch?v=tFCstq-Us3I"
 
 # `02.1` Loop from the top
 
-```py
-This loop is `looping` the list from beginning to end... increasing one by one.
-```
+This loop is *looping* the list from beginning to end, increasing one by one.
 
-## 📝Instructions::
+## 📝 Instructions:
 
-1. Lets try looping from the end to the beginning.
+1. Let's try looping from the end to the beginning.
 
-## Expected result:
+## 💻 Expected result:
 
 ```py
 12
