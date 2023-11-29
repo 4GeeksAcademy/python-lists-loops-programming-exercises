@@ -6,7 +6,7 @@ tutorial: "https://www.youtube.com/watch?v=zez4r9ApjSY"
 
 ## 📝 Instructions:
 
-1. Find Wally :)
+1. Find Wally 😊
 
 2. Print the position(s) of Wally in the console.
 
