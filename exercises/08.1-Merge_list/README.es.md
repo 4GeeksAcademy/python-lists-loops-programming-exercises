@@ -1,7 +1,5 @@
 # `08.1` Merge List
 
-Dado que vivimos en un nuevo mundo, no debería haber colores ni etiquetas, ¿verdad?
-
 ## 📝 Instrucciones:
 
 Escribe una función `merge_list` que una dos listas y devuelva una nueva lista uniendo todos los valores de las dos listas.
