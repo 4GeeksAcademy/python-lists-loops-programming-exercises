@@ -4,7 +4,7 @@ tutorial: "https://www.youtube.com/watch?v=qO3ZNWrkeGg"
 
 # `01.5` Loop from 1 to 17
 
-To loop a specific number of times, we can use 
+To loop a specific number of times, we can use:
 
 ```py
 range(<start>,<end>)
