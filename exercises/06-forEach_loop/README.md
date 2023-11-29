@@ -1,6 +1,6 @@
 # `06` ForEach loop
 
-It is possible to traverse a list using a `for` loop. You have to specify what to do on each iteration of the loop.
+It is possible to traverse a list using a `for` loop, also specifying what to do on each iteration of the loop.
 
 ## 📝 Instructions:
 
