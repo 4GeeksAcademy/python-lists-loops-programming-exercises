@@ -4,7 +4,7 @@ Since we live in a new world, there should be no colors or labels, right?
 
 ## 📝 Instructions:
 
-Write a function that merges two lists and returns a single new list (`merge_list`) merging all the values of both lists.
+Write a function `merge_list` that merges two lists and returns a single new list merging all the values of both lists.
 
  1. Declare an empty list.
 
