@@ -3,7 +3,7 @@
 
 ## 📝 Instructions:
 
-1. Complete the code of the function `sum` so that it returns the sum of all the items in `my_sample_list`.
+1. Complete the code of the function `sum_all_values` so that it returns the sum of all the items in `my_sample_list`.
 
 ## 💡 Hint:
 
