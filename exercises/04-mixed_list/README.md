@@ -12,7 +12,7 @@ tutorial: "https://www.youtube.com/watch?v=tJ-si9lRkUc"
 
 ## 💡 Hints:
 
-- You can use the `type()` python function.
+- You can use the `type()` Python function.
 
 - Remember that `len()` returns the length of your list.
 
