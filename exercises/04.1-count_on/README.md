@@ -1,6 +1,6 @@
 # `04.1` Count On
 
-As you saw in the last exercise, your list can be a mix types of data; we are going to divide and conquer.
+As you saw in the last exercise, your list can be a mix of different types of data.
 
 Would you be so kind to add all the items with data-type `dict` and `list` of the list named `my_list` into a new list named `new_list`?
 
