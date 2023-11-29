@@ -1,8 +1,6 @@
-# `07` Do while
+# `07` Do While
 
-Hacer, hacer, hacer.
-
-La función `while()` es otro ejemplo de bucle en python es menos común usarla, pero es un bucle:
+La función `while()` es otro ejemplo de bucle en Python, es menos común usarla, pero es un bucle:
 
 ```py
 x = 1
@@ -13,15 +11,15 @@ while x < 6:
 
 ## 📝 Instrucciones:
 
-1. Imprime cada número de iteración en la cónsola desde el `20` a `1`, pero **concatena un signo de exclamación** a la salida si el número es un múltiplo  de `5`.
+1. Imprime cada iteración en la consola de los números del `20` al `1`, pero **concatena un signo de exclamación** si el número es múltiplo de `5`.
 
-2. al final imrpime `LIFTOFF`.
+2. Al final imprime `LIFTOFF`.
 
 ## 💡 Pista:
 
 + https://www.w3schools.com/python/python_while_loops.asp
 
-## Resultado esperado:
+## 💻 Resultado esperado:
 
 ```py
 Ejemplo de salida en la consola:
