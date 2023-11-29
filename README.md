@@ -1,5 +1,5 @@
 <!-- hide -->
-#  🐍 Python lists and loops tutorial exercises
+# 🐍 Python lists and loops tutorial exercises
 
 <a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises/blob/master/python-lp-badge.png"></a>
 
