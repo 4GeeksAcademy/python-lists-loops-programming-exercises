@@ -6,7 +6,7 @@ La única forma de borrar a `Daniella` de la lista (sin trampas) sería crear un
 
 1. Por favor, crea una función `delete_person` que elimine a una persona dada de una lista y devuelva una nueva lista sin esa persona.
 
-## 💻 Resultado esperado:
+## 💻 Resultado esperado:
 
  ```py
 Resultado:
