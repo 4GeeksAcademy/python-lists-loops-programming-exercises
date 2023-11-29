@@ -1,6 +1,6 @@
 # `06.1` Everything is Awesome
 
-## 📝Instrucciones:
+## 📝 Instrucciones:
 
 1. Compara el elemento. Si es `1`, añade el número en la lista `new_list`.
 
