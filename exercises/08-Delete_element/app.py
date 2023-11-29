@@ -1,11 +1,11 @@
 people = ['juan','ana','michelle','daniella','stefany','lucy','barak']
 
-def deletePerson(person_name):
+def delete_person(person_name):
     # Your code here
-
+    
 
     
 # Don't delete anything below
-print(deletePerson("daniella"))
-print(deletePerson("juan"))
-print(deletePerson("emilio"))
+print(delete_person("daniella"))
+print(delete_person("juan"))
+print(delete_person("emilio"))
