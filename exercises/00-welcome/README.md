@@ -22,5 +22,5 @@ During this course, you will be learning the following concepts:
 
 - How to combine and use all these concepts in different ways.
 
-Please click on the `Next →` button on the top right to proceed to the first challenge.
+Please click on the `Next →` button on the top right to proceed to the first exercise.
 
