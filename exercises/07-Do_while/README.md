@@ -1,7 +1,6 @@
-# `07` D0 While
+# `07` Do While
 
-DO DO DO
-The `while()` function is another loop example in python is less commonly used but it is a loop.
+DO DO DO The `while()` function is another loop example in Python and is less commonly used, but it is still a loop.
 
 ```py
 x = 1
@@ -12,15 +11,15 @@ while x < 6:
 
 ## 📝 Instructions:
 
-1. Print every iteration number on the console from `20` to `1`, but **concatenate an exclamation point** to the output if the number is a multiple of `5`.
+1. Print every iteration number on the console from `20` to `1`, but **concatenate an exclamation mark** to the output if the number is a multiple of `5`.
 
-2. At the end print() `LIFTOFF`.
+2. At the end print `LIFTOFF`.
 
 ## 💡 Hint:
 
 + https://www.w3schools.com/python/python_while_loops.asp
 
-## Expected result:
+## 💻 Expected result:
 
 ```py
 Example Output on the console:
