@@ -8,7 +8,9 @@
 
 3. Create a variable called `sorted_numbers` to start appending the *odd* numbers.
 
-4. Then insert the *even* numbers into the `sorted_numbers`. Remember, the *odd* numbers come first, and you have to insert the *even* numbers after.
+4. If the number is even, push it to a placeholder list named `even`.
+
+5. Then insert the `even` list into the `sorted_numbers`. Remember, the *odd* numbers come first, and you have to insert the `even` list after.
 
 ## 💡 Hints:
 
@@ -18,8 +20,11 @@
 
 ## 💻 Expected result:
 
+Everything should be inside a single list; there should not be nested lists.
+
 ```py
 sort_odd_even([1, 2, 33, 10, 20, 4])
 
-[[1, 33, 2, 10, 20, 4]]
+[1, 33, 2, 10, 20, 4] # <-- Yes
+[[1,33], [2,10,20,4]] # <-- No
 ```
