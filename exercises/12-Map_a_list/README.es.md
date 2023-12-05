@@ -18,7 +18,7 @@ map(función, iterable, ...)
 
 La función `map()` aplica una función dada a cada elemento de un iterable y devuelve una lista de resultados.
 
-El valor devuelto por `map()`, que es un map object, es pasado a funciones como `list()` (para crear una lista), `set()` (para crear un conjunto) y así.
+El valor devuelto por `map()`, que es un *map object*, es pasado a funciones como `list()` (para crear una lista), `set()` (para crear un conjunto) y así.
 
 ## 📝 Instrucciones:
 
