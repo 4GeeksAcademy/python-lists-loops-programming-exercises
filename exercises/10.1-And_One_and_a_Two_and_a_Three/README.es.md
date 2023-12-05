@@ -14,7 +14,7 @@ Los diccionarios (o "dict" en Python) son una forma de almacenar elementos como 
 
 - contact.values()  `['Jane Doe', '321-321-4321', 'test@test.com']`.
 
-- contact.items()  `[('fullname', 'Jane Doe'), ('phone', '321-321-4321'), ``('email', 'test@test.com')]`
+- contact.items()  `[('fullname', 'Jane Doe'), ('phone', '321-321-4321'), ('email', 'test@test.com')]`
 
 ## 💻 Ejemplo de resultado:
 
