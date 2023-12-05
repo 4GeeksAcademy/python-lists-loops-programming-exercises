@@ -16,7 +16,7 @@ def test_map():
 @pytest.mark.it("Create the function multiply_by_three")
 def test_variable_exists(app):
     try:
-        app.increment_by_one
+        app.multiply_by_three
     except AttributeError:
         raise AttributeError("The function 'multiply_by_three' should exist on app.py")
         
