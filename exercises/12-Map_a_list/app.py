@@ -1,9 +1,9 @@
 celsius_values = [-2, 34, 56, -10]
 
-def fahrenheit_values(x):
-   # The magic happens here
+def celsius_to_fahrenheit(celsius):
+    # The magic happens here
    
-   
-result = list(map(fahrenheit_values, celsius_values))
+
+result = list(map(celsius_to_fahrenheit, celsius_values))
 
 print(result)
