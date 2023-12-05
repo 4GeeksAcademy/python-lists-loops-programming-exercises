@@ -1,6 +1,6 @@
 # `09.1` Minimum Integer
 
-Es posible recorrer una lista usando un bucle `for` para, tú tienes que especificar qué hacer en cada iteración de la lista.
+Es posible recorrer una lista usando un bucle `for`, y luego especificar qué hacer en cada iteración de la lista.
 
 ## 📝 Instrucciones:
 
@@ -10,9 +10,9 @@ Es posible recorrer una lista usando un bucle `for` para, tú tienes que especif
 
 + Declara una variable auxiliar global.
 
-+ Establece su valor inicial con un número entero muy grande.
++ Establece su valor inicial con el primer elemento de la lista.
 
-+ Cada vez que iteres, compara su valor con el valor del elemento, si el valor del elemento es más pequeño, asígnalo como nuevo valor de la variable auxiliar.
++ Cada vez que iteres, compara su valor con el valor del siguiente elemento, si el valor del elemento es más pequeño, asígnalo como nuevo valor en la variable auxiliar.
 
 + Fuera del bucle, después de que el bucle haya finalizado, imprime el valor auxiliar.
 
