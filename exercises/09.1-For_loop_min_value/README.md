@@ -10,11 +10,11 @@ It is possible to traverse a list using the `for` loop, and you have to specify 
 
 + Declare an auxiliary global variable.
 
-+ Set its value to a very big integer.
++ Set its value to the first element on the list.
 
-+ Every time you loop, compare its value to the item's value. If the item's value is smaller, update the auxiliary variable value to the item's value.
++ Every time you loop, compare its value to the next element's value, if it's smaller, update the auxiliary variable's value to the element's value.
 
-+ Outside the loop, after the loop is finished, print the auxiliary value.
++ Outside the loop, after the loop is finished, print the auxiliary variable's value.
 
 ## 💻 Expected result:
 
