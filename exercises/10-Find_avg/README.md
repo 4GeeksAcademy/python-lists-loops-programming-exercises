@@ -10,7 +10,7 @@
 
 + Make sure you are using a `for` loop.
 
-+ You can use as many auxiliary variables as you want.
++ You can use as many auxiliary variables as you need.
 
 ## 💻 Expected result:
 
