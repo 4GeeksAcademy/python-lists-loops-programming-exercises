@@ -1,4 +1,4 @@
-# `09.1` Minimum integer:
+# `09.1` Minimum Integer
 
 It is possible to traverse a list using the `for` loop, and you have to specify what to do on each iteration of the loop.
 
