@@ -8,7 +8,7 @@ It is possible to traverse a list using the `for` loop, and you have to specify 
 
 ## 💡 Hints:
 
-+ Declare an Auxiliary Global Variable.
++ Declare an auxiliary global variable.
 
 + Set its value to a very big integer.
 
