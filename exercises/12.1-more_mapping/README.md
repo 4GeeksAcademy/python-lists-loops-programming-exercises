@@ -20,8 +20,6 @@ result = map(increment_by_one, my_list)  # returns [2, 3, 4, 5]
 
 ## 💡 Hints:
 
-+ The function will take a parameter with the original item being transformed and added into the new list.
++ The `map()` function will apply the specified function to every item in your list.
 
-+ Remember that your function must return each of the new items to be stored into the new list.
-
-
++ Remember to store your result in the `new_list`.
