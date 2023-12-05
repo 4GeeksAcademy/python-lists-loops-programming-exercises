@@ -17,7 +17,7 @@ for coordinates in coordinates_list:
 
 + The structure of the coordinates is `[latitude, longitude]`.
 
-+ Remember the index of the first item in a list is `list[0]`.
++ Remember, the index of the first item in a list is `list[0]`.
 
 ## 💻 Expected result:
 
