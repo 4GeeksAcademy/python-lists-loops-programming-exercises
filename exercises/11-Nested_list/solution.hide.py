@@ -2,10 +2,5 @@ coordinates_list = [[33.747252, -112.633853], [-33.867886, -63.987], [41.303921,
 
 # Your code here
 
-longitudes = []
-
 for coord in coordinates_list:
-    longitudes.append(coord[1])
-
-for lon in longitudes:
-    print(lon)
+    print(coord[1])
