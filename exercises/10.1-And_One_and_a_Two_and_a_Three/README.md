@@ -19,7 +19,7 @@ Dictionaries (or "dict" in Python) are a way of storing elements just like you w
 ## 💻 Example console output:
 
 ```py
-fullname : John Doe
-phone : 123-123-2134
-email : test@nowhere.com
+fullname: John Doe
+phone: 123-123-2134
+email: test@nowhere.com
 ```
