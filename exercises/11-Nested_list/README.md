@@ -1,29 +1,27 @@
 # `11` Nested list
 
-It is possible to find a list comprised of other lists (it is called a two-dimension list or matrix).
+It is possible to find a list comprised of other lists (it is called a two-dimensional list or matrix).
 
 In this example, we have a list of coordinates that you can access by doing the following:
 
 ```py
-longitude = []
-
-for loop in coordinate longitude
-
-longitude = coordinatesList[0][1];
+for coordinates in coordinates_list:
+    print(coordinates)
 ```
 
-## 📝Instructions:
+## 📝 Instructions:
 
-1. Loop through the list printing only the longitudes.
+1. Loop through the list printing only the *longitudes*.
 
-## 💡 Hint:
+## 💡 Hints:
 
-- Remember the index of the position 1 is list[0]
++ The structure of the coordinates is `[latitude, longitude]`.
 
-## Expected result:
++ Remember the index of the first item in a list is `list[0]`.
+
+## 💻 Expected result:
 
 ```py
-The result should be something like this:
 -112.633853
 -63.987
 -81.901693
