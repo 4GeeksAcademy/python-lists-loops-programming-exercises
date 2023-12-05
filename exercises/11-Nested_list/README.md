@@ -11,7 +11,7 @@ for coordinates in coordinates_list:
 
 ## 📝 Instructions:
 
-1. Loop through the list printing only the *longitudes*.
+1. Loop through the list, printing only the *longitudes*.
 
 ## 💡 Hints:
 
