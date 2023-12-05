@@ -19,7 +19,7 @@ Los diccionarios (o "dict" en Python) son una forma de almacenar elementos como 
 ## 💻 Ejemplo de resultado:
 
 ```py
-fullname : John Doe
-phone : 123-123-2134
-email : test@nowhere.com
+fullname: John Doe
+phone: 123-123-2134
+email: test@nowhere.com
 ```
