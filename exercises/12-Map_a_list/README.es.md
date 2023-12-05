@@ -1,15 +1,11 @@
 # `12` Map a list
 
-```py
-Python map()
-```
-
-La función `map()` aplica una función dada a cada elemento de un 'iterable' (ya sea lista, tupla, etc.) y devuelve una lista de resultados.
+La función `map()` aplica una función dada a cada elemento de un "iterable" (ya sea lista, tupla, etc.) y devuelve una lista de resultados.
 
 ### La sintaxis de map() es:
  
 ```py
-map(funcion, iterable, ...)
+map(función, iterable, ...)
 ```
 
 #### Parámetros de map():
@@ -28,9 +24,8 @@ El valor devuelto por `map()`, que es un map object, es pasado a funciones como 
 
 1. Usando la misma lógica, agrega el código necesario para convertir una lista de valores Celsius en Fahrenheit dentro de la función `map()`.
 
-## Resultado esperado:
+## 💻 Resultado esperado:
 
 ```py
-Salida esperada en la consola:
 [28.4, 93.2, 132.8, 14.0]
 ```
