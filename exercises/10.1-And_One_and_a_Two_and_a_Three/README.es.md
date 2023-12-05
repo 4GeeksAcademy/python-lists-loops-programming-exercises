@@ -1,6 +1,6 @@
 # `10.1`  And one and two and three
 
-Los diccionarios (o "dict" en Python) son una forma de almacenar elementos como lo harías en una lista de Python, con la diferencia de que en lugar de acceder a los elementos por su índice, asignas una clave fija a cada uno y accedes al elemento usando su clave. A lo que te enfrentas ahora es a un par `key: value` (clave: valor), el cual es, en ocasiones, una estructura de datos más apropiada para diferentes problemas, en lugar de una simple lista.
+Los diccionarios (o "dict" en Python) son una forma de almacenar elementos como lo harías en una lista de Python, con la diferencia de que en lugar de acceder a los elementos por su índice, asignas una clave fija a cada uno y accedes al elemento usando su clave. A lo que te enfrentas ahora es a un par `key-value` (clave-valor), el cual es, en ocasiones, una estructura de datos más apropiada para diferentes problemas, en lugar de una simple lista.
 
 ## 📝 Instrucciones:
 
