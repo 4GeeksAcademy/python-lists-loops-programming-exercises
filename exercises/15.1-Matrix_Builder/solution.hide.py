@@ -1,4 +1,4 @@
-def matrixBuilder(n):
+def matrix_builder(n):
     matrix = [] 
 
     for _ in range(n):
@@ -9,6 +9,6 @@ def matrixBuilder(n):
 
     return matrix
 
-result = matrixBuilder(3)
+result = matrix_builder(6)
 
 print(result)
