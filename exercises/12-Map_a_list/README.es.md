@@ -29,3 +29,11 @@ El valor devuelto por `map()`, que es un *map object*, es pasado a funciones com
 ```py
 [28.4, 93.2, 132.8, 14.0]
 ```
+
+## 💡 Pista:
+
++ Para convertir de Celsius a Fahrenheit, multiplica la temperatura en Celsius por 9/5 y luego sumale 32.
+
+```text
+(Cº * 9/5) + 32
+```
