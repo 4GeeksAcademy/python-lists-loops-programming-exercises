@@ -20,7 +20,7 @@ You are working with a DJ, and he needs a program that can create beats for his 
 
 - Remember to use auxiliary variables.
 
-- Declare a variable to store the string.
+- Declare a variable to store your strings.
 
 - Declare a variable to count and sum.
 
