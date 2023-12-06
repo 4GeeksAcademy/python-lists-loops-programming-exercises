@@ -1,22 +1,22 @@
-# `09.1` Minimum integer
+# `09.1` Minimum Integer
 
-Es posible recorrer una lista usando un bucle `for` para listas, tú tienes que especificar qué hacer en cada iteración de la lista.
+Es posible recorrer una lista usando un bucle `for`, y luego especificar qué hacer en cada iteración de la lista.
 
 ## 📝 Instrucciones:
 
-1. Por favor, usa la función for para obtener el menor valor de la lista e imprimirlo en la consola.
+1. Por favor, usa la función `for` para obtener el menor valor de la lista e imprimirlo en la consola.
 
-## 💡 Pista:
+## 💡 Pistas:
 
-* Declara una variable auxiliar global.
++ Declara una variable auxiliar global.
 
-* Establece su valor inicial con un entero muy grande.
++ Establece su valor inicial con el primer elemento de la lista.
 
-* Cada vez que iteres, compara su valor con el valor del elemento, si el valor del elemento es más pequeño, asígnalo como nuevo valor de la variable auxiliar.
++ Cada vez que iteres, compara su valor con el valor del siguiente elemento, si el valor del elemento es más pequeño, asígnalo como nuevo valor en la variable auxiliar.
 
-* Fuera del bucle, después de que el bucle haya finalizado, imprime el valor auxiliar.
++ Fuera del bucle, después de que el bucle haya finalizado, imprime el valor auxiliar.
 
-## Resultado esperado:
+## 💻 Resultado esperado:
 
 ```py
 23

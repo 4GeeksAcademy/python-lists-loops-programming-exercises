@@ -1,23 +1,22 @@
-# `09.1` Minimum integer:
+# `09.1` Minimum Integer
 
-It is possible to traverse a list using the `for` loop, you have to specify what to do on each iteration of the loop.
+It is possible to traverse a list using the `for` loop, and you have to specify what to do on each iteration of the loop.
 
+## 📝 Instructions:
 
-## 📝Instructions:
+1. Please use the `for` loop function to get the minimum value from the list and print it in the console.
 
-1. Please use the `for` loop function to get the minimum value of the list and print it in the console.
+## 💡 Hints:
 
-## 💡 Hint:
++ Declare an auxiliary global variable.
 
-* Declare an Auxiliary Global Variable.
++ Set its value to the first element on the list.
 
-* Set it's value to a very big interger.
++ Every time you loop, compare its value to the next element's value, if it's smaller, update the auxiliary variable's value to the element's value.
 
-* Every time you loop, compare it's value to the item value. If the item value is smaller, update the auxiliary variable value to the item value.
++ Outside the loop, after the loop is finished, print the auxiliary variable's value.
 
-* Outside of the loop, after the loop is finished, print the auxiliary value.
-
-## Expected result:
+## 💻 Expected result:
 
 ```py
 23

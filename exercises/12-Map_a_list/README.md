@@ -1,17 +1,14 @@
 # `12` Map a list
 
-```py
-Python map()
-```
-
-The `map()` function applies a given function to each item of an iterable (list, tuple etc.) and returns a list of the results.
+The `map()` function applies a given function to each item of an "iterable" (list, tuple, etc.) and returns a list of the results.
 
 ### The syntax of map() is:
 
 ```py
 map(function, iterable, ...)
 ```
-#### map() Parameter:
+
+#### map() Parameters:
 
 **function:** passes each item of the iterable to this function.
 
@@ -19,19 +16,24 @@ map(function, iterable, ...)
 
 #### Return Value from map():
 
-The `map()` function applies to a given function and in particular to each item of an iterable and returns a list of the results.
+The `map()` function applies to a given function and, in particular, to each item of an iterable to return a list of the results.
 
-The returned value from `map()` (map object) then can be passed to functions
-like list() (to create a list), set() (to create a set) and so on.
+The returned value from `map()` (map object) then can be passed to functions like `list()` (to create a list), `set()` (to create a set) and so on.
 
-## 📝Instructions:
+## 📝 Instructions:
 
 1. Using the same logic, add the needed code to convert a list of Celsius values into Fahrenheit inside the `map()` function.
 
-## Expected result:
+## 💻 Expected result:
 
 ```py
-Expected in console:
-
 [28.4, 93.2, 132.8, 14.0]
+```
+
+## 💡 Hint:
+
++ To convert from Celsius to Fahrenheit, multiply the Celsius temperature by 9/5 and add 32.
+
+```text
+(Cº * 9/5) + 32
 ```

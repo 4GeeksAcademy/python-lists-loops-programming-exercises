@@ -1,7 +1,7 @@
 import io, sys, pytest, os, re
 path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
-@pytest.mark.it("Result of multiply by 3")
+@pytest.mark.it("Result of multiply_by_three must be correct")
 def test_multp(capsys, app):
     import app
     captured = capsys.readouterr()
@@ -13,12 +13,12 @@ def test_map():
     content = f.read()
     assert content.find("map") > 0
 
-@pytest.mark.it("Create the function increment_by_one")
+@pytest.mark.it("Create the function multiply_by_three")
 def test_variable_exists(app):
     try:
-        app.increment_by_one
+        app.multiply_by_three
     except AttributeError:
-        raise AttributeError("The function 'increment_by_one' should exist on app.py")
+        raise AttributeError("The function 'multiply_by_three' should exist on app.py")
         
 @pytest.mark.it("Create the variable new_list")
 def test_variable_new_list(app):

@@ -1,7 +1,7 @@
 import io, sys, pytest, os, re
 path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
-@pytest.mark.it("Convert Celsius to Fahrenheit and print to console")
+@pytest.mark.it("Convert celsius to fahrenheit and print to console")
 def test_dict(capsys, app):
     import app
     captured = capsys.readouterr()
