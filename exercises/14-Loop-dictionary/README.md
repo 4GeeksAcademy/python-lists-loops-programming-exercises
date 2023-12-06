@@ -4,8 +4,8 @@ The dictionaries allow us to identify each element by a `key`, opposed to lists 
 
 ```py
 {
-    key: value,
-    other_key: other_value,
+    "key": value,
+    "other_key": other_value,
     ...
 }
 ```
