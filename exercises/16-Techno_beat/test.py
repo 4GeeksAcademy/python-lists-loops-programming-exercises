@@ -10,7 +10,7 @@ def test_variable_exists(app):
         raise AttributeError("The function lyrics_generator should exist on app.py")
 
 
-@pytest.mark.it("Print the strings like song")
+@pytest.mark.it("Print the expected strings")
 def test_output(capsys, app):
     import app
     captured = capsys.readouterr()
