@@ -1,14 +1,12 @@
-# `02.1` Loop from the top
+# `02.1` Loop from the end
 
-```py
-Este bucle es `iterando` la lista de principio a fin... incrementando uno a uno.
-```
+Este bucle está iterando la lista de principio a fin, incrementando uno en uno.
 
 ## 📝 Instrucciones:
 
 1. Vamos a intentar iterar desde el fin hasta el principio.
 
-## Resultado esperado:
+## 💻 Resultado esperado:
 
 ```js
 12

@@ -1,15 +1,15 @@
 
 # `02.3` Loop from the half to the end
 
-Este bucle no es iterándolo todo... porque las variables `initialValue`, `stopValue` e `increasingValue` son iguales a cero.
+Este bucle no está iterándolo todo... porque las variables `initial_value`, `stop_value` e `increasing_value` son iguales a cero.
 
-# 📝 Instrucciones:
+## 📝 Instrucciones:
 
 1. Cambia el valor de esas variables para hacer que el bucle imprima solo la segunda mitad de la lista.
 
 2. ¡No cambies nada más que el valor de esas tres variables!
 
-## Resultado esperado:
+## 💻 Resultado esperado:
 
 ```py
 23

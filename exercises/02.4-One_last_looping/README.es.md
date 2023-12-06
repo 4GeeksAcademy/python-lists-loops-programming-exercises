@@ -10,15 +10,15 @@
 
 4. Realiza un bucle en la lista en orden inverso (desde el final hasta el principio) e imprime todos los elementos...
 
-## 💡 Pista:
+## 💡 Pistas:
 
 + Recuerda que la posición inicial de la lista es 0.
 
 + Recuerda utilizar el bucle `for` en este ejercicio.
 
-+ No debes utilizar ningún método para invertirlo en lugar de `for`.
++ No debes utilizar ningún método para invertir la lista en lugar de `for`.
 
-## Resultado esperado:
+## 💻 Resultado esperado:
 
 ```py
 Pepe

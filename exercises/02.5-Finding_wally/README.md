@@ -6,19 +6,19 @@ tutorial: "https://www.youtube.com/watch?v=zez4r9ApjSY"
 
 ## 📝 Instructions:
 
-1. Find Wally :)
+1. Find Wally 😊
 
 2. Print the position(s) of Wally in the console.
 
 ## 💡 Hint:
 
-- Use a loop and an if (conditional)
++ Use a `for` loop and an `if` statement.
 
 ## 💎 Easter Egg:
 
 What if there is more than one Wally?
 
-## Expected result:
+## 💻 Expected result:
 
 ```py
 65

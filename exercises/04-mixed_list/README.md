@@ -6,21 +6,19 @@ tutorial: "https://www.youtube.com/watch?v=tJ-si9lRkUc"
 
 ## 📝 Instructions:
 
-1. Write a function to programmatically print in the console the types of the values that the list contains in each position.
+1. Write a function to programmatically print in the console the types of values that the list contains in each position.
 
-2. You can use the `for` loop.
+2. You can use a `for` loop.
 
-## 💡 Hint:
+## 💡 Hints:
 
-- You can use the `type()` python function.
+- You can use the `type()` Python function.
 
-- Remember that `len()` return the large of your list.
+- Remember that `len()` returns the length of your list.
 
-## Expected result:
+## 💻 Expected result:
 
 ```py
-The console must have something like this:
-
 <class 'int'>
 <class 'bool'>
 <class 'str'>

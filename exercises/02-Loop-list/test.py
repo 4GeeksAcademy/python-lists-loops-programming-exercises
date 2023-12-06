@@ -1,7 +1,7 @@
 import io, sys, pytest, os, re
 path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
-@pytest.mark.it("Print the all items from the list")
+@pytest.mark.it("Print all items from the list")
 def test_output(capsys, app):
     app()
     captured = capsys.readouterr()

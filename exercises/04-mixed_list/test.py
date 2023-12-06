@@ -2,13 +2,13 @@ import io, sys, os, pytest, re
 path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
 
-@pytest.mark.it("Print the types of items from list")
+@pytest.mark.it("Print the types of values from list")
 def test_find(capsys, app):
     import app
     captured = capsys.readouterr()
     assert "<class 'int'>\n<class 'bool'>\n<class 'str'>\n<class 'list'>\n<class 'str'>\n<class 'float'>\n<class 'dict'>\n" in captured.out
 
-@pytest.mark.it("Use the for in loop")
+@pytest.mark.it("Use the for loop")
 def test_for_loop():
     with open(path, 'r') as content_file:
         content = content_file.read()

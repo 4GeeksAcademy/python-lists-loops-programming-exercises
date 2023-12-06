@@ -1,7 +1,7 @@
 import io, sys, os, pytest, re
 path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
-@pytest.mark.it("Print the odd number")
+@pytest.mark.it("Print the sum of all odd numbers")
 def test_odd_numbers(capsys):
     import app
     captured = capsys.readouterr()
