@@ -2,8 +2,6 @@
 
 El escenario más común para la función de mapeo es simplificar listas dadas, por ejemplo:
 
-El actual algoritmo crea una lista con solo los nombres de personas (`name_list`) y los imprime en la consola.
-
 ## 📝 Instrucciones:
 
 1. En este momento la función está imprimiendo solo los nombres. Por favor, actualiza la función de mapeo, de modo que cree una lista donde cada elemento contenga lo siguiente:
