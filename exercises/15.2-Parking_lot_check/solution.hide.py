@@ -4,7 +4,7 @@ parking_state = [
   [1,1,2]
 ]
 
-#Your code go here:
+# Your code here
 def get_parking_lot(matrix):
   state = {'total_slots': 0, 'available_slots': 0, 'occupied_slots': 0}
   for i in range(len(matrix)):
