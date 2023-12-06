@@ -1,6 +1,6 @@
 # `15.1` Matrix Builder
 
-After some malicious code, mainly by Mr. Smith, the matrix has some gaping holes, and it needs some help to rebuild. Create a matrix of 1's based on a parameter.
+After some malicious code, mainly by Mr. Smith, the Matrix has some gaping holes, and it needs some help to rebuild. Create a matrix of 1's based on a parameter.
 
 ## 📝 Instructions:
 
