@@ -9,7 +9,7 @@ def test_count(capsys, app):
 
 
 
-@pytest.mark.it("Use the for...in loop")
+@pytest.mark.it("Use the for in loop")
 def test_for_loop():
     with open(path, 'r') as content_file:
         content = content_file.read()
