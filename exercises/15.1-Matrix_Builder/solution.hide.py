@@ -10,6 +10,6 @@ def matrix_builder(n):
 
     return matrix
 
-result = matrix_builder(6)
+result = matrix_builder(3)
 
 print(result)
