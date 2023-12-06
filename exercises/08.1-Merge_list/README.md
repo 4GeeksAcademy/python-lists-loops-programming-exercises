@@ -1,27 +1,26 @@
-# `08.1` Merge List:
+# `08.1` Merge List
 
-Since we live in a new world, there should be no colors or labels, right?
+## 📝 Instructions:
 
-## 📝Instructions:
-
-Write a function that merges two list and returns a single new list (`merge_list`) merging all the values of both lists.
+Write a function `merge_list` that merges two lists and returns a single new list merging all the values of both lists.
 
  1. Declare an empty list.
 
- 2. Loop the two list.
+ 2. Loop the two lists.
 
- 3. Concatenate the result in an empty lists.
+ 3. Append the results into an empty list.
 
- 4. Print the variable with two list.
+ 4. Print the new variable with the merged lists.
 
- ## 💡 Hint:
+ ## 💡 Hints:
 
-- You will have to loop through each list and insert their items into a new list.
++ You will have to loop through each list and insert their items into a new list.
 
- ## Expected result:
++ There are more ways to merge lists in Python. This would be a good time for you to search on the Internet "how to merge lists in python".
+
+ ## 💻 Expected result:
 
 ```py
- The console expected:
- ['Lebron', 'Aaliyah', 'Diamond', 'Dominique', 'Aliyah', 'Jazmin', 'Darnell', 'Lucas', 'Jake', 'Scott', 'Amy', 'Molly', 'Hannah', 'Lucas']
+['Lebron', 'Aaliyah', 'Diamond', 'Dominique', 'Aliyah', 'Jazmin', 'Darnell', 'Lucas', 'Jake', 'Scott', 'Amy', 'Molly', 'Hannah', 'Lucas']
 ```
 
