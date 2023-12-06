@@ -1,7 +1,7 @@
 import io, sys, pytest, os, re
 path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
-@pytest.mark.it("Good!!! 😎 Maybe your are smart!!!")
+@pytest.mark.it("You should only filter numbers greater than 10")
 def test_output(capsys, app):
     import app
     captured = capsys.readouterr()
