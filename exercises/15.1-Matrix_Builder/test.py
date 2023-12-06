@@ -34,7 +34,7 @@ def test_oneness(app):
             for element in row:
                 assert element == 1
 
-@pytest.mark.it("Your matrix should be simmetrical")
+@pytest.mark.it("Your matrix should be symmetrical")
 def test_symmetry(app):
     import random
     side = random.randint(2,10) 
