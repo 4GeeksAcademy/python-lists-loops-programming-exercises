@@ -8,7 +8,7 @@ path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 #         regex = re.compile(r"import(\s)+random")
 #         assert bool(regex.search(content)) == True
 
-exp_fn_name = "matrixBuilder"
+exp_fn_name = "matrix_builder"
 
 @pytest.mark.it("You need to print the matrix as output")
 def test_output(capsys):
