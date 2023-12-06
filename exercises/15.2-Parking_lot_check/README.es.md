@@ -1,4 +1,4 @@
-# `15.2` Parking lot
+# `15.2` Parking Lot
 
 Podemos usar una lista bidimensional (matriz) para representar el estado actual de un estacionamiento:
 
