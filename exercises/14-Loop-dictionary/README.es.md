@@ -4,8 +4,8 @@ Los diccionarios nos permiten identificar cada elemento por una clave `key`, a d
 
 ```py
 {
-    clave: valor,
-    otra_clave: otro_valor, 
+    "clave": valor,
+    "otra_clave": otro_valor, 
     ...
 }
 ```
