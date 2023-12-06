@@ -18,7 +18,7 @@ parking_state = [
 
 ## 📝 Instrucciones:
 
-1. Crea una función `get_parking_lot()` que devuelva un objeto con `total_slots` (cantidad total de estacionamientos), `available_slots` (estacionamientos disponibles) y `occupied_slots`(estacionamientos ocupados) así:
+1. Crea una función `get_parking_lot()` que devuelva un diccionario con `total_slots` (cantidad total de puestos), `available_slots` (puestos disponibles) y `occupied_slots`(puestos ocupados) así:
 
 ```py
 state = {
