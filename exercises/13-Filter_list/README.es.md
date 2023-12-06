@@ -1,4 +1,4 @@
-# `13` Filter a list
+# `13` Filter list
 
 Otra función de iteración en Python es la función `filter()`.
 
