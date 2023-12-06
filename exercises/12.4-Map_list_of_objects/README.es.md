@@ -24,7 +24,7 @@ El actual algoritmo crea una lista con solo los nombres de personas (`name_list`
 
 ## 💻 Resultado esperado:
 
-La salida esperada debería ser similar a esta:
+Debe quedar algo similar a esto, sin embargo, las edades pueden variar.
 
 ```py
 [ 'Hello, my name is Joe and I am 32 years old',
