@@ -24,7 +24,7 @@ The current algorithm creates a list with only the names of the people and print
 
 ## 💻 Expected result:
 
-The expected output should look similar but not exactly to this:
+The result should be similar to this, but the ages might be different.
 
 ```py
 [ 'Hello, my name is Joe and I am 32 years old',
