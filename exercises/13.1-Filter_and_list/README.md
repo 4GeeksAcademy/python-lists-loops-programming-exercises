@@ -8,7 +8,7 @@ For example, this algorithm filters the `all_numbers` list and returns a new lis
 all_numbers = [23,12,35,5,3,2,3,54,3,21,534,23,42,1]
 
 def my_function(number):
-    return number % 2 == 0
+    return number % 2 == 1
 
 odd_numbers = list(filter(my_function, all_numbers))
 print(odd_numbers)
