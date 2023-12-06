@@ -2,7 +2,7 @@
 
 La variable `names` contiene muchos nombres (😒 daah...)
 
-La función `prepender` almacenada en la variable devuelve lo que sea que se le pase pero agregando antes: `'My name is: '`.
+La función ya definida `prepender` devuelve lo que sea que se le pase pero agregando antes: `'My name is: '`.
 
 ## 📝 Instrucciones:
 
