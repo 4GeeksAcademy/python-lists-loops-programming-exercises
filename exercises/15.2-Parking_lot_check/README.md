@@ -20,7 +20,6 @@ parking_state = [
 1. Create a function `get_parking_lot()` that returns a dictionary with `total_slots`, `available_slots` and `occupied_slots` like the following:
 
 ```python
-
 state = {
      total_slots: 12,
      available_slots: 3,
