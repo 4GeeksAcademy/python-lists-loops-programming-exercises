@@ -1,13 +1,13 @@
 import io, sys, pytest, os, re
 path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
-@pytest.mark.it("Cool!!! 🤩 You have names only with 'R' ")
+@pytest.mark.it("The output should contain names that begin with "R" only")
 def test_output(capsys, app):
     import app
     captured = capsys.readouterr()
     assert "['Romario', 'Roosevelt']\n" in captured.out
 
-@pytest.mark.it("Using filter function")
+@pytest.mark.it("Use the filter function")
 def test_map():
     f = open(os.path.dirname(os.path.abspath(__file__)) + '/app.py')
     content = f.read()
