@@ -1,3 +1,1 @@
-#Import random
-
-#Create the function below:
+# Your code here
