@@ -1,7 +1,5 @@
 # `12.4` Map a list of dictionaries
 
-El escenario más común para la función de mapeo es simplificar listas dadas, por ejemplo:
-
 ## 📝 Instrucciones:
 
 1. En este momento la función está imprimiendo solo los nombres. Por favor, actualiza la función de mapeo, de modo que cree una lista donde cada elemento contenga lo siguiente:
