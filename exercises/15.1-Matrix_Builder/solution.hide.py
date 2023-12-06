@@ -2,9 +2,9 @@
 def matrix_builder(n):
     matrix = [] 
 
-    for _ in range(n):
+    for i in range(n):
         row = []
-        for _ in range(n):
+        for j in range(n):
             row.append(1)
         matrix.append(row)
 
