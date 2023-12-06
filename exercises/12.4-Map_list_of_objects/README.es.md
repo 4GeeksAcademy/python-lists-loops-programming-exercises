@@ -16,7 +16,7 @@ El actual algoritmo crea una lista con solo los nombres de personas (`name_list`
 
 - Tienes que obtener la edad de cada persona de acuerdo a su fecha de nacimiento (`birth_date`).
 
-- Busca en Google "como obtener la edad de alguien dada su fecha de nacimiento python".
+- Busca en Google "cómo obtener la edad de alguien dada su fecha de nacimiento python".
 
 - Dentro de tu función de simplificación debes devolver una concatenación.
 
