@@ -16,5 +16,5 @@ Por ejemplo, el string `"Hello World"` contiene las siguientes repeticiones: `h=
 
 ```py
 print(count("Hello World"))
-# Imprime en la consola: { "h":1 "e":1 "l":3 "o":2 "w":1 "r":1 "d":1 }
+# Imprime en la consola: {'h': 1, 'e': 1, 'l': 3, 'o': 2, 'w': 1, 'r': 1, 'd': 1}
 ```
