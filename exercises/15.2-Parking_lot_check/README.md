@@ -1,6 +1,6 @@
 # `15.2` Parking Lot
 
-We can use a 2 dimensional array (matrix) to represent the current state of a parking lot like this:
+We can use a 2 dimensional list (matrix) to represent the current state of a parking lot like this:
 
 ![Parking lot](../../.learn/assets/ex15.2.png)
 
