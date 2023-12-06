@@ -1,7 +1,6 @@
 # `15.1` Matrix Builder
 
-Después de todo código malicioso, principalmente por parte de Mr. Smith, la Matrix tiene algunos agujeros
-y necesita ayuda para reconstruirse. Crea una matriz 1's basada en un parámetro.
+Después de un código malicioso, creado principalmente por el Sr. Smith, la Matrix tiene algunos agujeros y necesita ayuda para reconstruirse. Crea una matriz con 1's basada en un parámetro.
 
 ## 📝 Instrucciones:
 
@@ -13,9 +12,9 @@ y necesita ayuda para reconstruirse. Crea una matriz 1's basada en un parámetro
 
 2. Esta función debería devolver una lista de listas que represente la matriz. 
 
-## Resultado esperado:
+## 💻 Resultado esperado:
 
-3 debería retornar:
+Con 3 como argumento debería retornar:
 
 ```py
 [
