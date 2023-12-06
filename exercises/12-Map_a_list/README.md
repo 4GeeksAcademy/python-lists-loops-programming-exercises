@@ -29,3 +29,11 @@ The returned value from `map()` (map object) then can be passed to functions lik
 ```py
 [28.4, 93.2, 132.8, 14.0]
 ```
+
+## 💡 Hint:
+
++ To convert from Celsius to Fahrenheit, multiply the Celsius temperature by 9/5 and add 32.
+
+```text
+(Cº * 9/5) + 32
+```
