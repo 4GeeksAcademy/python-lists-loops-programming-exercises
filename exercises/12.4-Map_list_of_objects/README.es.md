@@ -1,4 +1,4 @@
-# `12.4` Map a list of objects
+# `12.4` Map a list of dictionaries
 
 El escenario más común para la función de mapeo es simplificar listas dadas, por ejemplo:
 
@@ -8,17 +8,19 @@ El actual algoritmo crea una lista con solo los nombres de personas (`name_list`
 
 1. En este momento la función está imprimiendo solo los nombres. Por favor, actualiza la función de mapeo, de modo que cree una lista donde cada elemento contenga lo siguiente:
 
-`Hello my name is <name> and I am <age> years old.`
+```py
+'Hello, my name is <name> and I am <age> years old'
+```
 
-## 💡 Pista:
+## 💡 Pistas:
 
-- Tienes que obtener la edad de cada persona de acuerdo a su cumpleaños (`birthDate`).
+- Tienes que obtener la edad de cada persona de acuerdo a su fecha de nacimiento (`birth_date`).
 
-- Busca en Google "como obtener una fecha de nacimiento dada en python.
+- Busca en Google "como obtener la edad de alguien dada su fecha de nacimiento python".
 
 - Dentro de tu función de simplificación debes devolver una concatenación.
 
-## Resultado esperado:
+## 💻 Resultado esperado:
 
 La salida esperada debería ser similar a esta:
 
