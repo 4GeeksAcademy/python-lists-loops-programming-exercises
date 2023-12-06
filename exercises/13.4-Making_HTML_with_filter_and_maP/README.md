@@ -1,4 +1,4 @@
-# `13.4` Making HTML using filter function and map function
+# `13.4` Making HTML with `filter` and `map` function
 
 ## 📝 Instructions:
 
@@ -10,8 +10,6 @@
 ['<li>Red</li>', '<li>Orange</li>', '<li>Pink</li>', '<li>Violet</li>']
 ```
 
-## 💡 Hints:
+## 💡 Hint:
 
 + You probably have to use `filter()` and `map()` function.
-
-+ `set()` values to the new variables.
