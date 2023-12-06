@@ -1,7 +1,5 @@
 # `12.4` Map a list of dictionaries
 
-The most common scenario for the mapping function is simplifying given lists, for example:
-
 ## 📝 Instructions:
 
 1. At this time, the function `format_greeting` is printing the names only. Please update the mapping function so it creates a list where each item contains the following:
