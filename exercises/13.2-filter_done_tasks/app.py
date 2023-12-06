@@ -1,4 +1,3 @@
-
 tasks = [
 	{ "label": 'Eat my lunch', "done": True },
 	{ "label": 'Make the bed', "done": False },
@@ -11,5 +10,5 @@ tasks = [
 ]
 
 
-#Your code go here:
+# Your code here
 
