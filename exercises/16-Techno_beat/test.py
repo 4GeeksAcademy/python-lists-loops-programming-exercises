@@ -14,8 +14,4 @@ def test_variable_exists(app):
 def test_output(capsys, app):
     import app
     captured = capsys.readouterr()
-    assert 'Boom Boom Drop the base Drop the base Boom Boom Boom \nBoom Boom Drop the base Drop the base Drop the base !!!Break the base!!! Boom Boom Boom \nBoom Boom Boom \nDrop the base Boom Drop the base \nDrop the base Drop the base Drop the base !!!Break the base!!! \n' in captured.out
-
-
-
-
+    assert 'Boom Boom Drop the bass Drop the bass Boom Boom Boom \nBoom Boom Drop the bass Drop the bass Drop the bass !!!Break the bass!!! Boom Boom Boom \nBoom Boom Boom \nDrop the bass Boom Drop the bass \nDrop the bass Drop the bass Drop the bass !!!Break the bass!!! \n' in captured.out
