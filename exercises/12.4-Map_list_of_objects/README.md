@@ -6,7 +6,7 @@ The current algorithm creates a list with only the names of the people and print
 
 ## 📝 Instructions:
 
-1. At this time, the function is printing the names only. Please update the mapping function so it creates a list where each item contains the following:
+1. At this time, the function `format_greeting` is printing the names only. Please update the mapping function so it creates a list where each item contains the following:
 
 ```py
 'Hello, my name is <name> and I am <age> years old'
@@ -16,9 +16,11 @@ The current algorithm creates a list with only the names of the people and print
 
 + You have to get the age of each person based on their `birth_date`.
 
++ Take your time to understand the already defined `calculate_age` function.
+
 + Search in Google "How to get the age of a given birth date in python".
 
-+ Inside your simplifier function you have to return a concatenation.
++ Inside your `format_greeting` function you have to return a concatenation.
 
 ## 💻 Expected result:
 
