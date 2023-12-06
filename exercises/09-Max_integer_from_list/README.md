@@ -2,28 +2,28 @@
 
 ## 📝 Instructions:
 
-1. Create a function named `maxInteger`
+1. Create a function named `max_integer`
 
-2. This function should take a list as an input parameter and 
-return the maximum number found in the list. 
+2. This function should take a list as an input parameter and return the maximum number found in the list. 
 
-3. You should use a 'for' loop to iterate through the list. 
+3. You should use a `for` loop to iterate through the list. 
 
 4. Use the `print()` function to print what the function returns when it is called.
-  - For **example**: `print(myFunction(param))` 
+  
+    + For example: `print(my_function(param))` 
 
-## 💡 Hint:
+## 💡 Hints:
 
-- Define an auxiliar variable and set the first value to `0`.
+- Define an auxiliary variable and set the first value to the first element on the list.
 
-- Then compare the variables with all the items in the list.
+- Then compare the variable with all the items in the list.
 
-- Replace the value every time the new element is bigger than the one stored in the auxiliar variable.
+- Replace the value every time the new element is bigger than the one stored in the auxiliary variable.
 
-- At the end you will have the biggest number stored in the variable.
+- At the end, you will have the biggest number stored in the variable.
 
-## Expected Result:
+## 💻 Expected result:
 
- ```py
-Your result should be 5435.
+```py
+5435
 ```

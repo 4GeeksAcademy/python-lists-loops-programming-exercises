@@ -1,25 +1,30 @@
-# `08.2` Divide and conquer:
+# `08.2` Divide and conquer
 
-## 📝Instructions:
+## 📝 Instructions:
 
-1. Create a function called `merge_two_list` that expects an list of numbers (integers).
+1. Create a function called `sort_odd_even` that expects a list of numbers (integers).
 
-2. Loop through the list and separate the `odd` and the `even` numbers in different lists.
+2. Loop through the list and separate the *odd* and the *even* numbers.
 
-3. If the number is odd number push it to a placeholder list named `odd`.
+3. Create a variable called `sorted_list` to start appending the *odd* numbers.
 
-4. If the number is even number push it to a placeholder list named `even`.
+4. If the number is even, push it to a placeholder list named `even`.
 
-5. Then concatenate the `odd` list to the even list to combine them. Remember, the `odd` list comes first and you have to append the even `mergeTwoList`.
+5. Then insert the `even` list into the `sorted_list`. Remember, the *odd* numbers come first, and you have to insert the `even` list after.
 
-## 💡 Hint:
+## 💡 Hints:
 
 + Create empty (placeholder) variables when you need to store data.
 
-## Expected result:
++ Check out the `extend()` method: https://www.w3schools.com/python/ref_list_extend.asp
+
+## 💻 Expected result:
+
+Everything should be inside a single list; there should not be nested lists.
 
 ```py
-mergeTwoList([1,2,33,10,20,4])
+sort_odd_even([1, 2, 33, 10, 20, 4])
 
-[[1,33,2], [10,20,4]]
+[1, 33, 2, 10, 20, 4] # <-- Yes
+[[1,33], [2,10,20,4]] # <-- No
 ```
