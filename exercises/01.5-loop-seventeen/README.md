@@ -4,7 +4,7 @@ tutorial: "https://www.youtube.com/watch?v=qO3ZNWrkeGg"
 
 # `01.5` Loop from 1 to 17
 
-To loop a specific number of times, we can use 
+To loop a specific number of times, we can use:
 
 ```py
 range(<start>,<end>)
@@ -16,7 +16,7 @@ For example:
 
 ```python
 for x in range(0,5):
-  print(x)
+    print(x)
 ```
 
 Expected output:
@@ -30,17 +30,17 @@ Expected output:
 
 Note that the number specified in `range()`, 5 in this example, is never reached and 4 is our last output. 
 
-We can incorporate additional parameters to further specify (now could be a good time to google or at least check the HINT section ;) ).
+We can incorporate additional parameters to further specify (now could be a good time to Google or at least check the HINT section 😉).
 
-## 📝Instructions:
+## 📝 Instructions:
 
 1. Count from 1 to 17 with a loop and print each number on the console.
 
-## 💡 Hint:
+## 💡 Hints:
 
-- This how you loop : https://www.w3schools.com/python/python_for_loops.asp
+- This how you loop: https://www.w3schools.com/python/python_for_loops.asp
 
-## Expected result:
+## 💻 Expected result:
 
 ```py
 1

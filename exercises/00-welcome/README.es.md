@@ -1,8 +1,4 @@
-# Bienvenid@ a las Listas de Python!
-
----
-tutorial: "https://www.youtube.com/watch?v=xMg9d0KsYAk"
----
+# Welcome to Python Lists!
 
 En este curso aprenderás los siguientes conceptos:
 
@@ -20,7 +16,7 @@ En este curso aprenderás los siguientes conceptos:
 
 - Combinar dos listas.
 
-- Cómo combiar y usar todos estos conceptos de diferentes maneras.
+- Cómo combinar y usar todos estos conceptos de diferentes maneras.
 
 Por favor, presiona el botón de `Next →` de arriba a la derecha para ir al primer reto.
 

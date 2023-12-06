@@ -1,6 +1,7 @@
 # `01.5` Loop from 1 to 17
 
-Para iterar un número específico de números, podemos usar 
+Para iterar un número específico de veces, podemos usar:
+
 ```py
 range(<start>,<end>)
 ``` 
@@ -11,7 +12,7 @@ Por ejemplo:
 
 ```py
 for x in range(0,5):
-  print(x)
+    print(x)
 ```
 
 Salida:
@@ -26,19 +27,17 @@ Salida:
 
 Nota que el número especificado en el `range()`, 5 en este ejemplo, nunca es alcanzado y 4 es nuestra última salida. 
 
-Podemos incorporar parámetros adicionales para especificar más detalle (ahora sería un buen momento para buscar en Google o, al menos, ver la sección de pistas ;) ).
+Podemos incorporar parámetros adicionales para especificar más detalle (ahora sería un buen momento para buscar en Google o, al menos, ver la sección de pistas 😉).
 
-## 📝Instrucciones:
+## 📝 Instrucciones:
 
 1. Contar del 1 al 17 con un bucle e imprimir cada número en la consola.
 
-## 💡 Pista:
+## 💡 Pistas:
 
-+ Así haces un bucle:
++ Así haces un bucle: https://www.w3schools.com/python/python_for_loops.asp
 
-https://www.w3schools.com/python/python_for_loops.asp
-
-## Resultado esperado:
+## 💻 Resultado esperado:
 
 ```py
 1

@@ -8,14 +8,14 @@ def test_import_random():
         regex = re.compile(r"import(\s)+random")
         assert bool(regex.search(content)) == True
 
-@pytest.mark.it("Create the variable the_last_one")
+@pytest.mark.it("Create a variable called 'the_last_one'")
 def test_variable_exists(app):
     try:
         app.the_last_one
     except AttributeError:
         raise AttributeError("The variable 'the_last_one' should exist on app.py")
 
-@pytest.mark.it("Assign the last number to the variable")
+@pytest.mark.it("Assign the last element of the list to the variable")
 def test_assing(app):
     assert app.the_last_one == app.my_stupid_list[-1]
 

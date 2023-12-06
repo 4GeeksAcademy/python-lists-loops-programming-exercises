@@ -8,7 +8,7 @@ def test_import_random():
         regex = re.compile(r"import(\s)+random")
         assert bool(regex.search(content)) == True
 
-@pytest.mark.it("Use the for loop to loop 10 times")
+@pytest.mark.it("Use a for loop to loop 10 times")
 def test_for_loop():
     path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
     with open(path, 'r') as content_file:
@@ -17,7 +17,7 @@ def test_for_loop():
         assert bool(regex.search(content)) == True
 
 
-@pytest.mark.it("Use the randint function to add a radom number to the list each time you loop")
+@pytest.mark.it("Use the randint function to add a random number to the list each time you loop")
 def test_for_randint():
     path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
     with open(path, 'r') as content_file:
