@@ -1,20 +1,20 @@
 # `14.2` Letter counter
 
-## 📝Instructions:
+## 📝 Instructions:
 
-Our customer needs a program that counts the letters repetitions in a given string, for example:
+Our customer needs a program that counts the letter repetitions in a given string, for example:
 
-The string "Hello World" contains the following repetitions `h=1 e=1 l=3 o=2 w=1 r=1 d=1`
+The string `"Hello World"` contains the following repetitions `h=1 e=1 l=3 o=2 w=1 r=1 d=1`.
 
-1. Count the letters in the string used in par and print the number of times it is repeated throughout the string.
+1. Count the letters of the string in the variable `par` and print the number of times a letter is repeated throughout the string.
 
-2. Capitalization should not affect the count (i.e. if there is a string that contains a capital `A` as well as a lowercase `a` the count for a should be 2).
+2. Capitalization should not affect the count (i.e. if there is a string that contains a capital `A` as well as a lowercase `a` the count for "a" should be 2).
 
 3. Spaces should be ignored!
 
-## Expected result:
+## 💻 Expected result:
 
 ```py
 print(count("Hello World"))
-# will print on the console { "h":1 "e":1 "l":3 "o":2 "w":1 "r":1 "d":1 }
+# This will print: { "h":1 "e":1 "l":3 "o":2 "w":1 "r":1 "d":1 }
 ```
