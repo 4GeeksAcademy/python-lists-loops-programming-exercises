@@ -1,7 +1,7 @@
 import io, sys, pytest, os, re
 path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
-@pytest.mark.it("Good job!!! 😃 the True tasks are passed")
+@pytest.mark.it("You should only print the tasks that are done")
 def test_output(capsys, app):
     import app
     captured = capsys.readouterr()
