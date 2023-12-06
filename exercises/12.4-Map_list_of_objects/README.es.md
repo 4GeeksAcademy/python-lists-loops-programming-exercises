@@ -2,7 +2,7 @@
 
 ## 📝 Instrucciones:
 
-1. En este momento la función está imprimiendo solo los nombres. Por favor, actualiza la función de mapeo, de modo que cree una lista donde cada elemento contenga lo siguiente:
+1. En este momento la función `format_greeting` está imprimiendo solo los nombres. Por favor, actualiza la función de mapeo, de modo que cree una lista donde cada elemento contenga lo siguiente:
 
 ```py
 'Hello, my name is <name> and I am <age> years old'
