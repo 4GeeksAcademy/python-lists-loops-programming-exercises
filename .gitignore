@@ -13,7 +13,7 @@
 !/exercises/*
 
 *.pyc
-exercises/*/__pycache__/
+
 .pytest_cache/
 
 !/.learn
