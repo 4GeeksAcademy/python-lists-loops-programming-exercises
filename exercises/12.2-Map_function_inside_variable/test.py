@@ -1,7 +1,7 @@
 import io, sys, pytest, os, re
 path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
-@pytest.mark.it("Print the all the names as in the output")
+@pytest.mark.it("Print all the names as in the output")
 def test_multp(capsys, app):
     import app
     captured = capsys.readouterr()

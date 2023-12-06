@@ -8,7 +8,7 @@ def test_variable_exists(app):
     except AttributeError:
         raise AttributeError('The function "data_transformer" should exists')
 
-@pytest.mark.it('The function named data_transformer should return the correct value')
+@pytest.mark.it('The function named data_transformer should return the correct output')
 def test_function_value1(app):
     try:
         incoming_ajax_data = [
@@ -23,7 +23,7 @@ def test_function_value1(app):
     except AttributeError:
         raise AttributeError("The variable 'transformed_data' should have the correct value")
 
-@pytest.mark.it('The function named data_transformer should return the correct value (Testing with a different list)')
+@pytest.mark.it('The function named data_transformer should return the correct output (Testing with a different list)')
 def test_function_value2(app):
     try:
         incoming_ajax_data = [

@@ -1,7 +1,7 @@
 import io, sys, pytest, os, re, datetime
 path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
-@pytest.mark.it("Each element needs to have this output: !!😎")
+@pytest.mark.it("Each element should to have the correct output")
 def test_multp(capsys, app):
     import app
     people = [
@@ -19,7 +19,7 @@ def test_multp(capsys, app):
     captured = capsys.readouterr()
     assert str(name_list) in captured.out
 
-@pytest.mark.it("Use the map function ")
+@pytest.mark.it("Use the map function")
 def test_map():
     f = open(os.path.dirname(os.path.abspath(__file__))+'/app.py')
     content = f.read()

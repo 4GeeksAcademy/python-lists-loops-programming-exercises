@@ -6,11 +6,10 @@
 
 2. El string es `'am'`
 
-3. La búsqueda NO debería ser sensible a mayúsculas (`case Sensitive`).
+3. La búsqueda NO debería ser sensible a mayúsculas/minusculas (case sensitive).
 
-## Resultado esperado:
+## 💻 Resultado esperado:
 
 ```py
-Resultado:
 ['Liam', 'William', 'James', 'Benjamin', 'Samuel', 'Camila']
 ```

@@ -8,7 +8,7 @@ def test_variable_exists(app):
     except AttributeError:
         raise AttributeError("The function get_parking_lot should exist on app.py")
 
-@pytest.mark.it('The function get_parking_lot should return an object with correct values')
+@pytest.mark.it('The function get_parking_lot should return a dictionary with the correct values')
 def test_correct_output(app):
     value1 = [[1,1,1], [0,0,0], [1,1,2]]
     result1 = {'total_slots': 6, 'available_slots': 1, 'occupied_slots': 5}
@@ -17,7 +17,7 @@ def test_correct_output(app):
     except AttributeError:
         raise AttributeError("The function get_parking_lot should exist on app.py")
 
-@pytest.mark.it('The function get_parking_lot should return an object with correct values')
+@pytest.mark.it('The function get_parking_lot should return a dictionary with the correct values. Testing with a different matrix')
 def test_different_values(app):
     value1 = [[1,2,1,0], [0,1,0,2], [1,0,1,1]]
     result1 = {'total_slots': 8, 'available_slots': 2, 'occupied_slots': 6}

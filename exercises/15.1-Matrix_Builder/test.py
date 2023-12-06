@@ -8,9 +8,9 @@ path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 #         regex = re.compile(r"import(\s)+random")
 #         assert bool(regex.search(content)) == True
 
-exp_fn_name = "matrixBuilder"
+exp_fn_name = "matrix_builder"
 
-@pytest.mark.it("You need to print the matrix as output.")
+@pytest.mark.it("You need to print the matrix as output")
 def test_output(capsys):
     import app
     out, err = capsys.readouterr()
@@ -20,12 +20,12 @@ def test_output(capsys):
         (out.endswith("]]") or out.endswith("]]\n"))
     )
 
-@pytest.mark.it("Create the function with the correct name.")
+@pytest.mark.it("Create the function with the correct name")
 def test_function_exists(app):
     if not hasattr(app, exp_fn_name):
         pytest.fail(f"The function {exp_fn_name} should exist on app.py")
 
-@pytest.mark.it("Matrix should only have one's.")
+@pytest.mark.it("Matrix should only have 1s")
 def test_oneness(app):
     if hasattr(app, exp_fn_name):
         fn = getattr(app, exp_fn_name)    
@@ -34,7 +34,7 @@ def test_oneness(app):
             for element in row:
                 assert element == 1
 
-@pytest.mark.it("Your matrix should be simmetrical.")
+@pytest.mark.it("Your matrix should be symmetrical")
 def test_symmetry(app):
     import random
     side = random.randint(2,10) 

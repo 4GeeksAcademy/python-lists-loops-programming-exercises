@@ -1,7 +1,7 @@
 import io, sys, pytest, os, re
 path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
-@pytest.mark.it("Print the list of color in the console")
+@pytest.mark.it("Print the list of sexy colors in the console wrapped in a <li> tag")
 def test_output(capsys, app):
     import app
     captured = capsys.readouterr()

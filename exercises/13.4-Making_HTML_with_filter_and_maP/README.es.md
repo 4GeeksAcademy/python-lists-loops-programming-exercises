@@ -2,13 +2,14 @@
 
 ## 📝 Instrucciones:
 
-1. Crea las funciones `generate_li` y `filter_colors` para hacer que el ejercicio imprima el siguiente HTML solo con colores cuya propiedad sexy sea verdadero.
+1. Crea las funciones `generate_li` y `filter_colors` para hacer que el ejercicio imprima el siguiente HTML solo con colores cuya propiedad `sexy` sea `True`.
 
-## Resultado esperado:
+## 💻 Resultado esperado:
 
 ```py
 ['<li>Red</li>', '<li>Orange</li>', '<li>Pink</li>', '<li>Violet</li>']
-# Rojo - Naranjo - Rosado - Violeta
 ```
 
+## 💡 Pista:
 
++ Probablemente sea buena idea utilizar las funciones `filter()` y `map()`.

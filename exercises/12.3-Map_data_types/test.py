@@ -1,7 +1,7 @@
 import io, sys, pytest, os, re
 path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 
-@pytest.mark.it("Print all data types of the list")
+@pytest.mark.it("Print all data types from the mixed_list")
 def test_multp(capsys, app):
     import app
     captured = capsys.readouterr()

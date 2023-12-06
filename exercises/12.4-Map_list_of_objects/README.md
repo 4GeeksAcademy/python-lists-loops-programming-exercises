@@ -1,26 +1,26 @@
-# `12.4` Map a list of objects
-
-The most common scenario for the mapping function is for simplifying given lists, for example:
-
-The current algorithm creates a list with only the names of the people and prints it on the console.
+# `12.4` Map a list of dictionaries
 
 ## 📝 Instructions:
 
-1. At this time the function is printing the names only. Please update the mapping function so it creates a list where each item contains the following:
+1. At this time, the function `format_greeting` is printing the names only. Please update the mapping function so it creates a list where each item contains the following:
 
-`Hello, my name is Joe and I am 13 years old`
+```py
+'Hello, my name is <name> and I am <age> years old'
+```
 
-## 💡 Hint:
+## 💡 Hints:
 
-+ You have to get the age of each people based on their `birthDate`.
++ You have to get the age of each person based on their `birth_date`.
 
-+ Search in Google "How to get the age of given birth date in python"
++ Take your time to understand the already defined `calculate_age` function.
 
-+ Inside your simplifier function you have to return a concatenation.
++ Search in Google "How to get the age of a given birth date in python".
 
-## Expected result:
++ Inside your `format_greeting` function you have to return a concatenation.
 
-The expected output should look similar but not exactly to this:
+## 💻 Expected result:
+
+The result should be similar to this, but the ages might be different.
 
 ```py
 [ 'Hello, my name is Joe and I am 32 years old',
