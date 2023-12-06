@@ -8,5 +8,5 @@ all_colors = [
 	{"label": 'Purple', "sexy": False},
 ]
 
-#Your code go here:
+# Your code here
 
