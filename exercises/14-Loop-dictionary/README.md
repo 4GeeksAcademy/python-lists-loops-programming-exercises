@@ -5,7 +5,7 @@ The dictionaries allow us to identify each element by a `key`, opposed to lists 
 ```py
 {
     key: value,
-    otherKey: otherValue,
+    other_key: other_value,
     ...
 }
 ```
@@ -13,38 +13,37 @@ The dictionaries allow us to identify each element by a `key`, opposed to lists 
 ### You can think of a dictionary like a list with non-numerical positions:
 
 ```python
-list = ["a","b","c"]
-dictionary = { "one": "a", "two": "b", "three": "c"}
+list = ["a", "b", "c"]
+dictionary = { "one": "a", "two": "b", "three": "c" }
 ```
 
-### How to retrieve dictonary values (very similar to lists):
+### How to retrieve dictionary values (very similar to lists):
 
 ```python
 person = { "name": "Juan", "lastname": "Contreras" }
-print(person["name"]) # Output: "Juan"
+print(person["name"])  # Output: "Juan"
 ```
 
-### How to add new value to dictionary:
+### How to add a new value to the dictionary:
 
 ```python
 person["age"] = 22
-print(person) # Output: { "name": "Juan", "lastname": "Contreras", "age": 22 }
-
+print(person)  # Output: { "name": "Juan", "lastname": "Contreras", "age": 22 }
 ```
 
-### In order to loop a list you can do:
+### In order to loop a dictionary, you can do:
 
 ```python
 spanish_translations = { "dog": "perro", "house": "casa", "cat": "gato" }
 
 for key in spanish_translations:
-    print(key) # <- output: "dog",  "house", "cat"
-    print(spanish_translations[key]) # <- output: "perro",  "casa", "gato"
+    print(key)  # <-- Output: "dog", "house", "cat"
+    print(spanish_translations[key])  # <-- Output: "perro", "casa", "gato"
 ```
 
-## 📝Instructions:
+## 📝 Instructions:
 
-1. Programatically add the following translations to the `spanish_translations` dictionary:
+1. Programmatically add the following translations to the `spanish_translations` dictionary:
 
 ```txt
 love -> amor
@@ -52,7 +51,7 @@ code -> codigo
 smart -> inteligente
 ```
 
-## Expected output:
+## 💻 Expected output:
 
 ```py
 {'dog': 'perro', 'house': 'casa', 'cat': 'gato', 'love': 'amor', 'code': 'codigo', 'smart': 'inteligente'}
