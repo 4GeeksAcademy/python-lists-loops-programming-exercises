@@ -46,7 +46,7 @@ Clone the repository in your local environment and follow the steps below:
 $ npm i @learnpack/learnpack@2.1.20 -g && learnpack plugins:install @learnpack/python@1.0.0
 ```
 
-2. Download these particular exercises using learnpack and `cd` into the folder:
+2. Clone or download this repository in your local environment.
 
 ```bash
 $ git clone https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises.git
