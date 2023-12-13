@@ -44,7 +44,6 @@ Clone the repository in your local environment and follow the steps below:
 
 ```bash
 $ npm i @learnpack/learnpack@2.1.20 -g && learnpack plugins:install @learnpack/python@1.0.0
-$ learnpack plugins:install learnpack-python
 ```
 
 2. Download these particular exercises using learnpack and `cd` into the folder:
