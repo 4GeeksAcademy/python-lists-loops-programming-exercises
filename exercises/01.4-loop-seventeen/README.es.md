@@ -1,4 +1,4 @@
-# `01.5` Loop from 1 to 17
+# `01.4` Loop from 1 to 17
 
 Para iterar un número específico de veces, podemos usar:
 

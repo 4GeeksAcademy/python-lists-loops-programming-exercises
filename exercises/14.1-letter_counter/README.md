@@ -1,4 +1,4 @@
-# `14.2` Letter counter
+# `14.1` Letter counter
 
 ## 📝 Instructions:
 
