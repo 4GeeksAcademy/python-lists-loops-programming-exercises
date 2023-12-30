@@ -11,7 +11,7 @@
 
 !/exercises
 !/exercises/*
-
+exercises/*/__pycache__/
 *.pyc
 
 .pytest_cache/
