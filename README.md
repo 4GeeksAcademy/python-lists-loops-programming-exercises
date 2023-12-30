@@ -40,17 +40,16 @@ You can open these exercises in just a few seconds by clicking: [Open in Codespa
 
 Clone the repository in your local environment and follow the steps below:
 
-1. Install learnpack, the package manager for learning tutorials and the html compiler plugin for learnpack, make sure you also have node.js 14+:
+1. Make sure you have [LearnPack](https://learnpack.co) installed, node.js version 14+, and Python version 3+. This is the command to install LearnPack:
 
 ```bash
-$ npm i learnpack -g
-$ learnpack plugins:install learnpack-python
+$ npm i @learnpack/learnpack@2.1.20 -g && learnpack plugins:install @learnpack/python@1.0.0
 ```
 
-2. Download these particular exercises using learnpack and `cd` into the folder:
+2. Clone or download this repository in your local environment.
 
 ```bash
-$ learnpack download python-lists-loops-programming-exercises
+$ git clone https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises.git
 $ cd python-lists-loops-programming-exercises
 ```
 
@@ -59,7 +58,7 @@ $ cd python-lists-loops-programming-exercises
 3. Start the tutorial/exercises by running the following command at the same level where your learn.json file is:
 
 ```bash
-$ $ pip3 install pytest==4.4.2 pytest-testdox mock
+$ pip3 install pytest==6.2.5 pytest-testdox mock
 $ learnpack start
 ```
 
