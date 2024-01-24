@@ -5,7 +5,7 @@ path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
 def test_dict(capsys, app):
     app()
     captured = capsys.readouterr()
-    assert "fullname : Jane Doe\nphone : 321-321-4321\nemail : test@test.com\n" in captured.out
+    assert "fullname: Jane Doe\nphone: 321-321-4321\nemail: test@test.com\n" in captured.out
 
 @pytest.mark.it("Use the for loop")
 def test_for_loop():
