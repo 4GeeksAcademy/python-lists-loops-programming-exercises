@@ -11,5 +11,5 @@
 ## 💻 Expected result:
 
 ```py
-['Liam', 'William', 'James', 'Benjamin', 'Samuel', 'Camila']
+['Liam', 'William', 'James', 'Benjamin', 'Amelia', 'Samuel', 'Camila']
 ```
