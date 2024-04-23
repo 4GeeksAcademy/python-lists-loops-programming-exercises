@@ -13,4 +13,6 @@ def generate_random_list():
 my_stupid_list = generate_random_list()
 
 # Write your code below this comment, good luck!
-
+print(len(my_stupid_list))
+the_last_one=my_stupid_list[len(my_stupid_list)-1]
+print(the_last_one)
