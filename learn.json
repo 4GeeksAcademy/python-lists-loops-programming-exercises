@@ -1,31 +1,34 @@
 {
-    "language": "python3",
-    "slug": "python-lists-loops",
-    "title": {
-        "us": "Learn Python Loops and lists Interactively",
-        "es": "Aprende listas y bucles de Python Interactivamente"
-    },
-    "repository": "https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises",
-    "preview": "https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises/blob/master/preview.gif?raw=true",
-    "description": {
-        "us": "Practice Python Lists and tuples (arrays) with interactive auto-graded exercises and video solutions",
-        "es": "Practica listas y tuplas de Python con ejercicios interactivos, auto-evaluados y con video soluiones"
-    },
-    "duration": 10,
-    "difficulty": "easy",
-    "projectType": "tutorial",
-    "videoSolutions": true,
-    "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
-   
-    "editor": {
-        "version": "3.1.23"
-    },
-    "video": {
-        "intro": {
-            "es": "https://www.youtube.com/watch?v=xMg9d0KsYAk",
-            "en": "https://www.youtube.com/watch?v=xMg9d0KsYAk"
-        }
-    }
+"language": "python3",
+"slug": "python-lists-loops",
+"title": {
+    "us": "Learn Python Loops and lists Interactively",
+    "es": "Aprende listas y bucles de Python Interactivamente"
+},
+"repository": "https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises",
+"preview": "https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises/blob/master/preview.gif?raw=true",
+"description": {
+    "us": "Practice Python Lists and tuples (arrays) with interactive auto-graded exercises and video solutions",
+    "es": "Practica listas y tuplas de Python con ejercicios interactivos, auto-evaluados y con video soluiones"
+},
+"duration": 10,
+"difficulty": "easy",
+"projectType": "tutorial",
+"videoSolutions": true,
+"bugsLink": "https://github.com/learnpack/learnpack/issues/new",
 
-    
+"editor": {
+    "version": "3.1.36"
+},
+"telemetry": {
+    "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry"
+},
+"video": {
+    "intro": {
+        "es": "https://www.youtube.com/watch?v=xMg9d0KsYAk",
+        "en": "https://www.youtube.com/watch?v=xMg9d0KsYAk"
+    }
+}
+
+
 }
