@@ -8,3 +8,8 @@ incoming_ajax_data = [
 
 # Your code here
 
+def data_transformer(lista):
+
+    lista(map())
+
+    return lista

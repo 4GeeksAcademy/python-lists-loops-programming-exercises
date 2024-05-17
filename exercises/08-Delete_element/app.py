@@ -2,7 +2,9 @@ people = ['juan','ana','michelle','daniella','stefany','lucy','barak']
 
 def delete_person(person_name):
     # Your code here
-    
+    if person_name in people:
+        people.remove(person_name)
+        print(people)
 
     
 # Don't delete anything below
