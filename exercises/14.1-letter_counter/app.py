@@ -3,6 +3,19 @@ par = "Lorem ipsum dolor sit amet consectetur adipiscing elit Curabitur eget bib
 counts = {}
 
 # Your code here
-
+for letter in par:
+    if letter != ' ':
+        letter= letter.lower()
+        if letter in counts:
+            counts[letter] += 1
+        else:
+            counts[letter] = 1
 
 print(counts)
+
+# Another way to do:
+
+# import collections
+
+# counts = collections.Counter(letter.lower() for letter in par if letter != ' ')
+# print(counts)

@@ -9,6 +9,11 @@ tasks = [
 	{ "label": 'Make a trip', "done": False }
 ]
 
-
 # Your code here
 
+def filter_function(task):
+    return task["done"]
+
+done_task = list(filter(filter_function, tasks))
+
+print(done_task)
