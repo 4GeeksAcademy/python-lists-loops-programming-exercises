@@ -11,4 +11,8 @@ tasks = [
 
 
 # Your code here
+def filter_function(task):
+    return task["done"] == True
 
+completed_tasks = list(filter(filter_function,tasks))
+print (completed_tasks)
