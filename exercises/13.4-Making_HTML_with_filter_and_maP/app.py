@@ -9,4 +9,11 @@ all_colors = [
 ]
 
 # Your code here
+def generate_li(color):
+    return f"<li>{color['label']}</li>"
 
+def filter_colors(color):
+    return color['sexy'] == True
+
+filtered_colors = list(filter(filter_colors, all_colors))
+print(list(map(generate_li,filtered_colors)))

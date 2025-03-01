@@ -3,6 +3,13 @@ par = "Lorem ipsum dolor sit amet consectetur adipiscing elit Curabitur eget bib
 counts = {}
 
 # Your code here
-
-
+hello = "Hello World"
+for letter in par:
+    if(letter != " "):
+        letter = letter.lower()
+        if letter in counts:
+            counts[letter] += 1
+        elif letter not in counts:
+            counts[letter] = 1
+    
 print(counts)
