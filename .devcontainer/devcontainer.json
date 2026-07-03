@@ -8,13 +8,12 @@
 	"features": {
 		"ghcr.io/devcontainers/features/node:1": {
 			"nodeGypDependencies": true,
-			"version": "latest"
-		}
-	,
-        "ghcr.io/devcontainers/features/sshd:1": {
+			"version": "22"
+		},
+		"ghcr.io/devcontainers/features/sshd:1": {
         "version": "latest"
-    }
-    },
+		}
+	},
 	"customizations": {
 		"vscode": {
 			"settings": {
@@ -26,9 +25,7 @@
 			"extensions": ["learn-pack.learnpack-vscode"]
 		}
 	},
-	"onCreateCommand": "pip3 install pytest==6.2.5 pytest-testdox mock && npm i @learnpack/learnpack@5.0.348 -g && learnpack plugins:install @learnpack/python@1.0.6",
-
-
+	"onCreateCommand": "pip3 install pytest==6.2.5 pytest-testdox mock && npm i @learnpack/learnpack@5.0.348 -g && learnpack plugins:install @learnpack/python@1.0.6"
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
 
@@ -41,4 +38,3 @@
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
 }
-
