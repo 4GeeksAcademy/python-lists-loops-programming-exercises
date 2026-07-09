@@ -5,3 +5,6 @@ my_list = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'sa
 # 2. Change the value of 'thursday' to None
 
 # 3. Print that position now here
+print(my_list[2])
+my_list[4] = None
+print(my_list[4])
