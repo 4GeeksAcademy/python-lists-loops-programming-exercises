@@ -11,4 +11,10 @@ tasks = [
 
 
 # Your code here
+def getfinishedTasksOnly(task):
+    if task["done"] == True :
+        return task
+
+finishedTasks = list(filter(getfinishedTasksOnly,tasks)) 
+print(finishedTasks)
 
