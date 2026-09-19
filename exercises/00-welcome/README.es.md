@@ -1,4 +1,4 @@
-# Welcome to Python Lists!
+# ¡Bienvenid@ a las listas de Python!
 
 En este curso aprenderás los siguientes conceptos:
 
