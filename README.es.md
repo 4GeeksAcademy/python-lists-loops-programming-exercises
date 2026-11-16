@@ -15,6 +15,23 @@ Las listas y los bucles son uno de los temas más desafiantes de comprender al a
 
 Estos ejercicios son colaborativos, ¡te necesitamos! Si encuentras algún error o falta de ortografía, por favor contribuye y repórtalo.
 
+## 🗺️ Ruta de práctica de Python
+
+Este LearnPack forma parte de una serie. Te recomendamos completarlos en orden:
+
+| # | LearnPack | Qué practicas |
+| - | --------- | ------------- |
+| 1 | [Python para principiantes](https://github.com/4GeeksAcademy/python-beginner-programming-exercises/blob/master/README.es.md) | print, variables, input y operaciones básicas |
+| 2 | [Funciones en Python](https://github.com/4GeeksAcademy/python-functions-programming-exercises/blob/master/README.es.md) | definir y llamar funciones, parámetros y return |
+| 3 | **Listas y bucles en Python** (📍 estás aquí) | listas, bucles for/while y patrones de iteración |
+| 4 | [Master Python: Funciones y números](https://github.com/4GeeksAcademy/master-python-functions-exercises/blob/main/README.es.md) | funciones, operadores aritméticos, el módulo math, condicionales y bucles simples |
+| 5 | [Master Python: Strings y colecciones](https://github.com/4GeeksAcademy/master-python-collections-exercises/blob/main/README.es.md) | strings, listas, tuplas, diccionarios, sets, comprehensions y ordenamiento |
+| 6 | [Master Python: Clases y POO](https://github.com/4GeeksAcademy/master-python-classes-exercises/blob/main/README.es.md) | clases, métodos especiales, herencia, propiedades, composición, dataclasses e iteradores |
+
+⬅️ **Anterior:** [Funciones en Python](https://github.com/4GeeksAcademy/python-functions-programming-exercises)
+
+➡️ **Siguiente:** [Master Python: Funciones y números](https://github.com/4GeeksAcademy/master-python-functions-exercises)
+
 <!-- hide -->
 
 ## Instalación en un clic (recomendado)
