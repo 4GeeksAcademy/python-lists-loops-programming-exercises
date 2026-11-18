@@ -2,8 +2,11 @@ all_names = ["Romario", "Boby", "Roosevelt", "Emiliy", "Michael", "Greta", "Patr
 
 # Your code here
 
-print(resulting_names)
+def resulting_names(name):
+    return name[0] == 'R'
 
+
+print(list(filter(resulting_names, all_names)))
 
 
 
