@@ -14,7 +14,7 @@ Estás trabajando con un DJ que necesita un programa que pueda crear ritmos para
 
 3. Por cada `1` añade el string `Drop the bass`.
 
-4. **Adicionalmente**, Si encuentras un `1` tres veces seguidas, también debes añadir el string `!!!Break the bass!!!`
+4. **Adicionalmente**, si encuentras un `1` tres veces seguidas, también debes añadir el string `!!!Break the bass!!!`
 
 ## 💡 Pistas:
 
