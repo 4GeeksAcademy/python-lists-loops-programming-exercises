@@ -4,5 +4,14 @@ counts = {}
 
 # Your code here
 
+for charac in par :
+    charac = charac.lower()
+    if charac == ' ':
+        continue
+    if charac in counts:
+        counts[charac] += 1
+    else:
+        counts[charac] = 1
+
 
 print(counts)
